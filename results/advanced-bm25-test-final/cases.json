@@ -1,0 +1,152 @@
+[
+  {
+    "id": "WDR-T01",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T02",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T03",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T04",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T05",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T06",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T07",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T08",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T09",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T10",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T11",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T12",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T13",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T14",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T15",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T16",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T17",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T18",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T19",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T20",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T21",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T22",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T23",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T24",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "WDR-T25",
+    "split": "test",
+    "answerable": false
+  },
+  {
+    "id": "WDR-T26",
+    "split": "test",
+    "answerable": false
+  },
+  {
+    "id": "WDR-T27",
+    "split": "test",
+    "answerable": false
+  },
+  {
+    "id": "WDR-T28",
+    "split": "test",
+    "answerable": false
+  },
+  {
+    "id": "WDR-T29",
+    "split": "test",
+    "answerable": false
+  },
+  {
+    "id": "WDR-T30",
+    "split": "test",
+    "answerable": false
+  }
+]

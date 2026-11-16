@@ -1,0 +1,87 @@
+[
+  {
+    "id": "SH001",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "SH002",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "SH003",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "SH004",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "SH005",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "SH006",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "SH007",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "SH008",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "SH009",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "SH010",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "SH011",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "SH012",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "SH013",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "SH014",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "SH015",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "D7U001",
+    "split": "dev",
+    "answerable": false
+  },
+  {
+    "id": "D7U002",
+    "split": "dev",
+    "answerable": false
+  }
+]

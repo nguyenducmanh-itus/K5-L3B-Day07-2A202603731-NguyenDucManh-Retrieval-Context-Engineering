@@ -1,0 +1,40 @@
+{
+  "tfidf": {
+    "split": "dev",
+    "n": 15,
+    "hit_at_1": {
+      "n": 6,
+      "N": 15
+    },
+    "evidence_hit_at_3": {
+      "n": 9,
+      "N": 15
+    },
+    "context_evidence_rate": {
+      "n": 9,
+      "N": 15
+    },
+    "mean_context_chars": 3713.9333333333334,
+    "median_elapsed_ms": 7.150199999159668,
+    "service_cost_usd": 0
+  },
+  "bm25": {
+    "split": "dev",
+    "n": 15,
+    "hit_at_1": {
+      "n": 8,
+      "N": 15
+    },
+    "evidence_hit_at_3": {
+      "n": 11,
+      "N": 15
+    },
+    "context_evidence_rate": {
+      "n": 12,
+      "N": 15
+    },
+    "mean_context_chars": 3813.8,
+    "median_elapsed_ms": 8.149400000547757,
+    "service_cost_usd": 0
+  }
+}

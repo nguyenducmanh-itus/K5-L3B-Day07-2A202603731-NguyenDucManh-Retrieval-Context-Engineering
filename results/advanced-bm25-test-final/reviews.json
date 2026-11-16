@@ -1,0 +1,537 @@
+[
+  {
+    "id": "WDR-T01",
+    "primary_group": "table",
+    "answerable": true,
+    "pass": true,
+    "reason": "30 percent; Table 2.2 row and low-income column are correctly cited on PDF p.84.",
+    "gold_pages": [
+      "84"
+    ],
+    "cited_pages": [
+      "84"
+    ],
+    "status": "answered",
+    "elapsed_ms": 2088.8676999966265,
+    "cost_usd": 0.00060837,
+    "answer": "In Table 2.2, 30 percent of low-income-country national statistical offices (NSOs) use an advance release calendar. [wdr21-p084-c00]",
+    "error": null
+  },
+  {
+    "id": "WDR-T02",
+    "primary_group": "table",
+    "answerable": true,
+    "pass": true,
+    "reason": "86 matches the high-income row and e-commerce/e-transactions column on PDF p.227.",
+    "gold_pages": [
+      "227"
+    ],
+    "cited_pages": [
+      "227"
+    ],
+    "status": "answered",
+    "elapsed_ms": 1981.101099998341,
+    "cost_usd": 0.00052092,
+    "answer": "In Table 6.1, the high-income average score for e-commerce and e-transactions is 86 (out of 100), the highest among the listed elements for that income group. [wdr21-p227-c00]",
+    "error": null
+  },
+  {
+    "id": "WDR-T03",
+    "primary_group": "table",
+    "answerable": true,
+    "pass": true,
+    "reason": "Correct first recommendation for both safeguard and enabler columns; Table 6.2, PDF p.229.",
+    "gold_pages": [
+      "229"
+    ],
+    "cited_pages": [
+      "229"
+    ],
+    "status": "answered",
+    "elapsed_ms": 1801.2917000014568,
+    "cost_usd": 0.00060057,
+    "answer": "At the 'Establishing fundamentals' stage in Table 6.2, the first recommended action for safeguards is to conduct a baseline needs assessment (the same first action is also recommended for enablers). [wdr21-p229-c00]",
+    "error": null
+  },
+  {
+    "id": "WDR-T04",
+    "primary_group": "table",
+    "answerable": true,
+    "pass": true,
+    "reason": "All three Store actions are named correctly and Table 8.1 is cited on PDF p.288.",
+    "gold_pages": [
+      "288"
+    ],
+    "cited_pages": [
+      "288"
+    ],
+    "status": "answered",
+    "elapsed_ms": 1942.6059000034002,
+    "cost_usd": 0.00059187,
+    "answer": "According to Table 8.1, data-management actions for the Store stage include: encrypt data; use secure servers; and back up and archive data. [wdr21-p288-c00]",
+    "error": null
+  },
+  {
+    "id": "WDR-T05",
+    "primary_group": "table",
+    "answerable": true,
+    "pass": true,
+    "reason": "Centralized and decentralized arrangements are both correctly described from Table 8.2, PDF p.292.",
+    "gold_pages": [
+      "292"
+    ],
+    "cited_pages": [
+      "292"
+    ],
+    "status": "answered",
+    "elapsed_ms": 1779.0107999971951,
+    "cost_usd": 0.00061557,
+    "answer": "Table 8.2 lists two approaches under the data-governance arrangement for strategic planning: (1) a centralized approach—a data governance agency/unit embedded in an existing institution (such as the national statistical office or digital economy ministry); and (2) a decentralized approach—data governance units and responsibilities embedded across government. [wdr21-p292-c00]",
+    "error": null
+  },
+  {
+    "id": "WDR-T06",
+    "primary_group": "table",
+    "answerable": true,
+    "pass": true,
+    "reason": "Purpose and objective of data trusts are accurate and cited to Table 8.3, PDF p.298.",
+    "gold_pages": [
+      "298"
+    ],
+    "cited_pages": [
+      "298"
+    ],
+    "status": "answered",
+    "elapsed_ms": 2073.1814000027953,
+    "cost_usd": 0.00066117,
+    "answer": "In Table 8.3, data trusts are listed with the purpose \"Enable trusted sharing and use of sensitive data through enhanced accountability mechanisms,\" with the objective of facilitating sharing of sensitive data and providing collective bargaining power to individuals. [wdr21-p298-c00]",
+    "error": null
+  },
+  {
+    "id": "WDR-T07",
+    "primary_group": "image_diagram",
+    "answerable": true,
+    "pass": true,
+    "reason": "The original map note says the solid black rectangles represent cholera deaths; visual inspected on PDF p.47.",
+    "gold_pages": [
+      "47"
+    ],
+    "cited_pages": [
+      "47"
+    ],
+    "status": "answered",
+    "elapsed_ms": 1729.8780999990413,
+    "cost_usd": 0.00065322,
+    "answer": "On John Snow's map (Map 1.1) of the 1854 London cholera epidemic, the solid black rectangles of various sizes represent deaths from cholera. [wdr21-p047-c00]",
+    "error": null
+  },
+  {
+    "id": "WDR-T08",
+    "primary_group": "image_diagram",
+    "answerable": true,
+    "pass": true,
+    "reason": "Map 2.1 caption and adjacent explanation support targeting antipoverty funds; required map page p.77 is cited.",
+    "gold_pages": [
+      "77"
+    ],
+    "cited_pages": [
+      "10",
+      "77"
+    ],
+    "status": "answered",
+    "elapsed_ms": 1921.851399994921,
+    "cost_usd": 0.00063792,
+    "answer": "The caption of Map 2.1 identifies the practical use of the Croatia poverty map as targeting antipoverty funds—specifically, mapping pockets of poverty in Croatia allowed better targeting of antipoverty funds. [wdr21-p077-c00] [wdr21-p010-c00]",
+    "error": null
+  },
+  {
+    "id": "WDR-T09",
+    "primary_group": "image_diagram",
+    "answerable": true,
+    "pass": true,
+    "reason": "Map 2.2 caption and map page support greater bike-path safety; visually inspected on PDF p.79.",
+    "gold_pages": [
+      "79"
+    ],
+    "cited_pages": [
+      "79"
+    ],
+    "status": "answered",
+    "elapsed_ms": 2078.4829999975045,
+    "cost_usd": 0.00059172,
+    "answer": "Map 2.2 is titled \"Improving public safety: The use of citizen-collected data in Bogotá led to greater safety around bike paths.\" The biking community helped collect images along 230 kilometers of bike paths, which Safetipin analyzed; this analysis supported authorities in understanding where to improve lighting and add closed-circuit TV cameras. [wdr21-p079-c00]",
+    "error": null
+  },
+  {
+    "id": "WDR-T10",
+    "primary_group": "image_diagram",
+    "answerable": true,
+    "pass": true,
+    "reason": "Figure 1.3 legend correctly maps green to positive and red to negative impacts; PDF p.54.",
+    "gold_pages": [
+      "54"
+    ],
+    "cited_pages": [
+      "54"
+    ],
+    "status": "answered",
+    "elapsed_ms": 2278.6911000002874,
+    "cost_usd": 0.00058932,
+    "answer": "In Figure 1.3, the legend distinguishes impacts by color: positive impacts are shown in green, and negative impacts are shown in red. [wdr21-p054-c00]",
+    "error": null
+  },
+  {
+    "id": "WDR-T11",
+    "primary_group": "image_diagram",
+    "answerable": true,
+    "pass": true,
+    "reason": "Figure 1.4 explicitly gives national and international levels; PDF p.59.",
+    "gold_pages": [
+      "59"
+    ],
+    "cited_pages": [
+      "59"
+    ],
+    "status": "answered",
+    "elapsed_ms": 1823.0330999940634,
+    "cost_usd": 0.00055362,
+    "answer": "Figure 1.4 organizes the data-governance layers at two levels: national and international. [wdr21-p059-c00]",
+    "error": null
+  },
+  {
+    "id": "WDR-T12",
+    "primary_group": "chart",
+    "answerable": true,
+    "pass": true,
+    "reason": "Figure 1.1 supports the 1-in-10 to 9-in-10 trend; the added recent-decade percentages are visible in its chart on PDF p.46.",
+    "gold_pages": [
+      "46"
+    ],
+    "cited_pages": [
+      "46"
+    ],
+    "status": "answered",
+    "elapsed_ms": 1855.5227999968338,
+    "cost_usd": 0.00055902,
+    "answer": "Figure 1.1 shows that the share of people counted in a census rose from about 1 in 10 in 1850 to about 9 in 10 today (from roughly 11% enumerated in 1850 to 88–94% in recent decades). [wdr21-p046-c00][wdr21-p046-c01]",
+    "error": null
+  },
+  {
+    "id": "WDR-T13",
+    "primary_group": "chart",
+    "answerable": true,
+    "pass": true,
+    "reason": "Figure 2.4 caption answers the comparison and the cited PDF p.82 provides the numeric context.",
+    "gold_pages": [
+      "83"
+    ],
+    "cited_pages": [
+      "82",
+      "83"
+    ],
+    "status": "answered",
+    "elapsed_ms": 2375.8252000043285,
+    "cost_usd": 0.00068052,
+    "answer": "Figure 2.4's caption states that lower-income countries, especially those affected by fragility and conflict, have less comparable poverty data than other country groups [wdr21-p083-c00]. The related text reports that only 40 percent of low-income countries, 20 percent of countries in fragile and conflict-affected situations (FCS), and 40 percent of countries in Sub-Saharan Africa have at least three comparable estimates of extreme poverty [wdr21-p082-c00].",
+    "error": null
+  },
+  {
+    "id": "WDR-T14",
+    "primary_group": "chart",
+    "answerable": true,
+    "pass": true,
+    "reason": "The figure caption and plotted values support the finding that most plans are not fully funded; PDF p.86.",
+    "gold_pages": [
+      "86"
+    ],
+    "cited_pages": [
+      "86"
+    ],
+    "status": "answered",
+    "elapsed_ms": 2502.460000003339,
+    "cost_usd": 0.00068772,
+    "answer": "The caption of figure 2.7 states that most countries do not fully fund their national statistical plans, with only about half of countries having a fully funded plan in 2019; it notes that a fully funded national statistical plan under implementation is Sustainable Development Goal indicator 17.18.3. [wdr21-p086-c00][wdr21-p086-c01]",
+    "error": null
+  },
+  {
+    "id": "WDR-T15",
+    "primary_group": "chart",
+    "answerable": true,
+    "pass": true,
+    "reason": "Figure 2.9 caption and plotted correlations support the stated positive relationships; PDF pp.89-90.",
+    "gold_pages": [
+      "89"
+    ],
+    "cited_pages": [
+      "52",
+      "89",
+      "90"
+    ],
+    "status": "answered",
+    "elapsed_ms": 2904.5704000018304,
+    "cost_usd": 0.00071502,
+    "answer": "Figure 2.9 shows that greater NSO independence and greater freedom of the press are both positively correlated with better statistical performance. Panel a shows NSO independence and statistical performance (R² = 0.22), and panel b shows freedom of the press and statistical performance (R² = 0.23). A higher NSO independence score is highly correlated with statistical performance as captured by the World Bank's SPI, and greater press freedom, as measured by the World Press Freedom Index, is highly correlated with statistical performance as well as with statistical independence, regardless of a country's size or income level. Note that the World Press Freedom Index ranges from 100 to 0, with lower values implying greater press freedom; panel a covers only African countries, while panel b covers all countries with data available. [wdr21-p089-c00] [wdr21-p089-c01] [wdr21-p090-c00] [wdr21-p052-c02]",
+    "error": null
+  },
+  {
+    "id": "WDR-T16",
+    "primary_group": "chart",
+    "answerable": true,
+    "pass": true,
+    "reason": "Figure 7.4 supports exponential growth and about half of services trade; PDF p.258.",
+    "gold_pages": [
+      "258"
+    ],
+    "cited_pages": [
+      "34",
+      "258"
+    ],
+    "status": "answered",
+    "elapsed_ms": 2191.4752000011504,
+    "cost_usd": 0.00067302,
+    "answer": "According to Figure 7.4, data-driven services have increased from about one-quarter to almost half of total service exports—that is, roughly half of trade in services. [wdr21-p258-c00][wdr21-p258-c01][wdr21-p034-c01]",
+    "error": null
+  },
+  {
+    "id": "WDR-T17",
+    "primary_group": "multi_hop",
+    "answerable": true,
+    "pass": true,
+    "reason": "Combines a positive pathway from Figure 1.3 and the two policy levels from Figure 1.4; both required pages are cited.",
+    "gold_pages": [
+      "54",
+      "59"
+    ],
+    "cited_pages": [
+      "53",
+      "54",
+      "59"
+    ],
+    "status": "answered",
+    "elapsed_ms": 2509.1410000022734,
+    "cost_usd": 0.00056607,
+    "answer": "From Figure 1.3, one positive data pathway is the bottom pathway: data generated by private firms, where data serve as a factor of production that fuels business opportunities and economic growth (positive impacts shown in green). Figure 1.4 organizes relevant policy at both national and international levels, comprising the layers of infrastructure policies, laws and regulations, economic policies, and institutions. [wdr21-p054-c00] [wdr21-p053-c00] [wdr21-p059-c00]",
+    "error": null
+  },
+  {
+    "id": "WDR-T18",
+    "primary_group": "multi_hop",
+    "answerable": true,
+    "pass": true,
+    "reason": "The Croatia map passage supports targeted EU funds; Table 2.2 supports 30% advance-calendar and 63% metadata values; pp.76-77,84 cited.",
+    "gold_pages": [
+      "77",
+      "84"
+    ],
+    "cited_pages": [
+      "76",
+      "77",
+      "84"
+    ],
+    "status": "answered",
+    "elapsed_ms": 2745.2265999963856,
+    "cost_usd": 0.00073227,
+    "answer": "Granular poverty maps matter because, when public intent data are tied to specific locations, they can help target resources and foster inclusion. In Croatia, census data combined with household survey and administrative data created detailed poverty and deprivation maps that revealed large differences in living standards across municipalities and within the territorial boundaries used for allocating EU funds. Since EU funding depends on an area's GDP per capita, poor municipalities in non-poor regions could be missed; armed with the poverty map, Croatia proposed new geographical subdivisions concentrating EU funds in the poorest areas, potentially reducing inequality and pockets of poverty. Regarding Table 2.2, one low-income NSO dissemination practice value: in low-income countries, 30 percent of NSOs use an advance release calendar (versus almost all high-income countries), and 63 percent make metadata available—so metadata availability is a comparatively stronger low-income practice (63 percent) than advance release calendars (30 percent). [wdr21-p076-c00] [wdr21-p077-c00] [wdr21-p084-c00] [wdr21-p084-c01]",
+    "error": null
+  },
+  {
+    "id": "WDR-T19",
+    "primary_group": "multi_hop",
+    "answerable": true,
+    "pass": false,
+    "reason": "Abstained despite answerable evidence: Figure 7.4 on PDF p.258 and Figure 7.6 on p.268 support both parts.",
+    "gold_pages": [
+      "258",
+      "268"
+    ],
+    "cited_pages": [],
+    "status": "abstain",
+    "elapsed_ms": 4540.653299998667,
+    "cost_usd": 0.00076913,
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "error": null
+  },
+  {
+    "id": "WDR-T20",
+    "primary_group": "multi_hop",
+    "answerable": true,
+    "pass": true,
+    "reason": "Correct preservation action and centralized-approach example are supported by Tables 8.1/8.2; PDF pp.288,292 cited.",
+    "gold_pages": [
+      "288",
+      "292"
+    ],
+    "cited_pages": [
+      "288",
+      "292"
+    ],
+    "status": "answered",
+    "elapsed_ms": 3235.545600000478,
+    "cost_usd": 0.00073712,
+    "answer": "From Table 8.1, one data-preservation action is 'Classify and catalog data systematically so they can be found easily' (under Archive and preserve), alongside including data dictionaries and maintaining access, security, and integrity over time. From Table 8.2, one institution type involved in data-governance arrangements is a national statistical office (NSO), cited as an example of a centralized approach where a data governance agency/unit is embedded in an existing institution such as the NSO or a digital economy ministry [wdr21-p288-c00] [wdr21-p292-c00].",
+    "error": null
+  },
+  {
+    "id": "WDR-T21",
+    "primary_group": "text",
+    "answerable": true,
+    "pass": true,
+    "reason": "All requested administrative-data examples are correctly summarized from Box 2.1; PDF p.75 cited.",
+    "gold_pages": [
+      "75"
+    ],
+    "cited_pages": [
+      "48",
+      "75"
+    ],
+    "status": "answered",
+    "elapsed_ms": 2371.7178000006243,
+    "cost_usd": 0.00067677,
+    "answer": "The report gives examples of administrative data such as birth, marriage, and death records; data from identification systems; population, health, education, and tax records; and trade flow data. It also includes data used by governments to run projects, programs, and services, and notes new types of administrative data, such as education and health inspectors using smartphone apps to channel data to a central register [wdr21-p075-c01]. Table 1.1 lists administrative records as an example of public intent data collected through traditional methods [wdr21-p048-c00].",
+    "error": null
+  },
+  {
+    "id": "WDR-T22",
+    "primary_group": "text",
+    "answerable": true,
+    "pass": true,
+    "reason": "Representativeness and inferential-analytics format are both stated in the cited discussion; PDF pp.47-48.",
+    "gold_pages": [
+      "48"
+    ],
+    "cited_pages": [
+      "47",
+      "48"
+    ],
+    "status": "answered",
+    "elapsed_ms": 2819.1606999971555,
+    "cost_usd": 0.00070242,
+    "answer": "The report says traditional public-intent data are collected via methods like censuses and surveys, which governments design for public purposes and to inform policy making, and that they tend to be collected purposefully with a view toward representativeness. It notes that data collected for public policy purposes are almost always designed to represent the relevant current population (individuals, firms, health facilities, students, schools), though survey designers face representativeness challenges in both coverage (e.g., underrepresentation of slum inhabitants, top earners, informal enterprises) and timeliness (delays in data processing). It adds that because traditional public-data collection is relatively costly, surveys are conducted infrequently and often lack the granularity needed for meaningful inferences about subpopulations of interest; nonetheless, traditional public-intent data offer important advantages, including their format, which makes them amenable to inferential analytics by researchers and government officials. [wdr21-p047-c00][wdr21-p048-c01]",
+    "error": null
+  },
+  {
+    "id": "WDR-T23",
+    "primary_group": "text",
+    "answerable": true,
+    "pass": true,
+    "reason": "All listed safeguards and purposes match the paragraph; primary evidence page PDF p.79 is cited.",
+    "gold_pages": [
+      "79"
+    ],
+    "cited_pages": [
+      "43",
+      "79",
+      "211",
+      "350"
+    ],
+    "status": "answered",
+    "elapsed_ms": 2874.4472000034875,
+    "cost_usd": 0.00068232,
+    "answer": "The report states that to avoid data being harmful, certain prerequisites must be put in place—notably robust data protection laws, independent oversight, and legal and technological solutions to safeguard the confidentiality of individuals and prevent misuse of data [wdr21-p079-c00]. More broadly, it calls for developing a trust environment that safeguards against harmful misuse of data as they are exchanged between parties, supported by a strong data governance framework of appropriate policies, laws, regulations, and institutions [wdr21-p043-c00]. It also describes safeguards as the trust environment around data collection and use, including supporting individuals' agency to exercise control over how their personal data are used, through mechanisms such as consent and rights, alongside regulatory predictability, data openness, and portability [wdr21-p211-c00]. The report's overall aim is a new social contract that fosters trust that data will not be misused in harmful ways [wdr21-p350-c00].",
+    "error": null
+  },
+  {
+    "id": "WDR-T24",
+    "primary_group": "text",
+    "answerable": true,
+    "pass": true,
+    "reason": "Alignment and implementation steps are accurately stated from Figure 8.2 discussion; PDF p.290 cited.",
+    "gold_pages": [
+      "290"
+    ],
+    "cited_pages": [
+      "228",
+      "290",
+      "330"
+    ],
+    "status": "answered",
+    "elapsed_ms": 3325.563599995803,
+    "cost_usd": 0.00069995,
+    "answer": "According to the report, the first step at the country level is to develop a national data strategy in line with the country's priorities; to facilitate implementation, strategies should be devolved into action plans with clear targets and should identify institutional arrangements, mapping governance functions to existing or new institutions [wdr21-p290-c00]. The strategy's overall framework should be aligned with the country's policy orientation, data culture, and social contract on data [wdr21-p228-c01]. It should be a transparent, collaborative process including stakeholders from across government, civil society, academia, and the private sector, and implementation should be overseen by a government unit charged with overseeing and reporting on the national data strategy [wdr21-p330-c01].",
+    "error": null
+  },
+  {
+    "id": "WDR-T25",
+    "primary_group": "unanswerable",
+    "answerable": false,
+    "pass": true,
+    "reason": "Correct abstention; exact 2025 DeepSeek market-share claim is absent from the 2021 report.",
+    "gold_pages": [],
+    "cited_pages": [],
+    "status": "abstain",
+    "elapsed_ms": 3610.8420999953523,
+    "cost_usd": 0.00067757,
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "error": null
+  },
+  {
+    "id": "WDR-T26",
+    "primary_group": "unanswerable",
+    "answerable": false,
+    "pass": true,
+    "reason": "Correct abstention; occupation-specific Vietnam salary claim is not reported.",
+    "gold_pages": [],
+    "cited_pages": [],
+    "status": "abstain",
+    "elapsed_ms": 1775.6226000055904,
+    "cost_usd": 0.00070047,
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "error": null
+  },
+  {
+    "id": "WDR-T27",
+    "primary_group": "unanswerable",
+    "answerable": false,
+    "pass": true,
+    "reason": "Correct abstention; exact Facebook account count for Vietnam is not reported.",
+    "gold_pages": [],
+    "cited_pages": [],
+    "status": "abstain",
+    "elapsed_ms": 2382.931300002383,
+    "cost_usd": 0.00071262,
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "error": null
+  },
+  {
+    "id": "WDR-T28",
+    "primary_group": "unanswerable",
+    "answerable": false,
+    "pass": true,
+    "reason": "Correct abstention; the report provides no exact global 2020 ransomware-payment total.",
+    "gold_pages": [],
+    "cited_pages": [],
+    "status": "abstain",
+    "elapsed_ms": 4226.762300000701,
+    "cost_usd": 0.00078158,
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "error": null
+  },
+  {
+    "id": "WDR-T29",
+    "primary_group": "unanswerable",
+    "answerable": false,
+    "pass": true,
+    "reason": "Correct abstention; Vietnam government data-scientist employment count is not reported.",
+    "gold_pages": [],
+    "cited_pages": [],
+    "status": "abstain",
+    "elapsed_ms": 1360.4104000041843,
+    "cost_usd": 0.00063792,
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "error": null
+  },
+  {
+    "id": "WDR-T30",
+    "primary_group": "unanswerable",
+    "answerable": false,
+    "pass": true,
+    "reason": "Correct abstention; the report predates DeepSeek and has no 2025 revenue evidence.",
+    "gold_pages": [],
+    "cited_pages": [],
+    "status": "abstain",
+    "elapsed_ms": 1551.25009999756,
+    "cost_usd": 0.00044322,
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "error": null
+  }
+]

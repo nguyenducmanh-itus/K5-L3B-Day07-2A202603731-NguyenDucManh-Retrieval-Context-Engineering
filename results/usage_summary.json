@@ -1,0 +1,135 @@
+{
+  "model": "deepseek-flash",
+  "price_basis": "DeepSeek listed off-peak rates on 2026-11-16",
+  "rates_usd_per_1m_tokens": {
+    "cache_hit": 0.003,
+    "cache_miss": 0.15,
+    "output": 0.6
+  },
+  "runs": {
+    "agent-bm25-dev": {
+      "requests": 36,
+      "prompt_tokens": 31144,
+      "cache_hit_tokens": 8704,
+      "cache_miss_tokens": 22440,
+      "completion_tokens": 2144,
+      "total_tokens": 33288,
+      "elapsed_ms": 36907.52159999829,
+      "elapsed_seconds": 36.91,
+      "estimated_cost_usd": 0.0046785
+    },
+    "agent-bm25-dev-audited": {
+      "requests": 36,
+      "prompt_tokens": 31181,
+      "cache_hit_tokens": 21103,
+      "cache_miss_tokens": 10078,
+      "completion_tokens": 2220,
+      "total_tokens": 33401,
+      "elapsed_ms": 37179.80179999722,
+      "elapsed_seconds": 37.18,
+      "estimated_cost_usd": 0.002907
+    },
+    "agent-bm25-dev-final": {
+      "requests": 36,
+      "prompt_tokens": 31724,
+      "cache_hit_tokens": 21861,
+      "cache_miss_tokens": 9863,
+      "completion_tokens": 2075,
+      "total_tokens": 33799,
+      "elapsed_ms": 35941.210600001796,
+      "elapsed_seconds": 35.94,
+      "estimated_cost_usd": 0.00279
+    },
+    "agent-tfidf-dev": {
+      "requests": 35,
+      "prompt_tokens": 22330,
+      "cache_hit_tokens": 12655,
+      "cache_miss_tokens": 9675,
+      "completion_tokens": 2290,
+      "total_tokens": 24620,
+      "elapsed_ms": 37681.61840000539,
+      "elapsed_seconds": 37.68,
+      "estimated_cost_usd": 0.0028632
+    },
+    "agent-tfidf-test": {
+      "requests": 20,
+      "prompt_tokens": 14153,
+      "cache_hit_tokens": 6528,
+      "cache_miss_tokens": 7625,
+      "completion_tokens": 939,
+      "total_tokens": 15092,
+      "elapsed_ms": 21491.93940000987,
+      "elapsed_seconds": 21.49,
+      "estimated_cost_usd": 0.0017267
+    },
+    "agent-bm25-test": {
+      "requests": 16,
+      "prompt_tokens": 14885,
+      "cache_hit_tokens": 7677,
+      "cache_miss_tokens": 7208,
+      "completion_tokens": 800,
+      "total_tokens": 15685,
+      "elapsed_ms": 16373.446999998123,
+      "elapsed_seconds": 16.37,
+      "estimated_cost_usd": 0.0015842
+    }
+  },
+  "total_including_dev_reruns": {
+    "requests": 179,
+    "prompt_tokens": 145417,
+    "cache_hit_tokens": 78528,
+    "cache_miss_tokens": 66889,
+    "completion_tokens": 10468,
+    "total_tokens": 155885,
+    "elapsed_ms": 185575.5388000107,
+    "elapsed_seconds": 185.58,
+    "estimated_cost_usd": 0.0165496
+  },
+  "final_evaluation_runs": {
+    "agent-tfidf-dev": {
+      "requests": 35,
+      "prompt_tokens": 22330,
+      "cache_hit_tokens": 12655,
+      "cache_miss_tokens": 9675,
+      "completion_tokens": 2290,
+      "total_tokens": 24620,
+      "elapsed_ms": 37681.61840000539,
+      "elapsed_seconds": 37.68,
+      "estimated_cost_usd": 0.0028632
+    },
+    "agent-bm25-dev-final": {
+      "requests": 36,
+      "prompt_tokens": 31724,
+      "cache_hit_tokens": 21861,
+      "cache_miss_tokens": 9863,
+      "completion_tokens": 2075,
+      "total_tokens": 33799,
+      "elapsed_ms": 35941.210600001796,
+      "elapsed_seconds": 35.94,
+      "estimated_cost_usd": 0.00279
+    },
+    "agent-tfidf-test": {
+      "requests": 20,
+      "prompt_tokens": 14153,
+      "cache_hit_tokens": 6528,
+      "cache_miss_tokens": 7625,
+      "completion_tokens": 939,
+      "total_tokens": 15092,
+      "elapsed_ms": 21491.93940000987,
+      "elapsed_seconds": 21.49,
+      "estimated_cost_usd": 0.0017267
+    },
+    "agent-bm25-test": {
+      "requests": 16,
+      "prompt_tokens": 14885,
+      "cache_hit_tokens": 7677,
+      "cache_miss_tokens": 7208,
+      "completion_tokens": 800,
+      "total_tokens": 15685,
+      "elapsed_ms": 16373.446999998123,
+      "elapsed_seconds": 16.37,
+      "estimated_cost_usd": 0.0015842
+    }
+  },
+  "final_evaluation_cost_usd": 0.0089641
+}

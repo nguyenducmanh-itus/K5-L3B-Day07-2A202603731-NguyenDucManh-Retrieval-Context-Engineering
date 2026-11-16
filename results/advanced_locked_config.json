@@ -1,0 +1,14 @@
+{
+  "locked_before_test": true,
+  "model": "deepseek-flash",
+  "retrieval": "bm25_locator_aware",
+  "top_k": 8,
+  "context_budget_chars": 18000,
+  "max_searches": 3,
+  "dev_selection": "advanced-bm25-dev-k8",
+  "files_sha256": {
+    "data/advanced/benchmark.json": "b859920ad5e41c76cec8a6dee40341d711bae11378560d283a47731f34974a26",
+    "data/advanced/chunks.json": "502829167902833876e527b0ee0cf4001daded30a96754326ae8ceeca3c070c1",
+    "submission/run_agent.py": "4dec8e50f5af02dad1d0bd7d934660b09578b24f8e0057dc6e72d5b6e73c7ec2"
+  }
+}

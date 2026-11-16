@@ -1,0 +1,20 @@
+{
+  "split": "dev",
+  "method": "RRF over Day 6 dense B top-3 and BM25 top-3",
+  "n": 15,
+  "hit_at_1": {
+    "n": 7,
+    "N": 15
+  },
+  "evidence_hit_at_3": {
+    "n": 10,
+    "N": 15
+  },
+  "context_evidence_rate": {
+    "n": 9,
+    "N": 15
+  },
+  "mean_context_chars": 1952.7333333333333,
+  "timing_note": "Dense timings are from Day 6 aggregate run; per-query RRF timing unavailable.",
+  "service_cost_usd": 0
+}

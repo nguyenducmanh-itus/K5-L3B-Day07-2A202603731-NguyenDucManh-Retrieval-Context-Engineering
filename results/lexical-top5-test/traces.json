@@ -1,0 +1,1075 @@
+[
+  {
+    "query_id": "D7T001",
+    "split": "test",
+    "strategy": "tfidf",
+    "question": "In 'The Red-Headed League', what was the name of Jabez Wilson's assistant?",
+    "results": [
+      {
+        "id": "pg1661:pg1661_story_02:0007:71bf63428382",
+        "text": "“I begin to think, Watson,” said Holmes, “that I make a mistake in\nexplaining. ‘_Omne ignotum pro magnifico_,’ you know, and my poor\nlittle reputation, such as it is, will suffer shipwreck if I am so\ncandid. Can you not find the advertisement, Mr. Wilson?”\n\n“Yes, I have got it now,” he answered with his thick red finger planted\nhalfway down the column. “Here it is. This is what began it all. You\njust read it for yourself, sir.”\n\nI took the paper from him and read as follows:\n\n“TO THE RED-HEADED LEAGUE: On account of the bequest of the late\nEzekiah Hopkins, of Lebanon, Pennsylvania, U.S.A., there is now another\nvacancy open which entitles a member of the League to a salary of £ 4 a\nweek for purely nominal services. All red-headed men who are sound in\nbody and mind and above the age of twenty-one years, are eligible.\nApply in person on Monday, at eleven o’clock, to Duncan Ross, at the\noffices of the League, 7 Pope’s Court, Fleet Street.”",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_02",
+        "metadata": {
+          "section": "The Red-Headed League",
+          "source_id": "pg1661",
+          "chunk_index": 7,
+          "char_start": 6088,
+          "char_end": 7037
+        },
+        "score": 0.3227079438376574,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg1661:pg1661_story_02:0013:eeb8e81321f9",
+        "text": "“‘Well,’ said he, showing me the advertisement, ‘you can see for\nyourself that the League has a vacancy, and there is the address where\nyou should apply for particulars. As far as I can make out, the League\nwas founded by an American millionaire, Ezekiah Hopkins, who was very\npeculiar in his ways. He was himself red-headed, and he had a great\nsympathy for all red-headed men; so, when he died, it was found that he\nhad left his enormous fortune in the hands of trustees, with\ninstructions to apply the interest to the providing of easy berths to\nmen whose hair is of that colour. From all I hear it is splendid pay\nand very little to do.’\n\n“‘But,’ said I, ‘there would be millions of red-headed men who would\napply.’",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_02",
+        "metadata": {
+          "section": "The Red-Headed League",
+          "source_id": "pg1661",
+          "chunk_index": 13,
+          "char_start": 10865,
+          "char_end": 11583
+        },
+        "score": 0.314020852565595,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg1661:pg1661_story_02:0035:2c0c007d5bba",
+        "text": "Finally he returned to the pawnbroker’s,\nand, having thumped vigorously upon the pavement with his stick two or\nthree times, he went up to the door and knocked. It was instantly\nopened by a bright-looking, clean-shaven young fellow, who asked him to\nstep in.\n\n“Thank you,” said Holmes, “I only wished to ask you how you would go\nfrom here to the Strand.”\n\n“Third right, fourth left,” answered the assistant promptly, closing\nthe door.\n\n“Smart fellow, that,” observed Holmes as we walked away. “He is, in my\njudgment, the fourth smartest man in London, and for daring I am not\nsure that he has not a claim to be third. I have known something of him\nbefore.”\n\n“Evidently,” said I, “Mr. Wilson’s assistant counts for a good deal in\nthis mystery of the Red-headed League. I am sure that you inquired your\nway merely in order that you might see him.”\n\n“Not him.”\n\n“What then?”\n\n“The knees of his trousers.”\n\n“And what did you see?”\n\n“What I expected to see.”\n\n“Why did you beat the pavement?”",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_02",
+        "metadata": {
+          "section": "The Red-Headed League",
+          "source_id": "pg1661",
+          "chunk_index": 35,
+          "char_start": 27556,
+          "char_end": 28543
+        },
+        "score": 0.2844919475812243,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg1661:pg1661_story_02:0027:02e02b47ec08",
+        "text": "“No, no,” cried Holmes, shoving him back into the chair from which he\nhad half risen. “I really wouldn’t miss your case for the world. It is\nmost refreshingly unusual. But there is, if you will excuse my saying\nso, something just a little funny about it. Pray what steps did you\ntake when you found the card upon the door?”\n\n“I was staggered, sir. I did not know what to do. Then I called at the\noffices round, but none of them seemed to know anything about it.\nFinally, I went to the landlord, who is an accountant living on the\nground floor, and I asked him if he could tell me what had become of\nthe Red-headed League. He said that he had never heard of any such\nbody. Then I asked him who Mr. Duncan Ross was. He answered that the\nname was new to him.\n\n“‘Well,’ said I, ‘the gentleman at No. 4.’\n\n“‘What, the red-headed man?’\n\n“‘Yes.’",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_02",
+        "metadata": {
+          "section": "The Red-Headed League",
+          "source_id": "pg1661",
+          "chunk_index": 27,
+          "char_start": 21184,
+          "char_end": 22022
+        },
+        "score": 0.26862916904941553,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg1661:pg1661_story_02:0018:bfcd11669de5",
+        "text": "“‘This is Mr. Jabez Wilson,’ said my assistant, ‘and he is willing to\nfill a vacancy in the League.’\n\n“‘And he is admirably suited for it,’ the other answered. ‘He has every\nrequirement. I cannot recall when I have seen anything so fine.’ He\ntook a step backward, cocked his head on one side, and gazed at my hair\nuntil I felt quite bashful. Then suddenly he plunged forward, wrung my\nhand, and congratulated me warmly on my success.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_02",
+        "metadata": {
+          "section": "The Red-Headed League",
+          "source_id": "pg1661",
+          "chunk_index": 18,
+          "char_start": 14457,
+          "char_end": 14890
+        },
+        "score": 0.2686013244457401,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[pg1661:pg1661_story_02:0007:71bf63428382 | The Adventures of Sherlock Holmes | page pg1661_story_02]\n“I begin to think, Watson,” said Holmes, “that I make a mistake in\nexplaining. ‘_Omne ignotum pro magnifico_,’ you know, and my poor\nlittle reputation, such as it is, will suffer shipwreck if I am so\ncandid. Can you not find the advertisement, Mr. Wilson?”\n\n“Yes, I have got it now,” he answered with his thick red finger planted\nhalfway down the column. “Here it is. This is what began it all. You\njust read it for yourself, sir.”\n\nI took the paper from him and read as follows:\n\n“TO THE RED-HEADED LEAGUE: On account of the bequest of the late\nEzekiah Hopkins, of Lebanon, Pennsylvania, U.S.A., there is now another\nvacancy open which entitles a member of the League to a salary of £ 4 a\nweek for purely nominal services. All red-headed men who are sound in\nbody and mind and above the age of twenty-one years, are eligible.\nApply in person on Monday, at eleven o’clock, to Duncan Ross, at the\noffices of the League, 7 Pope’s Court, Fleet Street.”\n\n[pg1661:pg1661_story_02:0013:eeb8e81321f9 | The Adventures of Sherlock Holmes | page pg1661_story_02]\n“‘Well,’ said he, showing me the advertisement, ‘you can see for\nyourself that the League has a vacancy, and there is the address where\nyou should apply for particulars. As far as I can make out, the League\nwas founded by an American millionaire, Ezekiah Hopkins, who was very\npeculiar in his ways. He was himself red-headed, and he had a great\nsympathy for all red-headed men; so, when he died, it was found that he\nhad left his enormous fortune in the hands of trustees, with\ninstructions to apply the interest to the providing of easy berths to\nmen whose hair is of that colour. From all I hear it is splendid pay\nand very little to do.’\n\n“‘But,’ said I, ‘there would be millions of red-headed men who would\napply.’\n\n[pg1661:pg1661_story_02:0035:2c0c007d5bba | The Adventures of Sherlock Holmes | page pg1661_story_02]\nFinally he returned to the pawnbroker’s,\nand, having thumped vigorously upon the pavement with his stick two or\nthree times, he went up to the door and knocked. It was instantly\nopened by a bright-looking, clean-shaven young fellow, who asked him to\nstep in.\n\n“Thank you,” said Holmes, “I only wished to ask you how you would go\nfrom here to the Strand.”\n\n“Third right, fourth left,” answered the assistant promptly, closing\nthe door.\n\n“Smart fellow, that,” observed Holmes as we walked away. “He is, in my\njudgment, the fourth smartest man in London, and for daring I am not\nsure that he has not a claim to be third. I have known something of him\nbefore.”\n\n“Evidently,” said I, “Mr. Wilson’s assistant counts for a good deal in\nthis mystery of the Red-headed League. I am sure that you inquired your\nway merely in order that you might see him.”\n\n“Not him.”\n\n“What then?”\n\n“The knees of his trousers.”\n\n“And what did you see?”\n\n“What I expected to see.”\n\n“Why did you beat the pavement?”\n\n[pg1661:pg1661_story_02:0027:02e02b47ec08 | The Adventures of Sherlock Holmes | page pg1661_story_02]\n“No, no,” cried Holmes, shoving him back into the chair from which he\nhad half risen. “I really wouldn’t miss your case for the world. It is\nmost refreshingly unusual. But there is, if you will excuse my saying\nso, something just a little funny about it. Pray what steps did you\ntake when you found the card upon the door?”\n\n“I was staggered, sir. I did not know what to do. Then I called at the\noffices round, but none of them seemed to know anything about it.\nFinally, I went to the landlord, who is an accountant living on the\nground floor, and I asked him if he could tell me what had become of\nthe Red-headed League. He said that he had never heard of any such\nbody. Then I asked him who Mr. Duncan Ross was. He answered that the\nname was new to him.\n\n“‘Well,’ said I, ‘the gentleman at No. 4.’\n\n“‘What, the red-headed man?’\n\n“‘Yes.’",
+    "context_ids": [
+      "pg1661:pg1661_story_02:0007:71bf63428382",
+      "pg1661:pg1661_story_02:0013:eeb8e81321f9",
+      "pg1661:pg1661_story_02:0035:2c0c007d5bba",
+      "pg1661:pg1661_story_02:0027:02e02b47ec08"
+    ],
+    "gold": [
+      {
+        "source_id": "pg1661",
+        "page": "pg1661_story_02",
+        "evidence": "His name is Vincent Spaulding"
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "context_chars": 3906,
+    "elapsed_ms": 9.641900000133319
+  },
+  {
+    "query_id": "D7T001",
+    "split": "test",
+    "strategy": "bm25",
+    "question": "In 'The Red-Headed League', what was the name of Jabez Wilson's assistant?",
+    "results": [
+      {
+        "id": "pg1661:pg1661_story_02:0035:2c0c007d5bba",
+        "text": "Finally he returned to the pawnbroker’s,\nand, having thumped vigorously upon the pavement with his stick two or\nthree times, he went up to the door and knocked. It was instantly\nopened by a bright-looking, clean-shaven young fellow, who asked him to\nstep in.\n\n“Thank you,” said Holmes, “I only wished to ask you how you would go\nfrom here to the Strand.”\n\n“Third right, fourth left,” answered the assistant promptly, closing\nthe door.\n\n“Smart fellow, that,” observed Holmes as we walked away. “He is, in my\njudgment, the fourth smartest man in London, and for daring I am not\nsure that he has not a claim to be third. I have known something of him\nbefore.”\n\n“Evidently,” said I, “Mr. Wilson’s assistant counts for a good deal in\nthis mystery of the Red-headed League. I am sure that you inquired your\nway merely in order that you might see him.”\n\n“Not him.”\n\n“What then?”\n\n“The knees of his trousers.”\n\n“And what did you see?”\n\n“What I expected to see.”\n\n“Why did you beat the pavement?”",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_02",
+        "metadata": {
+          "section": "The Red-Headed League",
+          "source_id": "pg1661",
+          "chunk_index": 35,
+          "char_start": 27556,
+          "char_end": 28543
+        },
+        "score": 24.87627146331598,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg1661:pg1661_story_02:0007:71bf63428382",
+        "text": "“I begin to think, Watson,” said Holmes, “that I make a mistake in\nexplaining. ‘_Omne ignotum pro magnifico_,’ you know, and my poor\nlittle reputation, such as it is, will suffer shipwreck if I am so\ncandid. Can you not find the advertisement, Mr. Wilson?”\n\n“Yes, I have got it now,” he answered with his thick red finger planted\nhalfway down the column. “Here it is. This is what began it all. You\njust read it for yourself, sir.”\n\nI took the paper from him and read as follows:\n\n“TO THE RED-HEADED LEAGUE: On account of the bequest of the late\nEzekiah Hopkins, of Lebanon, Pennsylvania, U.S.A., there is now another\nvacancy open which entitles a member of the League to a salary of £ 4 a\nweek for purely nominal services. All red-headed men who are sound in\nbody and mind and above the age of twenty-one years, are eligible.\nApply in person on Monday, at eleven o’clock, to Duncan Ross, at the\noffices of the League, 7 Pope’s Court, Fleet Street.”",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_02",
+        "metadata": {
+          "section": "The Red-Headed League",
+          "source_id": "pg1661",
+          "chunk_index": 7,
+          "char_start": 6088,
+          "char_end": 7037
+        },
+        "score": 24.189518757933584,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg1661:pg1661_story_02:0018:bfcd11669de5",
+        "text": "“‘This is Mr. Jabez Wilson,’ said my assistant, ‘and he is willing to\nfill a vacancy in the League.’\n\n“‘And he is admirably suited for it,’ the other answered. ‘He has every\nrequirement. I cannot recall when I have seen anything so fine.’ He\ntook a step backward, cocked his head on one side, and gazed at my hair\nuntil I felt quite bashful. Then suddenly he plunged forward, wrung my\nhand, and congratulated me warmly on my success.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_02",
+        "metadata": {
+          "section": "The Red-Headed League",
+          "source_id": "pg1661",
+          "chunk_index": 18,
+          "char_start": 14457,
+          "char_end": 14890
+        },
+        "score": 24.07050915026001,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg1661:pg1661_story_02:0011:59d46f25f304",
+        "text": "“The first thing that put us out was that advertisement. Spaulding, he\ncame down into the office just this day eight weeks, with this very\npaper in his hand, and he says:\n\n“‘I wish to the Lord, Mr. Wilson, that I was a red-headed man.’\n\n“‘Why that?’ I asks.\n\n“‘Why,’ says he, ‘here’s another vacancy on the League of the\nRed-headed Men. It’s worth quite a little fortune to any man who gets\nit, and I understand that there are more vacancies than there are men,\nso that the trustees are at their wits’ end what to do with the money.\nIf my hair would only change colour, here’s a nice little crib all\nready for me to step into.’\n\n“‘Why, what is it, then?’ I asked. You see, Mr. Holmes, I am a very\nstay-at-home man, and as my business came to me instead of my having to\ngo to it, I was often weeks on end without putting my foot over the\ndoor-mat. In that way I didn’t know much of what was going on outside,\nand I was always glad of a bit of news.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_02",
+        "metadata": {
+          "section": "The Red-Headed League",
+          "source_id": "pg1661",
+          "chunk_index": 11,
+          "char_start": 9346,
+          "char_end": 10293
+        },
+        "score": 21.13987466956816,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg1661:pg1661_story_02:0009:78563b1afeae",
+        "text": "“Well, it is just as I have been telling you, Mr. Sherlock Holmes,”\nsaid Jabez Wilson, mopping his forehead; “I have a small pawnbroker’s\nbusiness at Coburg Square, near the City. It’s not a very large affair,\nand of late years it has not done more than just give me a living. I\nused to be able to keep two assistants, but now I only keep one; and I\nwould have a job to pay him but that he is willing to come for half\nwages so as to learn the business.”\n\n“What is the name of this obliging youth?” asked Sherlock Holmes.\n\n“His name is Vincent Spaulding, and he’s not such a youth, either. It’s\nhard to say his age. I should not wish a smarter assistant, Mr. Holmes;\nand I know very well that he could better himself and earn twice what I\nam able to give him. But, after all, if he is satisfied, why should I\nput ideas in his head?”",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_02",
+        "metadata": {
+          "section": "The Red-Headed League",
+          "source_id": "pg1661",
+          "chunk_index": 9,
+          "char_start": 7610,
+          "char_end": 8441
+        },
+        "score": 20.05439921679719,
+        "strategy": "bm25"
+      }
+    ],
+    "context": "[pg1661:pg1661_story_02:0035:2c0c007d5bba | The Adventures of Sherlock Holmes | page pg1661_story_02]\nFinally he returned to the pawnbroker’s,\nand, having thumped vigorously upon the pavement with his stick two or\nthree times, he went up to the door and knocked. It was instantly\nopened by a bright-looking, clean-shaven young fellow, who asked him to\nstep in.\n\n“Thank you,” said Holmes, “I only wished to ask you how you would go\nfrom here to the Strand.”\n\n“Third right, fourth left,” answered the assistant promptly, closing\nthe door.\n\n“Smart fellow, that,” observed Holmes as we walked away. “He is, in my\njudgment, the fourth smartest man in London, and for daring I am not\nsure that he has not a claim to be third. I have known something of him\nbefore.”\n\n“Evidently,” said I, “Mr. Wilson’s assistant counts for a good deal in\nthis mystery of the Red-headed League. I am sure that you inquired your\nway merely in order that you might see him.”\n\n“Not him.”\n\n“What then?”\n\n“The knees of his trousers.”\n\n“And what did you see?”\n\n“What I expected to see.”\n\n“Why did you beat the pavement?”\n\n[pg1661:pg1661_story_02:0007:71bf63428382 | The Adventures of Sherlock Holmes | page pg1661_story_02]\n“I begin to think, Watson,” said Holmes, “that I make a mistake in\nexplaining. ‘_Omne ignotum pro magnifico_,’ you know, and my poor\nlittle reputation, such as it is, will suffer shipwreck if I am so\ncandid. Can you not find the advertisement, Mr. Wilson?”\n\n“Yes, I have got it now,” he answered with his thick red finger planted\nhalfway down the column. “Here it is. This is what began it all. You\njust read it for yourself, sir.”\n\nI took the paper from him and read as follows:\n\n“TO THE RED-HEADED LEAGUE: On account of the bequest of the late\nEzekiah Hopkins, of Lebanon, Pennsylvania, U.S.A., there is now another\nvacancy open which entitles a member of the League to a salary of £ 4 a\nweek for purely nominal services. All red-headed men who are sound in\nbody and mind and above the age of twenty-one years, are eligible.\nApply in person on Monday, at eleven o’clock, to Duncan Ross, at the\noffices of the League, 7 Pope’s Court, Fleet Street.”\n\n[pg1661:pg1661_story_02:0018:bfcd11669de5 | The Adventures of Sherlock Holmes | page pg1661_story_02]\n“‘This is Mr. Jabez Wilson,’ said my assistant, ‘and he is willing to\nfill a vacancy in the League.’\n\n“‘And he is admirably suited for it,’ the other answered. ‘He has every\nrequirement. I cannot recall when I have seen anything so fine.’ He\ntook a step backward, cocked his head on one side, and gazed at my hair\nuntil I felt quite bashful. Then suddenly he plunged forward, wrung my\nhand, and congratulated me warmly on my success.\n\n[pg1661:pg1661_story_02:0011:59d46f25f304 | The Adventures of Sherlock Holmes | page pg1661_story_02]\n“The first thing that put us out was that advertisement. Spaulding, he\ncame down into the office just this day eight weeks, with this very\npaper in his hand, and he says:\n\n“‘I wish to the Lord, Mr. Wilson, that I was a red-headed man.’\n\n“‘Why that?’ I asks.\n\n“‘Why,’ says he, ‘here’s another vacancy on the League of the\nRed-headed Men. It’s worth quite a little fortune to any man who gets\nit, and I understand that there are more vacancies than there are men,\nso that the trustees are at their wits’ end what to do with the money.\nIf my hair would only change colour, here’s a nice little crib all\nready for me to step into.’\n\n“‘Why, what is it, then?’ I asked. You see, Mr. Holmes, I am a very\nstay-at-home man, and as my business came to me instead of my having to\ngo to it, I was often weeks on end without putting my foot over the\ndoor-mat. In that way I didn’t know much of what was going on outside,\nand I was always glad of a bit of news.",
+    "context_ids": [
+      "pg1661:pg1661_story_02:0035:2c0c007d5bba",
+      "pg1661:pg1661_story_02:0007:71bf63428382",
+      "pg1661:pg1661_story_02:0018:bfcd11669de5",
+      "pg1661:pg1661_story_02:0011:59d46f25f304"
+    ],
+    "gold": [
+      {
+        "source_id": "pg1661",
+        "page": "pg1661_story_02",
+        "evidence": "His name is Vincent Spaulding"
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "context_chars": 3730,
+    "elapsed_ms": 8.794000001216773
+  },
+  {
+    "query_id": "D7T002",
+    "split": "test",
+    "strategy": "tfidf",
+    "question": "In 'The Adventure of the Speckled Band', what kind of snake did Holmes identify?",
+    "results": [
+      {
+        "id": "pg1661:pg1661_story_08:0000:ace911b9dea0",
+        "text": "VIII. THE ADVENTURE OF THE SPECKLED BAND",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_08",
+        "metadata": {
+          "section": "The Adventure of the Speckled Band",
+          "source_id": "pg1661",
+          "chunk_index": 0,
+          "char_start": 0,
+          "char_end": 40
+        },
+        "score": 0.5500514573169761,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg1661:pg1661_story_08:0024:8ded34ce06d0",
+        "text": "“Were there gipsies in the plantation at the time?”\n\n“Yes, there are nearly always some there.”\n\n“Ah, and what did you gather from this allusion to a band—a speckled\nband?”\n\n“Sometimes I have thought that it was merely the wild talk of delirium,\nsometimes that it may have referred to some band of people, perhaps to\nthese very gipsies in the plantation. I do not know whether the spotted\nhandkerchiefs which so many of them wear over their heads might have\nsuggested the strange adjective which she used.”\n\nHolmes shook his head like a man who is far from being satisfied.\n\n“These are very deep waters,” said he; “pray go on with your\nnarrative.”",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_08",
+        "metadata": {
+          "section": "The Adventure of the Speckled Band",
+          "source_id": "pg1661",
+          "chunk_index": 24,
+          "char_start": 17620,
+          "char_end": 18267
+        },
+        "score": 0.26304246123500025,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg1661:pg1661_story_08:0060:b0925aaeb9c3",
+        "text": "It was a singular sight which met our eyes. On the table stood a\ndark-lantern with the shutter half open, throwing a brilliant beam of\nlight upon the iron safe, the door of which was ajar. Beside this\ntable, on the wooden chair, sat Dr. Grimesby Roylott clad in a long\ngrey dressing-gown, his bare ankles protruding beneath, and his feet\nthrust into red heelless Turkish slippers. Across his lap lay the short\nstock with the long lash which we had noticed during the day. His chin\nwas cocked upward and his eyes were fixed in a dreadful, rigid stare at\nthe corner of the ceiling. Round his brow he had a peculiar yellow\nband, with brownish speckles, which seemed to be bound tightly round\nhis head. As we entered he made neither sound nor motion.\n\n“The band! the speckled band!” whispered Holmes.\n\nI took a step forward. In an instant his strange headgear began to\nmove, and there reared itself from among his hair the squat\ndiamond-shaped head and puffed neck of a loathsome serpent.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_08",
+        "metadata": {
+          "section": "The Adventure of the Speckled Band",
+          "source_id": "pg1661",
+          "chunk_index": 60,
+          "char_start": 47501,
+          "char_end": 48485
+        },
+        "score": 0.1992843480818825,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg834:pg834_story_11:0073:b52c329b6332",
+        "text": "“The night was fine, but still it was a very weary vigil. Of\ncourse it has the sort of excitement about it that the sportsman\nfeels when he lies beside the water-course and waits for the big\ngame. It was very long, though—almost as long, Watson, as when\nyou and I waited in that deadly room when we looked into the\nlittle problem of the Speckled Band. There was a church-clock\ndown at Woking which struck the quarters, and I thought more than\nonce that it had stopped. At last however about two in the\nmorning, I suddenly heard the gentle sound of a bolt being pushed\nback and the creaking of a key. A moment later the servants’ door\nwas opened, and Mr. Joseph Harrison stepped out into the\nmoonlight.”\n\n“Joseph!” ejaculated Phelps.",
+        "source_id": "pg834",
+        "source": "The Memoirs of Sherlock Holmes",
+        "page": "pg834_story_11",
+        "metadata": {
+          "section": "The Naval Treaty",
+          "source_id": "pg834",
+          "chunk_index": 73,
+          "char_start": 60871,
+          "char_end": 61603
+        },
+        "score": 0.16922703174902895,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg108:pg108_story_09:0000:1f04a535b3d1",
+        "text": "THE ADVENTURE OF THE THREE STUDENTS\n\nIt was in the year ’95 that a combination of events, into which I\nneed not enter, caused Mr. Sherlock Holmes and myself to spend\nsome weeks in one of our great university towns, and it was\nduring this time that the small but instructive adventure which I\nam about to relate befell us. It will be obvious that any details\nwhich would help the reader exactly to identify the college or\nthe criminal would be injudicious and offensive. So painful a\nscandal may well be allowed to die out. With due discretion the\nincident itself may, however, be described, since it serves to\nillustrate some of those qualities for which my friend was\nremarkable. I will endeavour, in my statement, to avoid such\nterms as would serve to limit the events to any particular place,\nor give a clue as to the people concerned.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_09",
+        "metadata": {
+          "section": "The Adventure of the Three Students",
+          "source_id": "pg108",
+          "chunk_index": 0,
+          "char_start": 0,
+          "char_end": 838
+        },
+        "score": 0.16728187915348788,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[pg1661:pg1661_story_08:0000:ace911b9dea0 | The Adventures of Sherlock Holmes | page pg1661_story_08]\nVIII. THE ADVENTURE OF THE SPECKLED BAND\n\n[pg1661:pg1661_story_08:0024:8ded34ce06d0 | The Adventures of Sherlock Holmes | page pg1661_story_08]\n“Were there gipsies in the plantation at the time?”\n\n“Yes, there are nearly always some there.”\n\n“Ah, and what did you gather from this allusion to a band—a speckled\nband?”\n\n“Sometimes I have thought that it was merely the wild talk of delirium,\nsometimes that it may have referred to some band of people, perhaps to\nthese very gipsies in the plantation. I do not know whether the spotted\nhandkerchiefs which so many of them wear over their heads might have\nsuggested the strange adjective which she used.”\n\nHolmes shook his head like a man who is far from being satisfied.\n\n“These are very deep waters,” said he; “pray go on with your\nnarrative.”\n\n[pg1661:pg1661_story_08:0060:b0925aaeb9c3 | The Adventures of Sherlock Holmes | page pg1661_story_08]\nIt was a singular sight which met our eyes. On the table stood a\ndark-lantern with the shutter half open, throwing a brilliant beam of\nlight upon the iron safe, the door of which was ajar. Beside this\ntable, on the wooden chair, sat Dr. Grimesby Roylott clad in a long\ngrey dressing-gown, his bare ankles protruding beneath, and his feet\nthrust into red heelless Turkish slippers. Across his lap lay the short\nstock with the long lash which we had noticed during the day. His chin\nwas cocked upward and his eyes were fixed in a dreadful, rigid stare at\nthe corner of the ceiling. Round his brow he had a peculiar yellow\nband, with brownish speckles, which seemed to be bound tightly round\nhis head. As we entered he made neither sound nor motion.\n\n“The band! the speckled band!” whispered Holmes.\n\nI took a step forward. In an instant his strange headgear began to\nmove, and there reared itself from among his hair the squat\ndiamond-shaped head and puffed neck of a loathsome serpent.\n\n[pg834:pg834_story_11:0073:b52c329b6332 | The Memoirs of Sherlock Holmes | page pg834_story_11]\n“The night was fine, but still it was a very weary vigil. Of\ncourse it has the sort of excitement about it that the sportsman\nfeels when he lies beside the water-course and waits for the big\ngame. It was very long, though—almost as long, Watson, as when\nyou and I waited in that deadly room when we looked into the\nlittle problem of the Speckled Band. There was a church-clock\ndown at Woking which struck the quarters, and I thought more than\nonce that it had stopped. At last however about two in the\nmorning, I suddenly heard the gentle sound of a bolt being pushed\nback and the creaking of a key. A moment later the servants’ door\nwas opened, and Mr. Joseph Harrison stepped out into the\nmoonlight.”\n\n“Joseph!” ejaculated Phelps.\n\n[pg108:pg108_story_09:0000:1f04a535b3d1 | The Return of Sherlock Holmes | page pg108_story_09]\nTHE ADVENTURE OF THE THREE STUDENTS\n\nIt was in the year ’95 that a combination of events, into which I\nneed not enter, caused Mr. Sherlock Holmes and myself to spend\nsome weeks in one of our great university towns, and it was\nduring this time that the small but instructive adventure which I\nam about to relate befell us. It will be obvious that any details\nwhich would help the reader exactly to identify the college or\nthe criminal would be injudicious and offensive. So painful a\nscandal may well be allowed to die out. With due discretion the\nincident itself may, however, be described, since it serves to\nillustrate some of those qualities for which my friend was\nremarkable. I will endeavour, in my statement, to avoid such\nterms as would serve to limit the events to any particular place,\nor give a clue as to the people concerned.",
+    "context_ids": [
+      "pg1661:pg1661_story_08:0000:ace911b9dea0",
+      "pg1661:pg1661_story_08:0024:8ded34ce06d0",
+      "pg1661:pg1661_story_08:0060:b0925aaeb9c3",
+      "pg834:pg834_story_11:0073:b52c329b6332",
+      "pg108:pg108_story_09:0000:1f04a535b3d1"
+    ],
+    "gold": [
+      {
+        "source_id": "pg1661",
+        "page": "pg1661_story_08",
+        "evidence": "It is a swamp adder!"
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "context_chars": 3746,
+    "elapsed_ms": 6.655299999692943
+  },
+  {
+    "query_id": "D7T002",
+    "split": "test",
+    "strategy": "bm25",
+    "question": "In 'The Adventure of the Speckled Band', what kind of snake did Holmes identify?",
+    "results": [
+      {
+        "id": "pg1661:pg1661_story_08:0000:ace911b9dea0",
+        "text": "VIII. THE ADVENTURE OF THE SPECKLED BAND",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_08",
+        "metadata": {
+          "section": "The Adventure of the Speckled Band",
+          "source_id": "pg1661",
+          "chunk_index": 0,
+          "char_start": 0,
+          "char_end": 40
+        },
+        "score": 24.656836326015032,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg1661:pg1661_story_08:0024:8ded34ce06d0",
+        "text": "“Were there gipsies in the plantation at the time?”\n\n“Yes, there are nearly always some there.”\n\n“Ah, and what did you gather from this allusion to a band—a speckled\nband?”\n\n“Sometimes I have thought that it was merely the wild talk of delirium,\nsometimes that it may have referred to some band of people, perhaps to\nthese very gipsies in the plantation. I do not know whether the spotted\nhandkerchiefs which so many of them wear over their heads might have\nsuggested the strange adjective which she used.”\n\nHolmes shook his head like a man who is far from being satisfied.\n\n“These are very deep waters,” said he; “pray go on with your\nnarrative.”",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_08",
+        "metadata": {
+          "section": "The Adventure of the Speckled Band",
+          "source_id": "pg1661",
+          "chunk_index": 24,
+          "char_start": 17620,
+          "char_end": 18267
+        },
+        "score": 19.24057499736532,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg1661:pg1661_story_08:0060:b0925aaeb9c3",
+        "text": "It was a singular sight which met our eyes. On the table stood a\ndark-lantern with the shutter half open, throwing a brilliant beam of\nlight upon the iron safe, the door of which was ajar. Beside this\ntable, on the wooden chair, sat Dr. Grimesby Roylott clad in a long\ngrey dressing-gown, his bare ankles protruding beneath, and his feet\nthrust into red heelless Turkish slippers. Across his lap lay the short\nstock with the long lash which we had noticed during the day. His chin\nwas cocked upward and his eyes were fixed in a dreadful, rigid stare at\nthe corner of the ceiling. Round his brow he had a peculiar yellow\nband, with brownish speckles, which seemed to be bound tightly round\nhis head. As we entered he made neither sound nor motion.\n\n“The band! the speckled band!” whispered Holmes.\n\nI took a step forward. In an instant his strange headgear began to\nmove, and there reared itself from among his hair the squat\ndiamond-shaped head and puffed neck of a loathsome serpent.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_08",
+        "metadata": {
+          "section": "The Adventure of the Speckled Band",
+          "source_id": "pg1661",
+          "chunk_index": 60,
+          "char_start": 47501,
+          "char_end": 48485
+        },
+        "score": 14.222073706161082,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg108:pg108_story_09:0000:1f04a535b3d1",
+        "text": "THE ADVENTURE OF THE THREE STUDENTS\n\nIt was in the year ’95 that a combination of events, into which I\nneed not enter, caused Mr. Sherlock Holmes and myself to spend\nsome weeks in one of our great university towns, and it was\nduring this time that the small but instructive adventure which I\nam about to relate befell us. It will be obvious that any details\nwhich would help the reader exactly to identify the college or\nthe criminal would be injudicious and offensive. So painful a\nscandal may well be allowed to die out. With due discretion the\nincident itself may, however, be described, since it serves to\nillustrate some of those qualities for which my friend was\nremarkable. I will endeavour, in my statement, to avoid such\nterms as would serve to limit the events to any particular place,\nor give a clue as to the people concerned.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_09",
+        "metadata": {
+          "section": "The Adventure of the Three Students",
+          "source_id": "pg108",
+          "chunk_index": 0,
+          "char_start": 0,
+          "char_end": 838
+        },
+        "score": 12.741652514261443,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg1661:pg1661_story_08:0021:dee395fc22c3",
+        "text": "By the light of the corridor-lamp I\nsaw my sister appear at the opening, her face blanched with terror, her\nhands groping for help, her whole figure swaying to and fro like that\nof a drunkard. I ran to her and threw my arms round her, but at that\nmoment her knees seemed to give way and she fell to the ground. She\nwrithed as one who is in terrible pain, and her limbs were dreadfully\nconvulsed. At first I thought that she had not recognised me, but as I\nbent over her she suddenly shrieked out in a voice which I shall never\nforget, ‘Oh, my God! Helen! It was the band! The speckled band!’ There\nwas something else which she would fain have said, and she stabbed with\nher finger into the air in the direction of the Doctor’s room, but a\nfresh convulsion seized her and choked her words. I rushed out, calling\nloudly for my stepfather, and I met him hastening from his room in his\ndressing-gown.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_08",
+        "metadata": {
+          "section": "The Adventure of the Speckled Band",
+          "source_id": "pg1661",
+          "chunk_index": 21,
+          "char_start": 14859,
+          "char_end": 15755
+        },
+        "score": 12.643224173526459,
+        "strategy": "bm25"
+      }
+    ],
+    "context": "[pg1661:pg1661_story_08:0000:ace911b9dea0 | The Adventures of Sherlock Holmes | page pg1661_story_08]\nVIII. THE ADVENTURE OF THE SPECKLED BAND\n\n[pg1661:pg1661_story_08:0024:8ded34ce06d0 | The Adventures of Sherlock Holmes | page pg1661_story_08]\n“Were there gipsies in the plantation at the time?”\n\n“Yes, there are nearly always some there.”\n\n“Ah, and what did you gather from this allusion to a band—a speckled\nband?”\n\n“Sometimes I have thought that it was merely the wild talk of delirium,\nsometimes that it may have referred to some band of people, perhaps to\nthese very gipsies in the plantation. I do not know whether the spotted\nhandkerchiefs which so many of them wear over their heads might have\nsuggested the strange adjective which she used.”\n\nHolmes shook his head like a man who is far from being satisfied.\n\n“These are very deep waters,” said he; “pray go on with your\nnarrative.”\n\n[pg1661:pg1661_story_08:0060:b0925aaeb9c3 | The Adventures of Sherlock Holmes | page pg1661_story_08]\nIt was a singular sight which met our eyes. On the table stood a\ndark-lantern with the shutter half open, throwing a brilliant beam of\nlight upon the iron safe, the door of which was ajar. Beside this\ntable, on the wooden chair, sat Dr. Grimesby Roylott clad in a long\ngrey dressing-gown, his bare ankles protruding beneath, and his feet\nthrust into red heelless Turkish slippers. Across his lap lay the short\nstock with the long lash which we had noticed during the day. His chin\nwas cocked upward and his eyes were fixed in a dreadful, rigid stare at\nthe corner of the ceiling. Round his brow he had a peculiar yellow\nband, with brownish speckles, which seemed to be bound tightly round\nhis head. As we entered he made neither sound nor motion.\n\n“The band! the speckled band!” whispered Holmes.\n\nI took a step forward. In an instant his strange headgear began to\nmove, and there reared itself from among his hair the squat\ndiamond-shaped head and puffed neck of a loathsome serpent.\n\n[pg108:pg108_story_09:0000:1f04a535b3d1 | The Return of Sherlock Holmes | page pg108_story_09]\nTHE ADVENTURE OF THE THREE STUDENTS\n\nIt was in the year ’95 that a combination of events, into which I\nneed not enter, caused Mr. Sherlock Holmes and myself to spend\nsome weeks in one of our great university towns, and it was\nduring this time that the small but instructive adventure which I\nam about to relate befell us. It will be obvious that any details\nwhich would help the reader exactly to identify the college or\nthe criminal would be injudicious and offensive. So painful a\nscandal may well be allowed to die out. With due discretion the\nincident itself may, however, be described, since it serves to\nillustrate some of those qualities for which my friend was\nremarkable. I will endeavour, in my statement, to avoid such\nterms as would serve to limit the events to any particular place,\nor give a clue as to the people concerned.\n\n[pg1661:pg1661_story_08:0021:dee395fc22c3 | The Adventures of Sherlock Holmes | page pg1661_story_08]\nBy the light of the corridor-lamp I\nsaw my sister appear at the opening, her face blanched with terror, her\nhands groping for help, her whole figure swaying to and fro like that\nof a drunkard. I ran to her and threw my arms round her, but at that\nmoment her knees seemed to give way and she fell to the ground. She\nwrithed as one who is in terrible pain, and her limbs were dreadfully\nconvulsed. At first I thought that she had not recognised me, but as I\nbent over her she suddenly shrieked out in a voice which I shall never\nforget, ‘Oh, my God! Helen! It was the band! The speckled band!’ There\nwas something else which she would fain have said, and she stabbed with\nher finger into the air in the direction of the Doctor’s room, but a\nfresh convulsion seized her and choked her words. I rushed out, calling\nloudly for my stepfather, and I met him hastening from his room in his\ndressing-gown.",
+    "context_ids": [
+      "pg1661:pg1661_story_08:0000:ace911b9dea0",
+      "pg1661:pg1661_story_08:0024:8ded34ce06d0",
+      "pg1661:pg1661_story_08:0060:b0925aaeb9c3",
+      "pg108:pg108_story_09:0000:1f04a535b3d1",
+      "pg1661:pg1661_story_08:0021:dee395fc22c3"
+    ],
+    "gold": [
+      {
+        "source_id": "pg1661",
+        "page": "pg1661_story_08",
+        "evidence": "It is a swamp adder!"
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "context_chars": 3916,
+    "elapsed_ms": 6.6764000002876855
+  },
+  {
+    "query_id": "D7T003",
+    "split": "test",
+    "strategy": "tfidf",
+    "question": "In 'The Adventure of the Copper Beeches', what annual salary did Jephro Rucastle offer Violet Hunter?",
+    "results": [
+      {
+        "id": "pg1661:pg1661_story_12:0065:dafebd4337ff",
+        "text": "And thus was solved the mystery of the sinister house with the copper\nbeeches in front of the door. Mr. Rucastle survived, but was always a\nbroken man, kept alive solely through the care of his devoted wife.\nThey still live with their old servants, who probably know so much of\nRucastle’s past life that he finds it difficult to part from them. Mr.\nFowler and Miss Rucastle were married, by special license, in\nSouthampton the day after their flight, and he is now the holder of a\ngovernment appointment in the island of Mauritius. As to Miss Violet\nHunter, my friend Holmes, rather to my disappointment, manifested no\nfurther interest in her when once she had ceased to be the centre of\none of his problems, and she is now the head of a private school at\nWalsall, where I believe that she has met with considerable success.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_12",
+        "metadata": {
+          "section": "The Adventure of the Copper Beeches",
+          "source_id": "pg1661",
+          "chunk_index": 65,
+          "char_start": 52209,
+          "char_end": 53033
+        },
+        "score": 0.2550214417132667,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg1661:pg1661_story_12:0038:278af6abbc62",
+        "text": "“I did as I was told, and at the same instant Mrs. Rucastle drew down\nthe blind. That was a week ago, and from that time I have not sat again\nin the window, nor have I worn the blue dress, nor seen the man in the\nroad.”\n\n“Pray continue,” said Holmes. “Your narrative promises to be a most\ninteresting one.”\n\n“You will find it rather disconnected, I fear, and there may prove to\nbe little relation between the different incidents of which I speak. On\nthe very first day that I was at the Copper Beeches, Mr. Rucastle took\nme to a small outhouse which stands near the kitchen door. As we\napproached it I heard the sharp rattling of a chain, and the sound as\nof a large animal moving about.\n\n“‘Look in here!’ said Mr. Rucastle, showing me a slit between two\nplanks. ‘Is he not a beauty?’\n\n“I looked through and was conscious of two glowing eyes, and of a vague\nfigure huddled up in the darkness.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_12",
+        "metadata": {
+          "section": "The Adventure of the Copper Beeches",
+          "source_id": "pg1661",
+          "chunk_index": 38,
+          "char_start": 31128,
+          "char_end": 32020
+        },
+        "score": 0.19685838415408527,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg1661:pg1661_story_12:0028:3cad518aea5d",
+        "text": "“Their reasons for their conduct. But you shall have it all just as it\noccurred. When I came down, Mr. Rucastle met me here and drove me in\nhis dog-cart to the Copper Beeches. It is, as he said, beautifully\nsituated, but it is not beautiful in itself, for it is a large square\nblock of a house, whitewashed, but all stained and streaked with damp\nand bad weather. There are grounds round it, woods on three sides, and\non the fourth a field which slopes down to the Southampton high road,\nwhich curves past about a hundred yards from the front door. This\nground in front belongs to the house, but the woods all round are part\nof Lord Southerton’s preserves. A clump of copper beeches immediately\nin front of the hall door has given its name to the place.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_12",
+        "metadata": {
+          "section": "The Adventure of the Copper Beeches",
+          "source_id": "pg1661",
+          "chunk_index": 28,
+          "char_start": 23143,
+          "char_end": 23896
+        },
+        "score": 0.1950413626590862,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg1661:pg1661_story_12:0032:4082c6e79ad5",
+        "text": "“I shall try not to miss anything of importance. The one unpleasant\nthing about the house, which struck me at once, was the appearance and\nconduct of the servants. There are only two, a man and his wife.\nToller, for that is his name, is a rough, uncouth man, with grizzled\nhair and whiskers, and a perpetual smell of drink. Twice since I have\nbeen with them he has been quite drunk, and yet Mr. Rucastle seemed to\ntake no notice of it. His wife is a very tall and strong woman with a\nsour face, as silent as Mrs. Rucastle and much less amiable. They are a\nmost unpleasant couple, but fortunately I spend most of my time in the\nnursery and my own room, which are next to each other in one corner of\nthe building.\n\n“For two days after my arrival at the Copper Beeches my life was very\nquiet; on the third, Mrs. Rucastle came down just after breakfast and\nwhispered something to her husband.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_12",
+        "metadata": {
+          "section": "The Adventure of the Copper Beeches",
+          "source_id": "pg1661",
+          "chunk_index": 32,
+          "char_start": 26220,
+          "char_end": 27108
+        },
+        "score": 0.1780883100737126,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg1661:pg1661_story_12:0018:70c3937d2bd3",
+        "text": "As regards your hair, it is no doubt a pity,\nespecially as I could not help remarking its beauty during our\nshort interview, but I am afraid that I must remain firm upon this\npoint, and I only hope that the increased salary may recompense you\nfor the loss. Your duties, as far as the child is concerned, are\nvery light. Now do try to come, and I shall meet you with the\ndog-cart at Winchester. Let me know your train. Yours faithfully,\n\n“‘JEPHRO RUCASTLE.’\n\n“That is the letter which I have just received, Mr. Holmes, and my mind\nis made up that I will accept it. I thought, however, that before\ntaking the final step I should like to submit the whole matter to your\nconsideration.”\n\n“Well, Miss Hunter, if your mind is made up, that settles the\nquestion,” said Holmes, smiling.\n\n“But you would not advise me to refuse?”\n\n“I confess that it is not the situation which I should like to see a\nsister of mine apply for.”\n\n“What is the meaning of it all, Mr. Holmes?”",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_12",
+        "metadata": {
+          "section": "The Adventure of the Copper Beeches",
+          "source_id": "pg1661",
+          "chunk_index": 18,
+          "char_start": 14160,
+          "char_end": 15123
+        },
+        "score": 0.17048538530189983,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[pg1661:pg1661_story_12:0065:dafebd4337ff | The Adventures of Sherlock Holmes | page pg1661_story_12]\nAnd thus was solved the mystery of the sinister house with the copper\nbeeches in front of the door. Mr. Rucastle survived, but was always a\nbroken man, kept alive solely through the care of his devoted wife.\nThey still live with their old servants, who probably know so much of\nRucastle’s past life that he finds it difficult to part from them. Mr.\nFowler and Miss Rucastle were married, by special license, in\nSouthampton the day after their flight, and he is now the holder of a\ngovernment appointment in the island of Mauritius. As to Miss Violet\nHunter, my friend Holmes, rather to my disappointment, manifested no\nfurther interest in her when once she had ceased to be the centre of\none of his problems, and she is now the head of a private school at\nWalsall, where I believe that she has met with considerable success.\n\n[pg1661:pg1661_story_12:0038:278af6abbc62 | The Adventures of Sherlock Holmes | page pg1661_story_12]\n“I did as I was told, and at the same instant Mrs. Rucastle drew down\nthe blind. That was a week ago, and from that time I have not sat again\nin the window, nor have I worn the blue dress, nor seen the man in the\nroad.”\n\n“Pray continue,” said Holmes. “Your narrative promises to be a most\ninteresting one.”\n\n“You will find it rather disconnected, I fear, and there may prove to\nbe little relation between the different incidents of which I speak. On\nthe very first day that I was at the Copper Beeches, Mr. Rucastle took\nme to a small outhouse which stands near the kitchen door. As we\napproached it I heard the sharp rattling of a chain, and the sound as\nof a large animal moving about.\n\n“‘Look in here!’ said Mr. Rucastle, showing me a slit between two\nplanks. ‘Is he not a beauty?’\n\n“I looked through and was conscious of two glowing eyes, and of a vague\nfigure huddled up in the darkness.\n\n[pg1661:pg1661_story_12:0028:3cad518aea5d | The Adventures of Sherlock Holmes | page pg1661_story_12]\n“Their reasons for their conduct. But you shall have it all just as it\noccurred. When I came down, Mr. Rucastle met me here and drove me in\nhis dog-cart to the Copper Beeches. It is, as he said, beautifully\nsituated, but it is not beautiful in itself, for it is a large square\nblock of a house, whitewashed, but all stained and streaked with damp\nand bad weather. There are grounds round it, woods on three sides, and\non the fourth a field which slopes down to the Southampton high road,\nwhich curves past about a hundred yards from the front door. This\nground in front belongs to the house, but the woods all round are part\nof Lord Southerton’s preserves. A clump of copper beeches immediately\nin front of the hall door has given its name to the place.\n\n[pg1661:pg1661_story_12:0032:4082c6e79ad5 | The Adventures of Sherlock Holmes | page pg1661_story_12]\n“I shall try not to miss anything of importance. The one unpleasant\nthing about the house, which struck me at once, was the appearance and\nconduct of the servants. There are only two, a man and his wife.\nToller, for that is his name, is a rough, uncouth man, with grizzled\nhair and whiskers, and a perpetual smell of drink. Twice since I have\nbeen with them he has been quite drunk, and yet Mr. Rucastle seemed to\ntake no notice of it. His wife is a very tall and strong woman with a\nsour face, as silent as Mrs. Rucastle and much less amiable. They are a\nmost unpleasant couple, but fortunately I spend most of my time in the\nnursery and my own room, which are next to each other in one corner of\nthe building.\n\n“For two days after my arrival at the Copper Beeches my life was very\nquiet; on the third, Mrs. Rucastle came down just after breakfast and\nwhispered something to her husband.",
+    "context_ids": [
+      "pg1661:pg1661_story_12:0065:dafebd4337ff",
+      "pg1661:pg1661_story_12:0038:278af6abbc62",
+      "pg1661:pg1661_story_12:0028:3cad518aea5d",
+      "pg1661:pg1661_story_12:0032:4082c6e79ad5"
+    ],
+    "gold": [
+      {
+        "source_id": "pg1661",
+        "page": "pg1661_story_12",
+        "evidence": "Your salary with me, madam, would commence at £ 100 a year."
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "context_chars": 3771,
+    "elapsed_ms": 7.943500000692438
+  },
+  {
+    "query_id": "D7T003",
+    "split": "test",
+    "strategy": "bm25",
+    "question": "In 'The Adventure of the Copper Beeches', what annual salary did Jephro Rucastle offer Violet Hunter?",
+    "results": [
+      {
+        "id": "pg1661:pg1661_story_12:0065:dafebd4337ff",
+        "text": "And thus was solved the mystery of the sinister house with the copper\nbeeches in front of the door. Mr. Rucastle survived, but was always a\nbroken man, kept alive solely through the care of his devoted wife.\nThey still live with their old servants, who probably know so much of\nRucastle’s past life that he finds it difficult to part from them. Mr.\nFowler and Miss Rucastle were married, by special license, in\nSouthampton the day after their flight, and he is now the holder of a\ngovernment appointment in the island of Mauritius. As to Miss Violet\nHunter, my friend Holmes, rather to my disappointment, manifested no\nfurther interest in her when once she had ceased to be the centre of\none of his problems, and she is now the head of a private school at\nWalsall, where I believe that she has met with considerable success.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_12",
+        "metadata": {
+          "section": "The Adventure of the Copper Beeches",
+          "source_id": "pg1661",
+          "chunk_index": 65,
+          "char_start": 52209,
+          "char_end": 53033
+        },
+        "score": 27.229833464659702,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg1661:pg1661_story_12:0018:70c3937d2bd3",
+        "text": "As regards your hair, it is no doubt a pity,\nespecially as I could not help remarking its beauty during our\nshort interview, but I am afraid that I must remain firm upon this\npoint, and I only hope that the increased salary may recompense you\nfor the loss. Your duties, as far as the child is concerned, are\nvery light. Now do try to come, and I shall meet you with the\ndog-cart at Winchester. Let me know your train. Yours faithfully,\n\n“‘JEPHRO RUCASTLE.’\n\n“That is the letter which I have just received, Mr. Holmes, and my mind\nis made up that I will accept it. I thought, however, that before\ntaking the final step I should like to submit the whole matter to your\nconsideration.”\n\n“Well, Miss Hunter, if your mind is made up, that settles the\nquestion,” said Holmes, smiling.\n\n“But you would not advise me to refuse?”\n\n“I confess that it is not the situation which I should like to see a\nsister of mine apply for.”\n\n“What is the meaning of it all, Mr. Holmes?”",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_12",
+        "metadata": {
+          "section": "The Adventure of the Copper Beeches",
+          "source_id": "pg1661",
+          "chunk_index": 18,
+          "char_start": 14160,
+          "char_end": 15123
+        },
+        "score": 20.345241793574928,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg1661:pg1661_story_12:0028:3cad518aea5d",
+        "text": "“Their reasons for their conduct. But you shall have it all just as it\noccurred. When I came down, Mr. Rucastle met me here and drove me in\nhis dog-cart to the Copper Beeches. It is, as he said, beautifully\nsituated, but it is not beautiful in itself, for it is a large square\nblock of a house, whitewashed, but all stained and streaked with damp\nand bad weather. There are grounds round it, woods on three sides, and\non the fourth a field which slopes down to the Southampton high road,\nwhich curves past about a hundred yards from the front door. This\nground in front belongs to the house, but the woods all round are part\nof Lord Southerton’s preserves. A clump of copper beeches immediately\nin front of the hall door has given its name to the place.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_12",
+        "metadata": {
+          "section": "The Adventure of the Copper Beeches",
+          "source_id": "pg1661",
+          "chunk_index": 28,
+          "char_start": 23143,
+          "char_end": 23896
+        },
+        "score": 19.133260556381085,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg1661:pg1661_story_12:0037:fd1f1c9f01d3",
+        "text": "This man, however, was leaning against the railings which\nbordered our field and was looking earnestly up. I lowered my\nhandkerchief and glanced at Mrs. Rucastle to find her eyes fixed upon\nme with a most searching gaze. She said nothing, but I am convinced\nthat she had divined that I had a mirror in my hand and had seen what\nwas behind me. She rose at once.\n\n“‘Jephro,’ said she, ‘there is an impertinent fellow upon the road\nthere who stares up at Miss Hunter.’\n\n“‘No friend of yours, Miss Hunter?’ he asked.\n\n“‘No, I know no one in these parts.’\n\n“‘Dear me! How very impertinent! Kindly turn round and motion to him to\ngo away.’\n\n“‘Surely it would be better to take no notice.’\n\n“‘No, no, we should have him loitering here always. Kindly turn round\nand wave him away like that.’",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_12",
+        "metadata": {
+          "section": "The Adventure of the Copper Beeches",
+          "source_id": "pg1661",
+          "chunk_index": 37,
+          "char_start": 30343,
+          "char_end": 31126
+        },
+        "score": 18.70020870053057,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg1661:pg1661_story_12:0038:278af6abbc62",
+        "text": "“I did as I was told, and at the same instant Mrs. Rucastle drew down\nthe blind. That was a week ago, and from that time I have not sat again\nin the window, nor have I worn the blue dress, nor seen the man in the\nroad.”\n\n“Pray continue,” said Holmes. “Your narrative promises to be a most\ninteresting one.”\n\n“You will find it rather disconnected, I fear, and there may prove to\nbe little relation between the different incidents of which I speak. On\nthe very first day that I was at the Copper Beeches, Mr. Rucastle took\nme to a small outhouse which stands near the kitchen door. As we\napproached it I heard the sharp rattling of a chain, and the sound as\nof a large animal moving about.\n\n“‘Look in here!’ said Mr. Rucastle, showing me a slit between two\nplanks. ‘Is he not a beauty?’\n\n“I looked through and was conscious of two glowing eyes, and of a vague\nfigure huddled up in the darkness.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_12",
+        "metadata": {
+          "section": "The Adventure of the Copper Beeches",
+          "source_id": "pg1661",
+          "chunk_index": 38,
+          "char_start": 31128,
+          "char_end": 32020
+        },
+        "score": 18.45524066738421,
+        "strategy": "bm25"
+      }
+    ],
+    "context": "[pg1661:pg1661_story_12:0065:dafebd4337ff | The Adventures of Sherlock Holmes | page pg1661_story_12]\nAnd thus was solved the mystery of the sinister house with the copper\nbeeches in front of the door. Mr. Rucastle survived, but was always a\nbroken man, kept alive solely through the care of his devoted wife.\nThey still live with their old servants, who probably know so much of\nRucastle’s past life that he finds it difficult to part from them. Mr.\nFowler and Miss Rucastle were married, by special license, in\nSouthampton the day after their flight, and he is now the holder of a\ngovernment appointment in the island of Mauritius. As to Miss Violet\nHunter, my friend Holmes, rather to my disappointment, manifested no\nfurther interest in her when once she had ceased to be the centre of\none of his problems, and she is now the head of a private school at\nWalsall, where I believe that she has met with considerable success.\n\n[pg1661:pg1661_story_12:0018:70c3937d2bd3 | The Adventures of Sherlock Holmes | page pg1661_story_12]\nAs regards your hair, it is no doubt a pity,\nespecially as I could not help remarking its beauty during our\nshort interview, but I am afraid that I must remain firm upon this\npoint, and I only hope that the increased salary may recompense you\nfor the loss. Your duties, as far as the child is concerned, are\nvery light. Now do try to come, and I shall meet you with the\ndog-cart at Winchester. Let me know your train. Yours faithfully,\n\n“‘JEPHRO RUCASTLE.’\n\n“That is the letter which I have just received, Mr. Holmes, and my mind\nis made up that I will accept it. I thought, however, that before\ntaking the final step I should like to submit the whole matter to your\nconsideration.”\n\n“Well, Miss Hunter, if your mind is made up, that settles the\nquestion,” said Holmes, smiling.\n\n“But you would not advise me to refuse?”\n\n“I confess that it is not the situation which I should like to see a\nsister of mine apply for.”\n\n“What is the meaning of it all, Mr. Holmes?”\n\n[pg1661:pg1661_story_12:0028:3cad518aea5d | The Adventures of Sherlock Holmes | page pg1661_story_12]\n“Their reasons for their conduct. But you shall have it all just as it\noccurred. When I came down, Mr. Rucastle met me here and drove me in\nhis dog-cart to the Copper Beeches. It is, as he said, beautifully\nsituated, but it is not beautiful in itself, for it is a large square\nblock of a house, whitewashed, but all stained and streaked with damp\nand bad weather. There are grounds round it, woods on three sides, and\non the fourth a field which slopes down to the Southampton high road,\nwhich curves past about a hundred yards from the front door. This\nground in front belongs to the house, but the woods all round are part\nof Lord Southerton’s preserves. A clump of copper beeches immediately\nin front of the hall door has given its name to the place.\n\n[pg1661:pg1661_story_12:0037:fd1f1c9f01d3 | The Adventures of Sherlock Holmes | page pg1661_story_12]\nThis man, however, was leaning against the railings which\nbordered our field and was looking earnestly up. I lowered my\nhandkerchief and glanced at Mrs. Rucastle to find her eyes fixed upon\nme with a most searching gaze. She said nothing, but I am convinced\nthat she had divined that I had a mirror in my hand and had seen what\nwas behind me. She rose at once.\n\n“‘Jephro,’ said she, ‘there is an impertinent fellow upon the road\nthere who stares up at Miss Hunter.’\n\n“‘No friend of yours, Miss Hunter?’ he asked.\n\n“‘No, I know no one in these parts.’\n\n“‘Dear me! How very impertinent! Kindly turn round and motion to him to\ngo away.’\n\n“‘Surely it would be better to take no notice.’\n\n“‘No, no, we should have him loitering here always. Kindly turn round\nand wave him away like that.’",
+    "context_ids": [
+      "pg1661:pg1661_story_12:0065:dafebd4337ff",
+      "pg1661:pg1661_story_12:0018:70c3937d2bd3",
+      "pg1661:pg1661_story_12:0028:3cad518aea5d",
+      "pg1661:pg1661_story_12:0037:fd1f1c9f01d3"
+    ],
+    "gold": [
+      {
+        "source_id": "pg1661",
+        "page": "pg1661_story_12",
+        "evidence": "Your salary with me, madam, would commence at £ 100 a year."
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "context_chars": 3737,
+    "elapsed_ms": 7.596999999805121
+  },
+  {
+    "query_id": "D7T004",
+    "split": "test",
+    "strategy": "tfidf",
+    "question": "In 'The Adventure of the Engineer's Thumb', which finger did Victor Hatherley lose?",
+    "results": [
+      {
+        "id": "pg1661:pg1661_story_09:0000:00ec034e81fa",
+        "text": "IX. THE ADVENTURE OF THE ENGINEER’S THUMB",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_09",
+        "metadata": {
+          "section": "The Adventure of the Engineer’s Thumb",
+          "source_id": "pg1661",
+          "chunk_index": 0,
+          "char_start": 0,
+          "char_end": 41
+        },
+        "score": 0.5162054181452201,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg1661:pg1661_story_09:0056:bd0fc50172f4",
+        "text": "How our hydraulic engineer had been conveyed from the garden to the\nspot where he recovered his senses might have remained forever a\nmystery were it not for the soft mould, which told us a very plain\ntale. He had evidently been carried down by two persons, one of whom\nhad remarkably small feet and the other unusually large ones. On the\nwhole, it was most probable that the silent Englishman, being less bold\nor less murderous than his companion, had assisted the woman to bear\nthe unconscious man out of the way of danger.\n\n“Well,” said our engineer ruefully as we took our seats to return once\nmore to London, “it has been a pretty business for me! I have lost my\nthumb and I have lost a fifty-guinea fee, and what have I gained?”\n\n“Experience,” said Holmes, laughing. “Indirectly it may be of value,\nyou know; you have only to put it into words to gain the reputation of\nbeing excellent company for the remainder of your existence.”",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_09",
+        "metadata": {
+          "section": "The Adventure of the Engineer’s Thumb",
+          "source_id": "pg1661",
+          "chunk_index": 56,
+          "char_start": 43669,
+          "char_end": 44605
+        },
+        "score": 0.16953338238078375,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg1661:pg1661_story_09:0005:5b2b94ffc0d0",
+        "text": "I took it up and glanced at it. “Mr. Victor Hatherley, hydraulic\nengineer, 16A, Victoria Street (3rd floor).” That was the name, style,\nand abode of my morning visitor. “I regret that I have kept you\nwaiting,” said I, sitting down in my library-chair. “You are fresh from\na night journey, I understand, which is in itself a monotonous\noccupation.”\n\n“Oh, my night could not be called monotonous,” said he, and laughed. He\nlaughed very heartily, with a high, ringing note, leaning back in his\nchair and shaking his sides. All my medical instincts rose up against\nthat laugh.\n\n“Stop it!” I cried; “pull yourself together!” and I poured out some\nwater from a caraffe.\n\nIt was useless, however. He was off in one of those hysterical\noutbursts which come upon a strong nature when some great crisis is\nover and gone. Presently he came to himself once more, very weary and\npale-looking.\n\n“I have been making a fool of myself,” he gasped.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_09",
+        "metadata": {
+          "section": "The Adventure of the Engineer’s Thumb",
+          "source_id": "pg1661",
+          "chunk_index": 5,
+          "char_start": 3622,
+          "char_end": 4552
+        },
+        "score": 0.16078489521794928,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg1661:pg1661_story_04:0040:bfb5cfa3400f",
+        "text": "The Boscombe Pool, which is a little reed-girt sheet of water some\nfifty yards across, is situated at the boundary between the Hatherley\nFarm and the private park of the wealthy Mr. Turner. Above the woods\nwhich lined it upon the farther side we could see the red, jutting\npinnacles which marked the site of the rich landowner’s dwelling. On\nthe Hatherley side of the pool the woods grew very thick, and there was\na narrow belt of sodden grass twenty paces across between the edge of\nthe trees and the reeds which lined the lake. Lestrade showed us the\nexact spot at which the body had been found, and, indeed, so moist was\nthe ground, that I could plainly see the traces which had been left by\nthe fall of the stricken man. To Holmes, as I could see by his eager\nface and peering eyes, very many other things were to be read upon the\ntrampled grass. He ran round, like a dog who is picking up a scent, and\nthen turned upon my companion.\n\n“What did you go into the pool for?” he asked.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_04",
+        "metadata": {
+          "section": "The Boscombe Valley Mystery",
+          "source_id": "pg1661",
+          "chunk_index": 40,
+          "char_start": 33021,
+          "char_end": 34006
+        },
+        "score": 0.1481095875462869,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg834:pg834_story_11:0000:aca69cb3cd40",
+        "text": "XI. The Naval Treaty\n\nThe July which immediately succeeded my marriage was made\nmemorable by three cases of interest, in which I had the\nprivilege of being associated with Sherlock Holmes and of\nstudying his methods. I find them recorded in my notes under the\nheadings of “The Adventure of the Second Stain,” “The Adventure\nof the Naval Treaty,” and “The Adventure of the Tired Captain.”\nThe first of these, however, deals with interest of such\nimportance and implicates so many of the first families in the\nkingdom that for many years it will be impossible to make it\npublic. No case, however, in which Holmes was engaged has ever\nillustrated the value of his analytical methods so clearly or has\nimpressed those who were associated with him so deeply.",
+        "source_id": "pg834",
+        "source": "The Memoirs of Sherlock Holmes",
+        "page": "pg834_story_11",
+        "metadata": {
+          "section": "The Naval Treaty",
+          "source_id": "pg834",
+          "chunk_index": 0,
+          "char_start": 0,
+          "char_end": 753
+        },
+        "score": 0.14764793755545386,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[pg1661:pg1661_story_09:0000:00ec034e81fa | The Adventures of Sherlock Holmes | page pg1661_story_09]\nIX. THE ADVENTURE OF THE ENGINEER’S THUMB\n\n[pg1661:pg1661_story_09:0056:bd0fc50172f4 | The Adventures of Sherlock Holmes | page pg1661_story_09]\nHow our hydraulic engineer had been conveyed from the garden to the\nspot where he recovered his senses might have remained forever a\nmystery were it not for the soft mould, which told us a very plain\ntale. He had evidently been carried down by two persons, one of whom\nhad remarkably small feet and the other unusually large ones. On the\nwhole, it was most probable that the silent Englishman, being less bold\nor less murderous than his companion, had assisted the woman to bear\nthe unconscious man out of the way of danger.\n\n“Well,” said our engineer ruefully as we took our seats to return once\nmore to London, “it has been a pretty business for me! I have lost my\nthumb and I have lost a fifty-guinea fee, and what have I gained?”\n\n“Experience,” said Holmes, laughing. “Indirectly it may be of value,\nyou know; you have only to put it into words to gain the reputation of\nbeing excellent company for the remainder of your existence.”\n\n[pg1661:pg1661_story_09:0005:5b2b94ffc0d0 | The Adventures of Sherlock Holmes | page pg1661_story_09]\nI took it up and glanced at it. “Mr. Victor Hatherley, hydraulic\nengineer, 16A, Victoria Street (3rd floor).” That was the name, style,\nand abode of my morning visitor. “I regret that I have kept you\nwaiting,” said I, sitting down in my library-chair. “You are fresh from\na night journey, I understand, which is in itself a monotonous\noccupation.”\n\n“Oh, my night could not be called monotonous,” said he, and laughed. He\nlaughed very heartily, with a high, ringing note, leaning back in his\nchair and shaking his sides. All my medical instincts rose up against\nthat laugh.\n\n“Stop it!” I cried; “pull yourself together!” and I poured out some\nwater from a caraffe.\n\nIt was useless, however. He was off in one of those hysterical\noutbursts which come upon a strong nature when some great crisis is\nover and gone. Presently he came to himself once more, very weary and\npale-looking.\n\n“I have been making a fool of myself,” he gasped.\n\n[pg1661:pg1661_story_04:0040:bfb5cfa3400f | The Adventures of Sherlock Holmes | page pg1661_story_04]\nThe Boscombe Pool, which is a little reed-girt sheet of water some\nfifty yards across, is situated at the boundary between the Hatherley\nFarm and the private park of the wealthy Mr. Turner. Above the woods\nwhich lined it upon the farther side we could see the red, jutting\npinnacles which marked the site of the rich landowner’s dwelling. On\nthe Hatherley side of the pool the woods grew very thick, and there was\na narrow belt of sodden grass twenty paces across between the edge of\nthe trees and the reeds which lined the lake. Lestrade showed us the\nexact spot at which the body had been found, and, indeed, so moist was\nthe ground, that I could plainly see the traces which had been left by\nthe fall of the stricken man. To Holmes, as I could see by his eager\nface and peering eyes, very many other things were to be read upon the\ntrampled grass. He ran round, like a dog who is picking up a scent, and\nthen turned upon my companion.\n\n“What did you go into the pool for?” he asked.",
+    "context_ids": [
+      "pg1661:pg1661_story_09:0000:00ec034e81fa",
+      "pg1661:pg1661_story_09:0056:bd0fc50172f4",
+      "pg1661:pg1661_story_09:0005:5b2b94ffc0d0",
+      "pg1661:pg1661_story_04:0040:bfb5cfa3400f"
+    ],
+    "gold": [
+      {
+        "source_id": "pg1661",
+        "page": "pg1661_story_09",
+        "evidence": "Hatherley’s thumb"
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "context_chars": 3306,
+    "elapsed_ms": 7.675500000914326
+  },
+  {
+    "query_id": "D7T004",
+    "split": "test",
+    "strategy": "bm25",
+    "question": "In 'The Adventure of the Engineer's Thumb', which finger did Victor Hatherley lose?",
+    "results": [
+      {
+        "id": "pg1661:pg1661_story_09:0000:00ec034e81fa",
+        "text": "IX. THE ADVENTURE OF THE ENGINEER’S THUMB",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_09",
+        "metadata": {
+          "section": "The Adventure of the Engineer’s Thumb",
+          "source_id": "pg1661",
+          "chunk_index": 0,
+          "char_start": 0,
+          "char_end": 41
+        },
+        "score": 24.057620789325348,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg1661:pg1661_story_09:0005:5b2b94ffc0d0",
+        "text": "I took it up and glanced at it. “Mr. Victor Hatherley, hydraulic\nengineer, 16A, Victoria Street (3rd floor).” That was the name, style,\nand abode of my morning visitor. “I regret that I have kept you\nwaiting,” said I, sitting down in my library-chair. “You are fresh from\na night journey, I understand, which is in itself a monotonous\noccupation.”\n\n“Oh, my night could not be called monotonous,” said he, and laughed. He\nlaughed very heartily, with a high, ringing note, leaning back in his\nchair and shaking his sides. All my medical instincts rose up against\nthat laugh.\n\n“Stop it!” I cried; “pull yourself together!” and I poured out some\nwater from a caraffe.\n\nIt was useless, however. He was off in one of those hysterical\noutbursts which come upon a strong nature when some great crisis is\nover and gone. Presently he came to himself once more, very weary and\npale-looking.\n\n“I have been making a fool of myself,” he gasped.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_09",
+        "metadata": {
+          "section": "The Adventure of the Engineer’s Thumb",
+          "source_id": "pg1661",
+          "chunk_index": 5,
+          "char_start": 3622,
+          "char_end": 4552
+        },
+        "score": 16.508732058785597,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg1661:pg1661_story_09:0056:bd0fc50172f4",
+        "text": "How our hydraulic engineer had been conveyed from the garden to the\nspot where he recovered his senses might have remained forever a\nmystery were it not for the soft mould, which told us a very plain\ntale. He had evidently been carried down by two persons, one of whom\nhad remarkably small feet and the other unusually large ones. On the\nwhole, it was most probable that the silent Englishman, being less bold\nor less murderous than his companion, had assisted the woman to bear\nthe unconscious man out of the way of danger.\n\n“Well,” said our engineer ruefully as we took our seats to return once\nmore to London, “it has been a pretty business for me! I have lost my\nthumb and I have lost a fifty-guinea fee, and what have I gained?”\n\n“Experience,” said Holmes, laughing. “Indirectly it may be of value,\nyou know; you have only to put it into words to gain the reputation of\nbeing excellent company for the remainder of your existence.”",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_09",
+        "metadata": {
+          "section": "The Adventure of the Engineer’s Thumb",
+          "source_id": "pg1661",
+          "chunk_index": 56,
+          "char_start": 43669,
+          "char_end": 44605
+        },
+        "score": 12.065212613779872,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg1661:pg1661_story_09:0050:56458cb3c16d",
+        "text": "“I am for west,” remarked the plain-clothes man. “There are several\nquiet little villages up there.”\n\n“And I am for north,” said I, “because there are no hills there, and\nour friend says that he did not notice the carriage go up any.”\n\n“Come,” cried the inspector, laughing; “it’s a very pretty diversity of\nopinion. We have boxed the compass among us. Who do you give your\ncasting vote to?”\n\n“You are all wrong.”\n\n“But we can’t all be.”\n\n“Oh, yes, you can. This is my point.” He placed his finger in the\ncentre of the circle. “This is where we shall find them.”\n\n“But the twelve-mile drive?” gasped Hatherley.\n\n“Six out and six back. Nothing simpler. You say yourself that the horse\nwas fresh and glossy when you got in. How could it be that if it had\ngone twelve miles over heavy roads?”\n\n“Indeed, it is a likely ruse enough,” observed Bradstreet thoughtfully.\n“Of course there can be no doubt as to the nature of this gang.”",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_09",
+        "metadata": {
+          "section": "The Adventure of the Engineer’s Thumb",
+          "source_id": "pg1661",
+          "chunk_index": 50,
+          "char_start": 39101,
+          "char_end": 40028
+        },
+        "score": 11.121370489532291,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg1661:pg1661_story_09:0001:fe809b3f08de",
+        "text": "Of all the problems which have been submitted to my friend, Mr. Sherlock Holmes, for solution during the years of our intimacy, there\nwere only two which I was the means of introducing to his notice—that\nof Mr. Hatherley’s thumb, and that of Colonel Warburton’s madness. Of\nthese the latter may have afforded a finer field for an acute and\noriginal observer, but the other was so strange in its inception and so\ndramatic in its details that it may be the more worthy of being placed\nupon record, even if it gave my friend fewer openings for those\ndeductive methods of reasoning by which he achieved such remarkable\nresults. The story has, I believe, been told more than once in the\nnewspapers, but, like all such narratives, its effect is much less\nstriking when set forth _en bloc_ in a single half-column of print than\nwhen the facts slowly evolve before your own eyes, and the mystery\nclears gradually away as each new discovery furnishes a step which\nleads on to the complete truth.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_09",
+        "metadata": {
+          "section": "The Adventure of the Engineer’s Thumb",
+          "source_id": "pg1661",
+          "chunk_index": 1,
+          "char_start": 43,
+          "char_end": 1029
+        },
+        "score": 10.891442787600875,
+        "strategy": "bm25"
+      }
+    ],
+    "context": "[pg1661:pg1661_story_09:0000:00ec034e81fa | The Adventures of Sherlock Holmes | page pg1661_story_09]\nIX. THE ADVENTURE OF THE ENGINEER’S THUMB\n\n[pg1661:pg1661_story_09:0005:5b2b94ffc0d0 | The Adventures of Sherlock Holmes | page pg1661_story_09]\nI took it up and glanced at it. “Mr. Victor Hatherley, hydraulic\nengineer, 16A, Victoria Street (3rd floor).” That was the name, style,\nand abode of my morning visitor. “I regret that I have kept you\nwaiting,” said I, sitting down in my library-chair. “You are fresh from\na night journey, I understand, which is in itself a monotonous\noccupation.”\n\n“Oh, my night could not be called monotonous,” said he, and laughed. He\nlaughed very heartily, with a high, ringing note, leaning back in his\nchair and shaking his sides. All my medical instincts rose up against\nthat laugh.\n\n“Stop it!” I cried; “pull yourself together!” and I poured out some\nwater from a caraffe.\n\nIt was useless, however. He was off in one of those hysterical\noutbursts which come upon a strong nature when some great crisis is\nover and gone. Presently he came to himself once more, very weary and\npale-looking.\n\n“I have been making a fool of myself,” he gasped.\n\n[pg1661:pg1661_story_09:0056:bd0fc50172f4 | The Adventures of Sherlock Holmes | page pg1661_story_09]\nHow our hydraulic engineer had been conveyed from the garden to the\nspot where he recovered his senses might have remained forever a\nmystery were it not for the soft mould, which told us a very plain\ntale. He had evidently been carried down by two persons, one of whom\nhad remarkably small feet and the other unusually large ones. On the\nwhole, it was most probable that the silent Englishman, being less bold\nor less murderous than his companion, had assisted the woman to bear\nthe unconscious man out of the way of danger.\n\n“Well,” said our engineer ruefully as we took our seats to return once\nmore to London, “it has been a pretty business for me! I have lost my\nthumb and I have lost a fifty-guinea fee, and what have I gained?”\n\n“Experience,” said Holmes, laughing. “Indirectly it may be of value,\nyou know; you have only to put it into words to gain the reputation of\nbeing excellent company for the remainder of your existence.”\n\n[pg1661:pg1661_story_09:0050:56458cb3c16d | The Adventures of Sherlock Holmes | page pg1661_story_09]\n“I am for west,” remarked the plain-clothes man. “There are several\nquiet little villages up there.”\n\n“And I am for north,” said I, “because there are no hills there, and\nour friend says that he did not notice the carriage go up any.”\n\n“Come,” cried the inspector, laughing; “it’s a very pretty diversity of\nopinion. We have boxed the compass among us. Who do you give your\ncasting vote to?”\n\n“You are all wrong.”\n\n“But we can’t all be.”\n\n“Oh, yes, you can. This is my point.” He placed his finger in the\ncentre of the circle. “This is where we shall find them.”\n\n“But the twelve-mile drive?” gasped Hatherley.\n\n“Six out and six back. Nothing simpler. You say yourself that the horse\nwas fresh and glossy when you got in. How could it be that if it had\ngone twelve miles over heavy roads?”\n\n“Indeed, it is a likely ruse enough,” observed Bradstreet thoughtfully.\n“Of course there can be no doubt as to the nature of this gang.”",
+    "context_ids": [
+      "pg1661:pg1661_story_09:0000:00ec034e81fa",
+      "pg1661:pg1661_story_09:0005:5b2b94ffc0d0",
+      "pg1661:pg1661_story_09:0056:bd0fc50172f4",
+      "pg1661:pg1661_story_09:0050:56458cb3c16d"
+    ],
+    "gold": [
+      {
+        "source_id": "pg1661",
+        "page": "pg1661_story_09",
+        "evidence": "Hatherley’s thumb"
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "context_chars": 3248,
+    "elapsed_ms": 7.7255000032891985
+  },
+  {
+    "query_id": "D7T005",
+    "split": "test",
+    "strategy": "tfidf",
+    "question": "In 'The Adventure of the Missing Three-Quarter', what was the missing Cambridge player's name?",
+    "results": [
+      {
+        "id": "pg1661:pg1661_story_11:0021:8211ffd54cc9",
+        "text": "“The gas was half up, as I had left it, and my unhappy boy, dressed\nonly in his shirt and trousers, was standing beside the light, holding\nthe coronet in his hands. He appeared to be wrenching at it, or bending\nit with all his strength. At my cry he dropped it from his grasp and\nturned as pale as death. I snatched it up and examined it. One of the\ngold corners, with three of the beryls in it, was missing.\n\n“‘You blackguard!’ I shouted, beside myself with rage. ‘You have\ndestroyed it! You have dishonoured me forever! Where are the jewels\nwhich you have stolen?’\n\n“‘Stolen!’ he cried.\n\n“‘Yes, thief!’ I roared, shaking him by the shoulder.\n\n“‘There are none missing. There cannot be any missing,’ said he.\n\n“‘There are three missing. And you know where they are. Must I call you\na liar as well as a thief? Did I not see you trying to tear off another\npiece?’",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_11",
+        "metadata": {
+          "section": "The Adventure of the Beryl Coronet",
+          "source_id": "pg1661",
+          "chunk_index": 21,
+          "char_start": 17187,
+          "char_end": 18049
+        },
+        "score": 0.28703096092824243,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg108:pg108_story_11:0000:621c742db205",
+        "text": "THE ADVENTURE OF THE MISSING THREE-QUARTER\n\nWe were fairly accustomed to receive weird telegrams at Baker\nStreet, but I have a particular recollection of one which reached\nus on a gloomy February morning, some seven or eight years ago,\nand gave Mr. Sherlock Holmes a puzzled quarter of an hour. It was\naddressed to him, and ran thus:\n\nPlease await me. Terrible misfortune. Right wing three-quarter\nmissing, indispensable to-morrow. OVERTON.\n\n“Strand postmark, and dispatched ten thirty-six,” said Holmes,\nreading it over and over. “Mr. Overton was evidently considerably\nexcited when he sent it, and somewhat incoherent in consequence.\nWell, well, he will be here, I daresay, by the time I have looked\nthrough _The Times_, and then we shall know all about it. Even\nthe most insignificant problem would be welcome in these stagnant\ndays.”",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_11",
+        "metadata": {
+          "section": "The Adventure of the Missing Three-Quarter",
+          "source_id": "pg108",
+          "chunk_index": 0,
+          "char_start": 0,
+          "char_end": 837
+        },
+        "score": 0.2728164843673046,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg108:pg108_story_01:0000:5c8446d0f177",
+        "text": "THE ADVENTURE OF THE EMPTY HOUSE\n\nIt was in the spring of the year 1894 that all London was\ninterested, and the fashionable world dismayed, by the murder of\nthe Honourable Ronald Adair under most unusual and inexplicable\ncircumstances. The public has already learned those particulars\nof the crime which came out in the police investigation, but a\ngood deal was suppressed upon that occasion, since the case for\nthe prosecution was so overwhelmingly strong that it was not\nnecessary to bring forward all the facts. Only now, at the end of\nnearly ten years, am I allowed to supply those missing links\nwhich make up the whole of that remarkable chain. The crime was\nof interest in itself, but that interest was as nothing to me\ncompared to the inconceivable sequel, which afforded me the\ngreatest shock and surprise of any event in my adventurous life.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_01",
+        "metadata": {
+          "section": "The Adventure of the Empty House",
+          "source_id": "pg108",
+          "chunk_index": 0,
+          "char_start": 0,
+          "char_end": 850
+        },
+        "score": 0.1824433256065072,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg108:pg108_story_13:0015:24f7c1866915",
+        "text": "“I understand you to say that your room is on the second floor,\nthat there is no entrance from without, and that from within no\none could go up unobserved. It must, then, be somebody in the\nhouse who has taken it. To whom would the thief take it? To one\nof several international spies and secret agents, whose names are\ntolerably familiar to me. There are three who may be said to be\nthe heads of their profession. I will begin my research by going\nround and finding if each of them is at his post. If one is\nmissing—especially if he has disappeared since last night—we will\nhave some indication as to where the document has gone.”\n\n“Why should he be missing?” asked the European Secretary. “He\nwould take the letter to an Embassy in London, as likely as not.”\n\n“I fancy not. These agents work independently, and their\nrelations with the Embassies are often strained.”\n\nThe Prime Minister nodded his acquiescence.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_13",
+        "metadata": {
+          "section": "The Adventure of the Second Stain",
+          "source_id": "pg108",
+          "chunk_index": 15,
+          "char_start": 12596,
+          "char_end": 13509
+        },
+        "score": 0.17444150432219202,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "pg1661:pg1661_story_09:0000:00ec034e81fa",
+        "text": "IX. THE ADVENTURE OF THE ENGINEER’S THUMB",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_09",
+        "metadata": {
+          "section": "The Adventure of the Engineer’s Thumb",
+          "source_id": "pg1661",
+          "chunk_index": 0,
+          "char_start": 0,
+          "char_end": 41
+        },
+        "score": 0.1617147197631227,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[pg1661:pg1661_story_11:0021:8211ffd54cc9 | The Adventures of Sherlock Holmes | page pg1661_story_11]\n“The gas was half up, as I had left it, and my unhappy boy, dressed\nonly in his shirt and trousers, was standing beside the light, holding\nthe coronet in his hands. He appeared to be wrenching at it, or bending\nit with all his strength. At my cry he dropped it from his grasp and\nturned as pale as death. I snatched it up and examined it. One of the\ngold corners, with three of the beryls in it, was missing.\n\n“‘You blackguard!’ I shouted, beside myself with rage. ‘You have\ndestroyed it! You have dishonoured me forever! Where are the jewels\nwhich you have stolen?’\n\n“‘Stolen!’ he cried.\n\n“‘Yes, thief!’ I roared, shaking him by the shoulder.\n\n“‘There are none missing. There cannot be any missing,’ said he.\n\n“‘There are three missing. And you know where they are. Must I call you\na liar as well as a thief? Did I not see you trying to tear off another\npiece?’\n\n[pg108:pg108_story_11:0000:621c742db205 | The Return of Sherlock Holmes | page pg108_story_11]\nTHE ADVENTURE OF THE MISSING THREE-QUARTER\n\nWe were fairly accustomed to receive weird telegrams at Baker\nStreet, but I have a particular recollection of one which reached\nus on a gloomy February morning, some seven or eight years ago,\nand gave Mr. Sherlock Holmes a puzzled quarter of an hour. It was\naddressed to him, and ran thus:\n\nPlease await me. Terrible misfortune. Right wing three-quarter\nmissing, indispensable to-morrow. OVERTON.\n\n“Strand postmark, and dispatched ten thirty-six,” said Holmes,\nreading it over and over. “Mr. Overton was evidently considerably\nexcited when he sent it, and somewhat incoherent in consequence.\nWell, well, he will be here, I daresay, by the time I have looked\nthrough _The Times_, and then we shall know all about it. Even\nthe most insignificant problem would be welcome in these stagnant\ndays.”\n\n[pg108:pg108_story_01:0000:5c8446d0f177 | The Return of Sherlock Holmes | page pg108_story_01]\nTHE ADVENTURE OF THE EMPTY HOUSE\n\nIt was in the spring of the year 1894 that all London was\ninterested, and the fashionable world dismayed, by the murder of\nthe Honourable Ronald Adair under most unusual and inexplicable\ncircumstances. The public has already learned those particulars\nof the crime which came out in the police investigation, but a\ngood deal was suppressed upon that occasion, since the case for\nthe prosecution was so overwhelmingly strong that it was not\nnecessary to bring forward all the facts. Only now, at the end of\nnearly ten years, am I allowed to supply those missing links\nwhich make up the whole of that remarkable chain. The crime was\nof interest in itself, but that interest was as nothing to me\ncompared to the inconceivable sequel, which afforded me the\ngreatest shock and surprise of any event in my adventurous life.\n\n[pg108:pg108_story_13:0015:24f7c1866915 | The Return of Sherlock Holmes | page pg108_story_13]\n“I understand you to say that your room is on the second floor,\nthat there is no entrance from without, and that from within no\none could go up unobserved. It must, then, be somebody in the\nhouse who has taken it. To whom would the thief take it? To one\nof several international spies and secret agents, whose names are\ntolerably familiar to me. There are three who may be said to be\nthe heads of their profession. I will begin my research by going\nround and finding if each of them is at his post. If one is\nmissing—especially if he has disappeared since last night—we will\nhave some indication as to where the document has gone.”\n\n“Why should he be missing?” asked the European Secretary. “He\nwould take the letter to an Embassy in London, as likely as not.”\n\n“I fancy not. These agents work independently, and their\nrelations with the Embassies are often strained.”\n\nThe Prime Minister nodded his acquiescence.\n\n[pg1661:pg1661_story_09:0000:00ec034e81fa | The Adventures of Sherlock Holmes | page pg1661_story_09]\nIX. THE ADVENTURE OF THE ENGINEER’S THUMB",
+    "context_ids": [
+      "pg1661:pg1661_story_11:0021:8211ffd54cc9",
+      "pg108:pg108_story_11:0000:621c742db205",
+      "pg108:pg108_story_01:0000:5c8446d0f177",
+      "pg108:pg108_story_13:0015:24f7c1866915",
+      "pg1661:pg1661_story_09:0000:00ec034e81fa"
+    ],
+    "gold": [
+      {
+        "source_id": "pg108",
+        "page": "pg108_story_11",
+        "evidence": "Godfrey Staunton"
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "context_chars": 4000,
+    "elapsed_ms": 7.437199998094002
+  },
+  {
+    "query_id": "D7T005",
+    "split": "test",
+    "strategy": "bm25",
+    "question": "In 'The Adventure of the Missing Three-Quarter', what was the missing Cambridge player's name?",
+    "results": [
+      {
+        "id": "pg108:pg108_story_11:0000:621c742db205",
+        "text": "THE ADVENTURE OF THE MISSING THREE-QUARTER\n\nWe were fairly accustomed to receive weird telegrams at Baker\nStreet, but I have a particular recollection of one which reached\nus on a gloomy February morning, some seven or eight years ago,\nand gave Mr. Sherlock Holmes a puzzled quarter of an hour. It was\naddressed to him, and ran thus:\n\nPlease await me. Terrible misfortune. Right wing three-quarter\nmissing, indispensable to-morrow. OVERTON.\n\n“Strand postmark, and dispatched ten thirty-six,” said Holmes,\nreading it over and over. “Mr. Overton was evidently considerably\nexcited when he sent it, and somewhat incoherent in consequence.\nWell, well, he will be here, I daresay, by the time I have looked\nthrough _The Times_, and then we shall know all about it. Even\nthe most insignificant problem would be welcome in these stagnant\ndays.”",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_11",
+        "metadata": {
+          "section": "The Adventure of the Missing Three-Quarter",
+          "source_id": "pg108",
+          "chunk_index": 0,
+          "char_start": 0,
+          "char_end": 837
+        },
+        "score": 19.380405276750114,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg108:pg108_story_11:0005:c2519c344d8d",
+        "text": "“Great Scott!” cried the athlete. “Why, I was first reserve for\nEngland against Wales, and I’ve skippered the ’Varsity all this\nyear. But that’s nothing! I didn’t think there was a soul in\nEngland who didn’t know Godfrey Staunton, the crack\nthree-quarter, Cambridge, Blackheath, and five Internationals.\nGood Lord! Mr. Holmes, where _have_ you lived?”\n\nHolmes laughed at the young giant’s naïve astonishment.\n\n“You live in a different world to me, Mr. Overton—a sweeter and\nhealthier one. My ramifications stretch out into many sections of\nsociety, but never, I am happy to say, into amateur sport, which\nis the best and soundest thing in England. However, your\nunexpected visit this morning shows me that even in that world of\nfresh air and fair play, there may be work for me to do. So now,\nmy good sir, I beg you to sit down and to tell me, slowly and\nquietly, exactly what it is that has occurred, and how you desire\nthat I should help you.”",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_11",
+        "metadata": {
+          "section": "The Adventure of the Missing Three-Quarter",
+          "source_id": "pg108",
+          "chunk_index": 5,
+          "char_start": 4217,
+          "char_end": 5162
+        },
+        "score": 13.038677355999084,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg108:pg108_story_03:0050:319cdb26bf26",
+        "text": ".M .ERE ..E SL.NE.\n\n“Now the first letter _can_ only be A, which is a most useful\ndiscovery, since it occurs no fewer than three times in this\nshort sentence, and the H is also apparent in the second word.\nNow it becomes:\n\nAM HERE A.E SLANE.\n\nOr, filling in the obvious vacancies in the name:\n\nAM HERE ABE SLANEY.\n\nI had so many letters now that I could proceed with considerable\nconfidence to the second message, which worked out in this\nfashion:\n\nA. ELRI. ES.\n\nHere I could only make sense by putting T and G for the missing\nletters, and supposing that the name was that of some house or\ninn at which the writer was staying.”\n\nInspector Martin and I had listened with the utmost interest to\nthe full and clear account of how my friend had produced results\nwhich had led to so complete a command over our difficulties.\n\n“What did you do then, sir?” asked the inspector.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_03",
+        "metadata": {
+          "section": "The Adventure of the Dancing Men",
+          "source_id": "pg108",
+          "chunk_index": 50,
+          "char_start": 40114,
+          "char_end": 40984
+        },
+        "score": 11.193996055400298,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg1661:pg1661_story_11:0021:8211ffd54cc9",
+        "text": "“The gas was half up, as I had left it, and my unhappy boy, dressed\nonly in his shirt and trousers, was standing beside the light, holding\nthe coronet in his hands. He appeared to be wrenching at it, or bending\nit with all his strength. At my cry he dropped it from his grasp and\nturned as pale as death. I snatched it up and examined it. One of the\ngold corners, with three of the beryls in it, was missing.\n\n“‘You blackguard!’ I shouted, beside myself with rage. ‘You have\ndestroyed it! You have dishonoured me forever! Where are the jewels\nwhich you have stolen?’\n\n“‘Stolen!’ he cried.\n\n“‘Yes, thief!’ I roared, shaking him by the shoulder.\n\n“‘There are none missing. There cannot be any missing,’ said he.\n\n“‘There are three missing. And you know where they are. Must I call you\na liar as well as a thief? Did I not see you trying to tear off another\npiece?’",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_11",
+        "metadata": {
+          "section": "The Adventure of the Beryl Coronet",
+          "source_id": "pg1661",
+          "chunk_index": 21,
+          "char_start": 17187,
+          "char_end": 18049
+        },
+        "score": 10.725912478948208,
+        "strategy": "bm25"
+      },
+      {
+        "id": "pg108:pg108_story_11:0003:4f689550b3aa",
+        "text": "“It’s awful, Mr. Holmes—simply awful! I wonder my hair isn’t grey.\nGodfrey Staunton—you’ve heard of him, of course? He’s simply the\nhinge that the whole team turns on. I’d rather spare two from the\npack, and have Godfrey for my three-quarter line. Whether it’s\npassing, or tackling, or dribbling, there’s no one to touch him,\nand then, he’s got the head, and can hold us all together. What\nam I to do? That’s what I ask you, Mr. Holmes. There’s Moorhouse,\nfirst reserve, but he is trained as a half, and he always edges\nright in on to the scrum instead of keeping out on the touchline.\nHe’s a fine place-kick, it’s true, but then he has no judgment,\nand he can’t sprint for nuts. Why, Morton or Johnson, the Oxford\nfliers, could romp round him. Stevenson is fast enough, but he\ncouldn’t drop from the twenty-five line, and a three-quarter who\ncan’t either punt or drop isn’t worth a place for pace alone. No,\nMr. Holmes, we are done unless you can help me to find Godfrey\nStaunton.”",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_11",
+        "metadata": {
+          "section": "The Adventure of the Missing Three-Quarter",
+          "source_id": "pg108",
+          "chunk_index": 3,
+          "char_start": 2437,
+          "char_end": 3419
+        },
+        "score": 10.439814451547617,
+        "strategy": "bm25"
+      }
+    ],
+    "context": "[pg108:pg108_story_11:0000:621c742db205 | The Return of Sherlock Holmes | page pg108_story_11]\nTHE ADVENTURE OF THE MISSING THREE-QUARTER\n\nWe were fairly accustomed to receive weird telegrams at Baker\nStreet, but I have a particular recollection of one which reached\nus on a gloomy February morning, some seven or eight years ago,\nand gave Mr. Sherlock Holmes a puzzled quarter of an hour. It was\naddressed to him, and ran thus:\n\nPlease await me. Terrible misfortune. Right wing three-quarter\nmissing, indispensable to-morrow. OVERTON.\n\n“Strand postmark, and dispatched ten thirty-six,” said Holmes,\nreading it over and over. “Mr. Overton was evidently considerably\nexcited when he sent it, and somewhat incoherent in consequence.\nWell, well, he will be here, I daresay, by the time I have looked\nthrough _The Times_, and then we shall know all about it. Even\nthe most insignificant problem would be welcome in these stagnant\ndays.”\n\n[pg108:pg108_story_11:0005:c2519c344d8d | The Return of Sherlock Holmes | page pg108_story_11]\n“Great Scott!” cried the athlete. “Why, I was first reserve for\nEngland against Wales, and I’ve skippered the ’Varsity all this\nyear. But that’s nothing! I didn’t think there was a soul in\nEngland who didn’t know Godfrey Staunton, the crack\nthree-quarter, Cambridge, Blackheath, and five Internationals.\nGood Lord! Mr. Holmes, where _have_ you lived?”\n\nHolmes laughed at the young giant’s naïve astonishment.\n\n“You live in a different world to me, Mr. Overton—a sweeter and\nhealthier one. My ramifications stretch out into many sections of\nsociety, but never, I am happy to say, into amateur sport, which\nis the best and soundest thing in England. However, your\nunexpected visit this morning shows me that even in that world of\nfresh air and fair play, there may be work for me to do. So now,\nmy good sir, I beg you to sit down and to tell me, slowly and\nquietly, exactly what it is that has occurred, and how you desire\nthat I should help you.”\n\n[pg108:pg108_story_03:0050:319cdb26bf26 | The Return of Sherlock Holmes | page pg108_story_03]\n.M .ERE ..E SL.NE.\n\n“Now the first letter _can_ only be A, which is a most useful\ndiscovery, since it occurs no fewer than three times in this\nshort sentence, and the H is also apparent in the second word.\nNow it becomes:\n\nAM HERE A.E SLANE.\n\nOr, filling in the obvious vacancies in the name:\n\nAM HERE ABE SLANEY.\n\nI had so many letters now that I could proceed with considerable\nconfidence to the second message, which worked out in this\nfashion:\n\nA. ELRI. ES.\n\nHere I could only make sense by putting T and G for the missing\nletters, and supposing that the name was that of some house or\ninn at which the writer was staying.”\n\nInspector Martin and I had listened with the utmost interest to\nthe full and clear account of how my friend had produced results\nwhich had led to so complete a command over our difficulties.\n\n“What did you do then, sir?” asked the inspector.\n\n[pg1661:pg1661_story_11:0021:8211ffd54cc9 | The Adventures of Sherlock Holmes | page pg1661_story_11]\n“The gas was half up, as I had left it, and my unhappy boy, dressed\nonly in his shirt and trousers, was standing beside the light, holding\nthe coronet in his hands. He appeared to be wrenching at it, or bending\nit with all his strength. At my cry he dropped it from his grasp and\nturned as pale as death. I snatched it up and examined it. One of the\ngold corners, with three of the beryls in it, was missing.\n\n“‘You blackguard!’ I shouted, beside myself with rage. ‘You have\ndestroyed it! You have dishonoured me forever! Where are the jewels\nwhich you have stolen?’\n\n“‘Stolen!’ he cried.\n\n“‘Yes, thief!’ I roared, shaking him by the shoulder.\n\n“‘There are none missing. There cannot be any missing,’ said he.\n\n“‘There are three missing. And you know where they are. Must I call you\na liar as well as a thief? Did I not see you trying to tear off another\npiece?’",
+    "context_ids": [
+      "pg108:pg108_story_11:0000:621c742db205",
+      "pg108:pg108_story_11:0005:c2519c344d8d",
+      "pg108:pg108_story_03:0050:319cdb26bf26",
+      "pg1661:pg1661_story_11:0021:8211ffd54cc9"
+    ],
+    "gold": [
+      {
+        "source_id": "pg108",
+        "page": "pg108_story_11",
+        "evidence": "Godfrey Staunton"
+      }
+    ],
+    "hit1": false,
+    "hit3": true,
+    "context_hit": true,
+    "context_chars": 3907,
+    "elapsed_ms": 7.70600000032573
+  }
+]

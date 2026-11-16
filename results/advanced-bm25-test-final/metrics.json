@@ -1,0 +1,73 @@
+{
+  "model": "deepseek-flash",
+  "retrieval": "bm25_locator_aware",
+  "test_split_locked_before_run": true,
+  "total_test": {
+    "pass": 29,
+    "N": 30,
+    "accuracy_percent": 96.6667
+  },
+  "answerable": {
+    "pass": 23,
+    "N": 24
+  },
+  "unanswerable_abstention": {
+    "pass": 6,
+    "N": 6
+  },
+  "system_errors": 0,
+  "groups": {
+    "table": {
+      "pass": 6,
+      "N": 6,
+      "accuracy_percent": 100.0
+    },
+    "image_diagram": {
+      "pass": 5,
+      "N": 5,
+      "accuracy_percent": 100.0
+    },
+    "chart": {
+      "pass": 5,
+      "N": 5,
+      "accuracy_percent": 100.0
+    },
+    "multi_hop": {
+      "pass": 3,
+      "N": 4,
+      "accuracy_percent": 75.0
+    },
+    "text": {
+      "pass": 4,
+      "N": 4,
+      "accuracy_percent": 100.0
+    },
+    "unanswerable": {
+      "pass": 6,
+      "N": 6,
+      "accuracy_percent": 100.0
+    }
+  },
+  "elapsed_ms_total": 72657.12,
+  "elapsed_seconds_total": 72.66,
+  "estimated_cost_usd": 0.019459,
+  "usage": {
+    "requests": 67,
+    "prompt_tokens": 155895,
+    "cache_hit_tokens": 45184,
+    "cache_miss_tokens": 110711,
+    "completion_tokens": 4528,
+    "total_tokens": 160423
+  },
+  "rates_usd_per_1m_tokens": {
+    "cache_hit": 0.003,
+    "cache_miss": 0.15,
+    "output": 0.6
+  },
+  "price_note": "Estimate from per-request API usage. The API provider's live billed amount may differ due to pricing/time changes.",
+  "manual_review_file": "reviews.json",
+  "trace_file": "traces.json",
+  "failure_ids": [
+    "WDR-T19"
+  ]
+}

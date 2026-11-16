@@ -1,0 +1,37 @@
+[
+  {
+    "id": "D7U003",
+    "split": "test",
+    "answerable": false
+  },
+  {
+    "id": "D7U004",
+    "split": "test",
+    "answerable": false
+  },
+  {
+    "id": "D7T001",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "D7T002",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "D7T003",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "D7T004",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "D7T005",
+    "split": "test",
+    "answerable": true
+  }
+]

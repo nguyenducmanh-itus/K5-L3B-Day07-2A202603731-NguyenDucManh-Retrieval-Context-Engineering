@@ -1,0 +1,799 @@
+[
+  {
+    "query_id": "SH001",
+    "split": "dev",
+    "strategy": "dense_day6",
+    "question": "In 'A Scandal in Bohemia', what does Watson say Holmes felt about love for Irene Adler?",
+    "dense_source": "Day 6 materialized strategy B trace",
+    "results": [
+      {
+        "id": "pg1661:pg1661_story_01:0000:5421244524f6",
+        "text": "I. A SCANDAL IN BOHEMIA\n\nI.\n\nTo Sherlock Holmes she is always _the_ woman. I have seldom heard him\nmention her under any other name. In his eyes she eclipses and\npredominates the whole of her sex. It was not that he felt any emotion\nakin to love for Irene Adler. All emotions, and that one particularly,\nwere abhorrent to his cold, precise but admirably balanced mind. He\nwas, I take it, the most perfect reasoning and observing machine that\nthe world has seen, but as a lover he would have placed himself in a\nfalse position. He never spoke of the softer passions, save with a gibe\nand a sneer. They were admirable things for the observer—excellent for\ndrawing the veil from men’s motives and actions. But for the trained\nreasoner to admit such intrusions into his own delicate and finely\nadjusted temperament was to introduce a distracting factor which might\nthrow a doubt upon all his mental results.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_01",
+        "score": 0.7629669904708862,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg1661:pg1661_story_01:0051:9cd2a2ba8a14",
+        "text": "We had reached Baker Street and had stopped at the door. He was\nsearching his pockets for the key when someone passing said:\n\n“Good-night, Mister Sherlock Holmes.”\n\nThere were several people on the pavement at the time, but the greeting\nappeared to come from a slim youth in an ulster who had hurried by.\n\n“I’ve heard that voice before,” said Holmes, staring down the dimly lit\nstreet. “Now, I wonder who the deuce that could have been.”\n\nIII.\n\nI slept at Baker Street that night, and we were engaged upon our toast\nand coffee in the morning when the King of Bohemia rushed into the\nroom.\n\n“You have really got it!” he cried, grasping Sherlock Holmes by either\nshoulder and looking eagerly into his face.\n\n“Not yet.”\n\n“But you have hopes?”\n\n“I have hopes.”\n\n“Then, come. I am all impatience to be gone.”\n\n“We must have a cab.”\n\n“No, my brougham is waiting.”\n\n“Then that will simplify matters.” We descended and started off once\nmore for Briony Lodge.\n\n“Irene Adler is married,” remarked Holmes.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_01",
+        "score": 0.661709725856781,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg108:pg108_story_11:0016:52463ea8cbea",
+        "text": "“Exactly, my dear Watson. Your reflection, though profound, had\nalready crossed my mind. But I daresay it may have come to your\nnotice that, counterfoil of another man’s message, there may be\nsome disinclination on the part of the officials to oblige you.\nThere is so much red tape in these matters. However, I have no\ndoubt that with a little delicacy and finesse the end may be\nattained. Meanwhile, I should like in your presence, Mr. Overton,\nto go through these papers which have been left upon the table.”\n\nThere were a number of letters, bills, and notebooks, which\nHolmes turned over and examined with quick, nervous fingers and\ndarting, penetrating eyes. “Nothing here,” he said, at last. “By\nthe way, I suppose your friend was a healthy young fellow—nothing\namiss with him?”\n\n“Sound as a bell.”\n\n“Have you ever known him ill?”\n\n“Not a day. He has been laid up with a hack, and once he slipped\nhis knee-cap, but that was nothing.”",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_11",
+        "score": 0.6581932902336121,
+        "strategy": "dense_day6"
+      }
+    ],
+    "context_ids": [
+      "pg1661:pg1661_story_01:0000:5421244524f6",
+      "pg1661:pg1661_story_01:0051:9cd2a2ba8a14"
+    ],
+    "context": "[pg1661:pg1661_story_01:0000:5421244524f6 | The Adventures of Sherlock Holmes | page pg1661_story_01]\nI. A SCANDAL IN BOHEMIA\n\nI.\n\nTo Sherlock Holmes she is always _the_ woman. I have seldom heard him\nmention her under any other name. In his eyes she eclipses and\npredominates the whole of her sex. It was not that he felt any emotion\nakin to love for Irene Adler. All emotions, and that one particularly,\nwere abhorrent to his cold, precise but admirably balanced mind. He\nwas, I take it, the most perfect reasoning and observing machine that\nthe world has seen, but as a lover he would have placed himself in a\nfalse position. He never spoke of the softer passions, save with a gibe\nand a sneer. They were admirable things for the observer—excellent for\ndrawing the veil from men’s motives and actions. But for the trained\nreasoner to admit such intrusions into his own delicate and finely\nadjusted temperament was to introduce a distracting factor which might\nthrow a doubt upon all his mental results.\n\n[pg1661:pg1661_story_01:0051:9cd2a2ba8a14 | The Adventures of Sherlock Holmes | page pg1661_story_01]\nWe had reached Baker Street and had stopped at the door. He was\nsearching his pockets for the key when someone passing said:\n\n“Good-night, Mister Sherlock Holmes.”\n\nThere were several people on the pavement at the time, but the greeting\nappeared to come from a slim youth in an ulster who had hurried by.\n\n“I’ve heard that voice before,” said Holmes, staring down the dimly lit\nstreet. “Now, I wonder who the deuce that could have been.”\n\nIII.\n\nI slept at Baker Street that night, and we were engaged upon our toast\nand coffee in the morning when the King of Bohemia rushed into the\nroom.\n\n“You have really got it!” he cried, grasping Sherlock Holmes by either\nshoulder and looking eagerly into his face.\n\n“Not yet.”\n\n“But you have hopes?”\n\n“I have hopes.”\n\n“Then, come. I am all impatience to be gone.”\n\n“We must have a cab.”\n\n“No, my brougham is waiting.”\n\n“Then that will simplify matters.” We descended and started off once\nmore for Briony Lodge.\n\n“Irene Adler is married,” remarked Holmes.",
+    "gold": [
+      {
+        "source_id": "pg1661",
+        "page": "pg1661_story_01",
+        "evidence": "It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind."
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "context_chars": 2105,
+    "elapsed_ms": null
+  },
+  {
+    "query_id": "SH002",
+    "split": "dev",
+    "strategy": "dense_day6",
+    "question": "In 'The Red-Headed League', how much did the advertised position pay per week?",
+    "dense_source": "Day 6 materialized strategy B trace",
+    "results": [
+      {
+        "id": "pg1661:pg1661_story_02:0007:71bf63428382",
+        "text": "“I begin to think, Watson,” said Holmes, “that I make a mistake in\nexplaining. ‘_Omne ignotum pro magnifico_,’ you know, and my poor\nlittle reputation, such as it is, will suffer shipwreck if I am so\ncandid. Can you not find the advertisement, Mr. Wilson?”\n\n“Yes, I have got it now,” he answered with his thick red finger planted\nhalfway down the column. “Here it is. This is what began it all. You\njust read it for yourself, sir.”\n\nI took the paper from him and read as follows:\n\n“TO THE RED-HEADED LEAGUE: On account of the bequest of the late\nEzekiah Hopkins, of Lebanon, Pennsylvania, U.S.A., there is now another\nvacancy open which entitles a member of the League to a salary of £ 4 a\nweek for purely nominal services. All red-headed men who are sound in\nbody and mind and above the age of twenty-one years, are eligible.\nApply in person on Monday, at eleven o’clock, to Duncan Ross, at the\noffices of the League, 7 Pope’s Court, Fleet Street.”",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_02",
+        "score": 0.5258389711380005,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg1661:pg1661_story_02:0013:eeb8e81321f9",
+        "text": "“‘Well,’ said he, showing me the advertisement, ‘you can see for\nyourself that the League has a vacancy, and there is the address where\nyou should apply for particulars. As far as I can make out, the League\nwas founded by an American millionaire, Ezekiah Hopkins, who was very\npeculiar in his ways. He was himself red-headed, and he had a great\nsympathy for all red-headed men; so, when he died, it was found that he\nhad left his enormous fortune in the hands of trustees, with\ninstructions to apply the interest to the providing of easy berths to\nmen whose hair is of that colour. From all I hear it is splendid pay\nand very little to do.’\n\n“‘But,’ said I, ‘there would be millions of red-headed men who would\napply.’",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_02",
+        "score": 0.48581135272979736,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg1661:pg1661_story_02:0012:73d96159594c",
+        "text": "“‘Have you never heard of the League of the Red-headed Men?’ he asked\nwith his eyes open.\n\n“‘Never.’\n\n“‘Why, I wonder at that, for you are eligible yourself for one of the\nvacancies.’\n\n“‘And what are they worth?’ I asked.\n\n“‘Oh, merely a couple of hundred a year, but the work is slight, and it\nneed not interfere very much with one’s other occupations.’\n\n“Well, you can easily think that that made me prick up my ears, for the\nbusiness has not been over good for some years, and an extra couple of\nhundred would have been very handy.\n\n“‘Tell me all about it,’ said I.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_02",
+        "score": 0.4451415538787842,
+        "strategy": "dense_day6"
+      }
+    ],
+    "context_ids": [
+      "pg1661:pg1661_story_02:0007:71bf63428382",
+      "pg1661:pg1661_story_02:0013:eeb8e81321f9"
+    ],
+    "context": "[pg1661:pg1661_story_02:0007:71bf63428382 | The Adventures of Sherlock Holmes | page pg1661_story_02]\n“I begin to think, Watson,” said Holmes, “that I make a mistake in\nexplaining. ‘_Omne ignotum pro magnifico_,’ you know, and my poor\nlittle reputation, such as it is, will suffer shipwreck if I am so\ncandid. Can you not find the advertisement, Mr. Wilson?”\n\n“Yes, I have got it now,” he answered with his thick red finger planted\nhalfway down the column. “Here it is. This is what began it all. You\njust read it for yourself, sir.”\n\nI took the paper from him and read as follows:\n\n“TO THE RED-HEADED LEAGUE: On account of the bequest of the late\nEzekiah Hopkins, of Lebanon, Pennsylvania, U.S.A., there is now another\nvacancy open which entitles a member of the League to a salary of £ 4 a\nweek for purely nominal services. All red-headed men who are sound in\nbody and mind and above the age of twenty-one years, are eligible.\nApply in person on Monday, at eleven o’clock, to Duncan Ross, at the\noffices of the League, 7 Pope’s Court, Fleet Street.”\n\n[pg1661:pg1661_story_02:0013:eeb8e81321f9 | The Adventures of Sherlock Holmes | page pg1661_story_02]\n“‘Well,’ said he, showing me the advertisement, ‘you can see for\nyourself that the League has a vacancy, and there is the address where\nyou should apply for particulars. As far as I can make out, the League\nwas founded by an American millionaire, Ezekiah Hopkins, who was very\npeculiar in his ways. He was himself red-headed, and he had a great\nsympathy for all red-headed men; so, when he died, it was found that he\nhad left his enormous fortune in the hands of trustees, with\ninstructions to apply the interest to the providing of easy berths to\nmen whose hair is of that colour. From all I hear it is splendid pay\nand very little to do.’\n\n“‘But,’ said I, ‘there would be millions of red-headed men who would\napply.’",
+    "gold": [
+      {
+        "source_id": "pg1661",
+        "page": "pg1661_story_02",
+        "evidence": "there is now another vacancy open which entitles a member of the League to a salary of £ 4 a week for purely nominal services."
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "context_chars": 1875,
+    "elapsed_ms": null
+  },
+  {
+    "query_id": "SH003",
+    "split": "dev",
+    "strategy": "dense_day6",
+    "question": "In 'The Adventure of the Blue Carbuncle', where and when was the jewel reported lost?",
+    "dense_source": "Day 6 materialized strategy B trace",
+    "results": [
+      {
+        "id": "pg1661:pg1661_story_07:0016:e749ee41f39d",
+        "text": "“Hotel Cosmopolitan Jewel Robbery. John Horner, 26, plumber, was\nbrought up upon the charge of having upon the 22nd inst., abstracted\nfrom the jewel-case of the Countess of Morcar the valuable gem known as\nthe blue carbuncle. James Ryder, upper-attendant at the hotel, gave his\nevidence to the effect that he had shown Horner up to the dressing-room\nof the Countess of Morcar upon the day of the robbery in order that he\nmight solder the second bar of the grate, which was loose. He had\nremained with Horner some little time, but had finally been called\naway. On returning, he found that Horner had disappeared, that the\nbureau had been forced open, and that the small morocco casket in\nwhich, as it afterwards transpired, the Countess was accustomed to keep\nher jewel, was lying empty upon the dressing-table. Ryder instantly\ngave the alarm, and Horner was arrested the same evening; but the stone\ncould not be found either upon his person or in his rooms.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_07",
+        "score": 0.5754327178001404,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg1661:pg1661_story_12:0006:b9cdc789b353",
+        "text": "“DEAR MR. HOLMES,—I am very anxious to consult you as to whether I\nshould or should not accept a situation which has been offered to\nme as governess. I shall call at half-past ten to-morrow if I do\nnot inconvenience you. Yours faithfully,\n\n“VIOLET HUNTER.”\n\n“Do you know the young lady?” I asked.\n\n“Not I.”\n\n“It is half-past ten now.”\n\n“Yes, and I have no doubt that is her ring.”\n\n“It may turn out to be of more interest than you think. You remember\nthat the affair of the blue carbuncle, which appeared to be a mere whim\nat first, developed into a serious investigation. It may be so in this\ncase, also.”\n\n“Well, let us hope so. But our doubts will very soon be solved, for\nhere, unless I am much mistaken, is the person in question.”\n\nAs he spoke the door opened and a young lady entered the room. She was\nplainly but neatly dressed, with a bright, quick face, freckled like a\nplover’s egg, and with the brisk manner of a woman who has had her own\nway to make in the world.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_12",
+        "score": 0.494423508644104,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg1661:pg1661_story_07:0021:5db587936601",
+        "text": "When the commissionaire had gone, Holmes took up the stone and held it\nagainst the light. “It’s a bonny thing,” said he. “Just see how it\nglints and sparkles. Of course it is a nucleus and focus of crime.\nEvery good stone is. They are the devil’s pet baits. In the larger and\nolder jewels every facet may stand for a bloody deed. This stone is not\nyet twenty years old. It was found in the banks of the Amoy River in\nsouthern China and is remarkable in having every characteristic of the\ncarbuncle, save that it is blue in shade instead of ruby red. In spite\nof its youth, it has already a sinister history. There have been two\nmurders, a vitriol-throwing, a suicide, and several robberies brought\nabout for the sake of this forty-grain weight of crystallised charcoal.\nWho would think that so pretty a toy would be a purveyor to the gallows\nand the prison? I’ll lock it up in my strong box now and drop a line to\nthe Countess to say that we have it.”",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_07",
+        "score": 0.48298001289367676,
+        "strategy": "dense_day6"
+      }
+    ],
+    "context_ids": [
+      "pg1661:pg1661_story_07:0016:e749ee41f39d",
+      "pg1661:pg1661_story_12:0006:b9cdc789b353"
+    ],
+    "context": "[pg1661:pg1661_story_07:0016:e749ee41f39d | The Adventures of Sherlock Holmes | page pg1661_story_07]\n“Hotel Cosmopolitan Jewel Robbery. John Horner, 26, plumber, was\nbrought up upon the charge of having upon the 22nd inst., abstracted\nfrom the jewel-case of the Countess of Morcar the valuable gem known as\nthe blue carbuncle. James Ryder, upper-attendant at the hotel, gave his\nevidence to the effect that he had shown Horner up to the dressing-room\nof the Countess of Morcar upon the day of the robbery in order that he\nmight solder the second bar of the grate, which was loose. He had\nremained with Horner some little time, but had finally been called\naway. On returning, he found that Horner had disappeared, that the\nbureau had been forced open, and that the small morocco casket in\nwhich, as it afterwards transpired, the Countess was accustomed to keep\nher jewel, was lying empty upon the dressing-table. Ryder instantly\ngave the alarm, and Horner was arrested the same evening; but the stone\ncould not be found either upon his person or in his rooms.\n\n[pg1661:pg1661_story_12:0006:b9cdc789b353 | The Adventures of Sherlock Holmes | page pg1661_story_12]\n“DEAR MR. HOLMES,—I am very anxious to consult you as to whether I\nshould or should not accept a situation which has been offered to\nme as governess. I shall call at half-past ten to-morrow if I do\nnot inconvenience you. Yours faithfully,\n\n“VIOLET HUNTER.”\n\n“Do you know the young lady?” I asked.\n\n“Not I.”\n\n“It is half-past ten now.”\n\n“Yes, and I have no doubt that is her ring.”\n\n“It may turn out to be of more interest than you think. You remember\nthat the affair of the blue carbuncle, which appeared to be a mere whim\nat first, developed into a serious investigation. It may be so in this\ncase, also.”\n\n“Well, let us hope so. But our doubts will very soon be solved, for\nhere, unless I am much mistaken, is the person in question.”\n\nAs he spoke the door opened and a young lady entered the room. She was\nplainly but neatly dressed, with a bright, quick face, freckled like a\nplover’s egg, and with the brisk manner of a woman who has had her own\nway to make in the world.",
+    "gold": [
+      {
+        "source_id": "pg1661",
+        "page": "pg1661_story_07",
+        "evidence": "“It was lost, if I remember aright, at the Hotel Cosmopolitan,” I remarked. “Precisely so, on December 22nd, just five days ago. John Horner, a plumber, was accused of having abstracted it from the lady’s jewel-case."
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "context_chars": 2141,
+    "elapsed_ms": null
+  },
+  {
+    "query_id": "SH004",
+    "split": "dev",
+    "strategy": "dense_day6",
+    "question": "In 'The Adventure of the Speckled Band', what were Helen's sister's last words as she collapsed?",
+    "dense_source": "Day 6 materialized strategy B trace",
+    "results": [
+      {
+        "id": "pg1661:pg1661_story_08:0021:dee395fc22c3",
+        "text": "By the light of the corridor-lamp I\nsaw my sister appear at the opening, her face blanched with terror, her\nhands groping for help, her whole figure swaying to and fro like that\nof a drunkard. I ran to her and threw my arms round her, but at that\nmoment her knees seemed to give way and she fell to the ground. She\nwrithed as one who is in terrible pain, and her limbs were dreadfully\nconvulsed. At first I thought that she had not recognised me, but as I\nbent over her she suddenly shrieked out in a voice which I shall never\nforget, ‘Oh, my God! Helen! It was the band! The speckled band!’ There\nwas something else which she would fain have said, and she stabbed with\nher finger into the air in the direction of the Doctor’s room, but a\nfresh convulsion seized her and choked her words. I rushed out, calling\nloudly for my stepfather, and I met him hastening from his room in his\ndressing-gown.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_08",
+        "score": 0.6037050485610962,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg1661:pg1661_story_08:0000:ace911b9dea0",
+        "text": "VIII. THE ADVENTURE OF THE SPECKLED BAND",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_08",
+        "score": 0.603037416934967,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg1661:pg1661_story_08:0020:9f5bf72f5010",
+        "text": "“I could not sleep that night. A vague feeling of impending misfortune\nimpressed me. My sister and I, you will recollect, were twins, and you\nknow how subtle are the links which bind two souls which are so closely\nallied. It was a wild night. The wind was howling outside, and the rain\nwas beating and splashing against the windows. Suddenly, amid all the\nhubbub of the gale, there burst forth the wild scream of a terrified\nwoman. I knew that it was my sister’s voice. I sprang from my bed,\nwrapped a shawl round me, and rushed into the corridor. As I opened my\ndoor I seemed to hear a low whistle, such as my sister described, and a\nfew moments later a clanging sound, as if a mass of metal had fallen. As I ran down the passage, my sister’s door was unlocked, and revolved\nslowly upon its hinges. I stared at it horror-stricken, not knowing\nwhat was about to issue from it.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_08",
+        "score": 0.4111402630805969,
+        "strategy": "dense_day6"
+      }
+    ],
+    "context_ids": [
+      "pg1661:pg1661_story_08:0021:dee395fc22c3",
+      "pg1661:pg1661_story_08:0000:ace911b9dea0",
+      "pg1661:pg1661_story_08:0020:9f5bf72f5010"
+    ],
+    "context": "[pg1661:pg1661_story_08:0021:dee395fc22c3 | The Adventures of Sherlock Holmes | page pg1661_story_08]\nBy the light of the corridor-lamp I\nsaw my sister appear at the opening, her face blanched with terror, her\nhands groping for help, her whole figure swaying to and fro like that\nof a drunkard. I ran to her and threw my arms round her, but at that\nmoment her knees seemed to give way and she fell to the ground. She\nwrithed as one who is in terrible pain, and her limbs were dreadfully\nconvulsed. At first I thought that she had not recognised me, but as I\nbent over her she suddenly shrieked out in a voice which I shall never\nforget, ‘Oh, my God! Helen! It was the band! The speckled band!’ There\nwas something else which she would fain have said, and she stabbed with\nher finger into the air in the direction of the Doctor’s room, but a\nfresh convulsion seized her and choked her words. I rushed out, calling\nloudly for my stepfather, and I met him hastening from his room in his\ndressing-gown.\n\n[pg1661:pg1661_story_08:0000:ace911b9dea0 | The Adventures of Sherlock Holmes | page pg1661_story_08]\nVIII. THE ADVENTURE OF THE SPECKLED BAND\n\n[pg1661:pg1661_story_08:0020:9f5bf72f5010 | The Adventures of Sherlock Holmes | page pg1661_story_08]\n“I could not sleep that night. A vague feeling of impending misfortune\nimpressed me. My sister and I, you will recollect, were twins, and you\nknow how subtle are the links which bind two souls which are so closely\nallied. It was a wild night. The wind was howling outside, and the rain\nwas beating and splashing against the windows. Suddenly, amid all the\nhubbub of the gale, there burst forth the wild scream of a terrified\nwoman. I knew that it was my sister’s voice. I sprang from my bed,\nwrapped a shawl round me, and rushed into the corridor. As I opened my\ndoor I seemed to hear a low whistle, such as my sister described, and a\nfew moments later a clanging sound, as if a mass of metal had fallen. As I ran down the passage, my sister’s door was unlocked, and revolved\nslowly upon its hinges. I stared at it horror-stricken, not knowing\nwhat was about to issue from it.",
+    "gold": [
+      {
+        "source_id": "pg1661",
+        "page": "pg1661_story_08",
+        "evidence": "she suddenly shrieked out in a voice which I shall never forget, ‘Oh, my God! Helen! It was the band! The speckled band!’"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "context_chars": 2124,
+    "elapsed_ms": null
+  },
+  {
+    "query_id": "SH005",
+    "split": "dev",
+    "strategy": "dense_day6",
+    "question": "In 'Silver Blaze', which two events form the central mystery Holmes is discussing with Watson?",
+    "dense_source": "Day 6 materialized strategy B trace",
+    "results": [
+      {
+        "id": "pg834:pg834_story_02:0002:6421df049f0d",
+        "text": "He loved\nto lie in the very centre of five millions of people, with his\nfilaments stretching out and running through them, responsive to\nevery little rumour or suspicion of unsolved crime. Appreciation\nof nature found no place among his many gifts, and his only\nchange was when he turned his mind from the evil-doer of the town\nto track down his brother of the country.\n\nFinding that Holmes was too absorbed for conversation I had\ntossed aside the barren paper, and leaning back in my chair I\nfell into a brown study. Suddenly my companion’s voice broke in\nupon my thoughts:\n\n“You are right, Watson,” said he. “It does seem a most\npreposterous way of settling a dispute.”\n\n“Most preposterous!” I exclaimed, and then suddenly realizing how\nhe had echoed the inmost thought of my soul, I sat up in my chair\nand stared at him in blank amazement.\n\n“What is this, Holmes?” I cried. “This is beyond anything which I\ncould have imagined.”\n\nHe laughed heartily at my perplexity.",
+        "source_id": "pg834",
+        "source": "The Memoirs of Sherlock Holmes",
+        "page": "pg834_story_02",
+        "score": 0.6496806144714355,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg1661:pg1661_story_08:0033:edeea7204d52",
+        "text": "“Fancy his having the insolence to confound me with the official\ndetective force! This incident gives zest to our investigation,\nhowever, and I only trust that our little friend will not suffer from\nher imprudence in allowing this brute to trace her. And now, Watson, we\nshall order breakfast, and afterwards I shall walk down to Doctors’\nCommons, where I hope to get some data which may help us in this\nmatter.”\n\nIt was nearly one o’clock when Sherlock Holmes returned from his\nexcursion. He held in his hand a sheet of blue paper, scrawled over\nwith notes and figures.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_08",
+        "score": 0.6310825943946838,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg108:pg108_story_08:0021:77a3f97b422c",
+        "text": "Sherlock Holmes and I walked together to the High Street, where\nwe stopped at the shop of Harding Brothers, whence the bust had\nbeen purchased. A young assistant informed us that Mr. Harding\nwould be absent until afternoon, and that he was himself a\nnewcomer, who could give us no information. Holmes’s face showed\nhis disappointment and annoyance.\n\n“Well, well, we can’t expect to have it all our own way, Watson,”\nhe said, at last. “We must come back in the afternoon, if Mr.\nHarding will not be here until then. I am, as you have no doubt\nsurmised, endeavouring to trace these busts to their source, in\norder to find if there is not something peculiar which may\naccount for their remarkable fate. Let us make for Mr. Morse\nHudson, of the Kennington Road, and see if he can throw any light\nupon the problem.”\n\nA drive of an hour brought us to the picture-dealer’s\nestablishment. He was a small, stout man with a red face and a\npeppery manner.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_08",
+        "score": 0.6169676184654236,
+        "strategy": "dense_day6"
+      }
+    ],
+    "context_ids": [
+      "pg834:pg834_story_02:0002:6421df049f0d",
+      "pg1661:pg1661_story_08:0033:edeea7204d52"
+    ],
+    "context": "[pg834:pg834_story_02:0002:6421df049f0d | The Memoirs of Sherlock Holmes | page pg834_story_02]\nHe loved\nto lie in the very centre of five millions of people, with his\nfilaments stretching out and running through them, responsive to\nevery little rumour or suspicion of unsolved crime. Appreciation\nof nature found no place among his many gifts, and his only\nchange was when he turned his mind from the evil-doer of the town\nto track down his brother of the country.\n\nFinding that Holmes was too absorbed for conversation I had\ntossed aside the barren paper, and leaning back in my chair I\nfell into a brown study. Suddenly my companion’s voice broke in\nupon my thoughts:\n\n“You are right, Watson,” said he. “It does seem a most\npreposterous way of settling a dispute.”\n\n“Most preposterous!” I exclaimed, and then suddenly realizing how\nhe had echoed the inmost thought of my soul, I sat up in my chair\nand stared at him in blank amazement.\n\n“What is this, Holmes?” I cried. “This is beyond anything which I\ncould have imagined.”\n\nHe laughed heartily at my perplexity.\n\n[pg1661:pg1661_story_08:0033:edeea7204d52 | The Adventures of Sherlock Holmes | page pg1661_story_08]\n“Fancy his having the insolence to confound me with the official\ndetective force! This incident gives zest to our investigation,\nhowever, and I only trust that our little friend will not suffer from\nher imprudence in allowing this brute to trace her. And now, Watson, we\nshall order breakfast, and afterwards I shall walk down to Doctors’\nCommons, where I hope to get some data which may help us in this\nmatter.”\n\nIt was nearly one o’clock when Sherlock Holmes returned from his\nexcursion. He held in his hand a sheet of blue paper, scrawled over\nwith notes and figures.",
+    "gold": [
+      {
+        "source_id": "pg834",
+        "page": "pg834_story_01",
+        "evidence": "I presume that you have looked into this matter of the murder of John Straker and the disappearance of Silver Blaze?"
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "context_chars": 1742,
+    "elapsed_ms": null
+  },
+  {
+    "query_id": "SH006",
+    "split": "dev",
+    "strategy": "dense_day6",
+    "question": "In 'The “Gloria Scott”', whom does Holmes describe as the only friend he made at college?",
+    "dense_source": "Day 6 materialized strategy B trace",
+    "results": [
+      {
+        "id": "pg834:pg834_story_05:0000:e870d9605a9a",
+        "text": "V. The “_Gloria Scott_”\n\n“I have some papers here,” said my friend Sherlock Holmes, as we\nsat one winter’s night on either side of the fire, “which I\nreally think, Watson, that it would be worth your while to glance\nover. These are the documents in the extraordinary case of the\n_Gloria Scott_, and this is the message which struck Justice of\nthe Peace Trevor dead with horror when he read it.”\n\nHe had picked from a drawer a little tarnished cylinder, and,\nundoing the tape, he handed me a short note scrawled upon a\nhalf-sheet of slate-grey paper.\n\n“The supply of game for London is going steadily up,” it ran.\n“Head-keeper Hudson, we believe, has been now told to receive all\norders for fly-paper and for preservation of your hen-pheasant’s\nlife.”\n\nAs I glanced up from reading this enigmatical message, I saw\nHolmes chuckling at the expression upon my face.\n\n“You look a little bewildered,” said he.",
+        "source_id": "pg834",
+        "source": "The Memoirs of Sherlock Holmes",
+        "page": "pg834_story_05",
+        "score": 0.6095003485679626,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg834:pg834_story_10:0000:927e52f401c8",
+        "text": "X. The Greek Interpreter\n\nDuring my long and intimate acquaintance with Mr. Sherlock Holmes\nI had never heard him refer to his relations, and hardly ever to\nhis own early life. This reticence upon his part had increased\nthe somewhat inhuman effect which he produced upon me, until\nsometimes I found myself regarding him as an isolated phenomenon,\na brain without a heart, as deficient in human sympathy as he was\npre-eminent in intelligence. His aversion to women and his\ndisinclination to form new friendships were both typical of his\nunemotional character, but not more so than his complete\nsuppression of every reference to his own people. I had come to\nbelieve that he was an orphan with no relatives living, but one\nday, to my very great surprise, he began to talk to me about his\nbrother.",
+        "source_id": "pg834",
+        "source": "The Memoirs of Sherlock Holmes",
+        "page": "pg834_story_10",
+        "score": 0.5398226380348206,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg1661:pg1661_story_01:0000:5421244524f6",
+        "text": "I. A SCANDAL IN BOHEMIA\n\nI.\n\nTo Sherlock Holmes she is always _the_ woman. I have seldom heard him\nmention her under any other name. In his eyes she eclipses and\npredominates the whole of her sex. It was not that he felt any emotion\nakin to love for Irene Adler. All emotions, and that one particularly,\nwere abhorrent to his cold, precise but admirably balanced mind. He\nwas, I take it, the most perfect reasoning and observing machine that\nthe world has seen, but as a lover he would have placed himself in a\nfalse position. He never spoke of the softer passions, save with a gibe\nand a sneer. They were admirable things for the observer—excellent for\ndrawing the veil from men’s motives and actions. But for the trained\nreasoner to admit such intrusions into his own delicate and finely\nadjusted temperament was to introduce a distracting factor which might\nthrow a doubt upon all his mental results.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_01",
+        "score": 0.5227837562561035,
+        "strategy": "dense_day6"
+      }
+    ],
+    "context_ids": [
+      "pg834:pg834_story_05:0000:e870d9605a9a",
+      "pg834:pg834_story_10:0000:927e52f401c8"
+    ],
+    "context": "[pg834:pg834_story_05:0000:e870d9605a9a | The Memoirs of Sherlock Holmes | page pg834_story_05]\nV. The “_Gloria Scott_”\n\n“I have some papers here,” said my friend Sherlock Holmes, as we\nsat one winter’s night on either side of the fire, “which I\nreally think, Watson, that it would be worth your while to glance\nover. These are the documents in the extraordinary case of the\n_Gloria Scott_, and this is the message which struck Justice of\nthe Peace Trevor dead with horror when he read it.”\n\nHe had picked from a drawer a little tarnished cylinder, and,\nundoing the tape, he handed me a short note scrawled upon a\nhalf-sheet of slate-grey paper.\n\n“The supply of game for London is going steadily up,” it ran.\n“Head-keeper Hudson, we believe, has been now told to receive all\norders for fly-paper and for preservation of your hen-pheasant’s\nlife.”\n\nAs I glanced up from reading this enigmatical message, I saw\nHolmes chuckling at the expression upon my face.\n\n“You look a little bewildered,” said he.\n\n[pg834:pg834_story_10:0000:927e52f401c8 | The Memoirs of Sherlock Holmes | page pg834_story_10]\nX. The Greek Interpreter\n\nDuring my long and intimate acquaintance with Mr. Sherlock Holmes\nI had never heard him refer to his relations, and hardly ever to\nhis own early life. This reticence upon his part had increased\nthe somewhat inhuman effect which he produced upon me, until\nsometimes I found myself regarding him as an isolated phenomenon,\na brain without a heart, as deficient in human sympathy as he was\npre-eminent in intelligence. His aversion to women and his\ndisinclination to form new friendships were both typical of his\nunemotional character, but not more so than his complete\nsuppression of every reference to his own people. I had come to\nbelieve that he was an orphan with no relatives living, but one\nday, to my very great surprise, he began to talk to me about his\nbrother.",
+    "gold": [
+      {
+        "source_id": "pg834",
+        "page": "pg834_story_05",
+        "evidence": "“You never heard me talk of Victor Trevor?” he asked. “He was the only friend I made during the two years I was at college."
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "context_chars": 1893,
+    "elapsed_ms": null
+  },
+  {
+    "query_id": "SH007",
+    "split": "dev",
+    "strategy": "dense_day6",
+    "question": "In 'The Adventure of the Copper Beeches', where was the country house located?",
+    "dense_source": "Day 6 materialized strategy B trace",
+    "results": [
+      {
+        "id": "pg1661:pg1661_story_12:0028:3cad518aea5d",
+        "text": "“Their reasons for their conduct. But you shall have it all just as it\noccurred. When I came down, Mr. Rucastle met me here and drove me in\nhis dog-cart to the Copper Beeches. It is, as he said, beautifully\nsituated, but it is not beautiful in itself, for it is a large square\nblock of a house, whitewashed, but all stained and streaked with damp\nand bad weather. There are grounds round it, woods on three sides, and\non the fourth a field which slopes down to the Southampton high road,\nwhich curves past about a hundred yards from the front door. This\nground in front belongs to the house, but the woods all round are part\nof Lord Southerton’s preserves. A clump of copper beeches immediately\nin front of the hall door has given its name to the place.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_12",
+        "score": 0.5017142295837402,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg108:pg108_story_12:0004:e558bde07a4b",
+        "text": "“By an inspection of the trains, and by reckoning the time. The\nlocal police had to be called in, they had to communicate with\nScotland Yard, Hopkins had to go out, and he in turn had to send\nfor me. All that makes a fair night’s work. Well, here we are at\nChiselhurst Station, and we shall soon set our doubts at rest.”\n\nA drive of a couple of miles through narrow country lanes brought\nus to a park gate, which was opened for us by an old\nlodge-keeper, whose haggard face bore the reflection of some\ngreat disaster. The avenue ran through a noble park, between\nlines of ancient elms, and ended in a low, widespread house,\npillared in front after the fashion of Palladio. The central part\nwas evidently of a great age and shrouded in ivy, but the large\nwindows showed that modern changes had been carried out, and one\nwing of the house appeared to be entirely new. The youthful\nfigure and alert, eager face of Inspector Stanley Hopkins\nconfronted us in the open doorway.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_12",
+        "score": 0.392012357711792,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg834:pg834_story_06:0023:081876c9cea2",
+        "text": "“‘Of course we searched the house from cellar to garret, but\nthere was no trace of him. It is, as I have said, a labyrinth of\nan old house, especially the original wing, which is now\npractically uninhabited; but we ransacked every room and cellar\nwithout discovering the least sign of the missing man. It was\nincredible to me that he could have gone away leaving all his\nproperty behind him, and yet where could he be? I called in the\nlocal police, but without success. Rain had fallen on the night\nbefore and we examined the lawn and the paths all round the\nhouse, but in vain. Matters were in this state, when a new\ndevelopment quite drew our attention away from the original\nmystery.",
+        "source_id": "pg834",
+        "source": "The Memoirs of Sherlock Holmes",
+        "page": "pg834_story_06",
+        "score": 0.37845778465270996,
+        "strategy": "dense_day6"
+      }
+    ],
+    "context_ids": [
+      "pg1661:pg1661_story_12:0028:3cad518aea5d",
+      "pg108:pg108_story_12:0004:e558bde07a4b"
+    ],
+    "context": "[pg1661:pg1661_story_12:0028:3cad518aea5d | The Adventures of Sherlock Holmes | page pg1661_story_12]\n“Their reasons for their conduct. But you shall have it all just as it\noccurred. When I came down, Mr. Rucastle met me here and drove me in\nhis dog-cart to the Copper Beeches. It is, as he said, beautifully\nsituated, but it is not beautiful in itself, for it is a large square\nblock of a house, whitewashed, but all stained and streaked with damp\nand bad weather. There are grounds round it, woods on three sides, and\non the fourth a field which slopes down to the Southampton high road,\nwhich curves past about a hundred yards from the front door. This\nground in front belongs to the house, but the woods all round are part\nof Lord Southerton’s preserves. A clump of copper beeches immediately\nin front of the hall door has given its name to the place.\n\n[pg108:pg108_story_12:0004:e558bde07a4b | The Return of Sherlock Holmes | page pg108_story_12]\n“By an inspection of the trains, and by reckoning the time. The\nlocal police had to be called in, they had to communicate with\nScotland Yard, Hopkins had to go out, and he in turn had to send\nfor me. All that makes a fair night’s work. Well, here we are at\nChiselhurst Station, and we shall soon set our doubts at rest.”\n\nA drive of a couple of miles through narrow country lanes brought\nus to a park gate, which was opened for us by an old\nlodge-keeper, whose haggard face bore the reflection of some\ngreat disaster. The avenue ran through a noble park, between\nlines of ancient elms, and ended in a low, widespread house,\npillared in front after the fashion of Palladio. The central part\nwas evidently of a great age and shrouded in ivy, but the large\nwindows showed that modern changes had been carried out, and one\nwing of the house appeared to be entirely new. The youthful\nfigure and alert, eager face of Inspector Stanley Hopkins\nconfronted us in the open doorway.",
+    "gold": [
+      {
+        "source_id": "pg1661",
+        "page": "pg1661_story_12",
+        "evidence": "‘Hampshire. Charming rural place. The Copper Beeches, five miles on the far side of Winchester."
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "context_chars": 1925,
+    "elapsed_ms": null
+  },
+  {
+    "query_id": "SH008",
+    "split": "dev",
+    "strategy": "dense_day6",
+    "question": "At the start of 'The Adventure of the Norwood Builder', how does Holmes describe London after Moriarty's death from a criminal expert's point of view?",
+    "dense_source": "Day 6 materialized strategy B trace",
+    "results": [
+      {
+        "id": "pg108:pg108_story_02:0000:572e0ba547d7",
+        "text": "THE ADVENTURE OF THE NORWOOD BUILDER\n\n“From the point of view of the criminal expert,” said Mr.\nSherlock Holmes, “London has become a singularly uninteresting\ncity since the death of the late lamented Professor Moriarty.”\n\n“I can hardly think that you would find many decent citizens to\nagree with you,” I answered.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_02",
+        "score": 0.8154849410057068,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg108:pg108_story_02:0007:888b52bfe827",
+        "text": "“If you had looked at it, sir, you would have seen at a glance\nwhat the errand is on which I have come to you this morning. I\nfeel as if my name and my misfortune must be in every man’s\nmouth.” He turned it over to expose the central page. “Here it\nis, and with your permission I will read it to you. Listen to\nthis, Mr. Holmes. The headlines are: ‘Mysterious Affair at Lower\nNorwood. Disappearance of a Well-known Builder. Suspicion of\nMurder and Arson. A Clue to the Criminal.’ That is the clue which\nthey are already following, Mr. Holmes, and I know that it leads\ninfallibly to me. I have been followed from London Bridge\nStation, and I am sure that they are only waiting for the warrant\nto arrest me. It will break my mother’s heart—it will break her\nheart!” He wrung his hands in an agony of apprehension, and\nswayed backward and forward in his chair.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_02",
+        "score": 0.6797835230827332,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg834:pg834_story_12:0028:d42690157dd1",
+        "text": "“Every precaution is still necessary,” he whispered. “I have\nreason to think that they are hot upon our trail. Ah, there is\nMoriarty himself.”\n\nThe train had already begun to move as Holmes spoke. Glancing\nback, I saw a tall man pushing his way furiously through the\ncrowd, and waving his hand as if he desired to have the train\nstopped. It was too late, however, for we were rapidly gathering\nmomentum, and an instant later had shot clear of the station.\n\n“With all our precautions, you see that we have cut it rather\nfine,” said Holmes, laughing. He rose, and throwing off the black\ncassock and hat which had formed his disguise, he packed them\naway in a hand-bag.\n\n“Have you seen the morning paper, Watson?”\n\n“No.”\n\n“You haven’t seen about Baker Street, then?”\n\n“Baker Street?”\n\n“They set fire to our rooms last night. No great harm was done.”\n\n“Good heavens, Holmes! This is intolerable.”",
+        "source_id": "pg834",
+        "source": "The Memoirs of Sherlock Holmes",
+        "page": "pg834_story_12",
+        "score": 0.6597140431404114,
+        "strategy": "dense_day6"
+      }
+    ],
+    "context_ids": [
+      "pg108:pg108_story_02:0000:572e0ba547d7",
+      "pg108:pg108_story_02:0007:888b52bfe827",
+      "pg834:pg834_story_12:0028:d42690157dd1"
+    ],
+    "context": "[pg108:pg108_story_02:0000:572e0ba547d7 | The Return of Sherlock Holmes | page pg108_story_02]\nTHE ADVENTURE OF THE NORWOOD BUILDER\n\n“From the point of view of the criminal expert,” said Mr.\nSherlock Holmes, “London has become a singularly uninteresting\ncity since the death of the late lamented Professor Moriarty.”\n\n“I can hardly think that you would find many decent citizens to\nagree with you,” I answered.\n\n[pg108:pg108_story_02:0007:888b52bfe827 | The Return of Sherlock Holmes | page pg108_story_02]\n“If you had looked at it, sir, you would have seen at a glance\nwhat the errand is on which I have come to you this morning. I\nfeel as if my name and my misfortune must be in every man’s\nmouth.” He turned it over to expose the central page. “Here it\nis, and with your permission I will read it to you. Listen to\nthis, Mr. Holmes. The headlines are: ‘Mysterious Affair at Lower\nNorwood. Disappearance of a Well-known Builder. Suspicion of\nMurder and Arson. A Clue to the Criminal.’ That is the clue which\nthey are already following, Mr. Holmes, and I know that it leads\ninfallibly to me. I have been followed from London Bridge\nStation, and I am sure that they are only waiting for the warrant\nto arrest me. It will break my mother’s heart—it will break her\nheart!” He wrung his hands in an agony of apprehension, and\nswayed backward and forward in his chair.\n\n[pg834:pg834_story_12:0028:d42690157dd1 | The Memoirs of Sherlock Holmes | page pg834_story_12]\n“Every precaution is still necessary,” he whispered. “I have\nreason to think that they are hot upon our trail. Ah, there is\nMoriarty himself.”\n\nThe train had already begun to move as Holmes spoke. Glancing\nback, I saw a tall man pushing his way furiously through the\ncrowd, and waving his hand as if he desired to have the train\nstopped. It was too late, however, for we were rapidly gathering\nmomentum, and an instant later had shot clear of the station.\n\n“With all our precautions, you see that we have cut it rather\nfine,” said Holmes, laughing. He rose, and throwing off the black\ncassock and hat which had formed his disguise, he packed them\naway in a hand-bag.\n\n“Have you seen the morning paper, Watson?”\n\n“No.”\n\n“You haven’t seen about Baker Street, then?”\n\n“Baker Street?”\n\n“They set fire to our rooms last night. No great harm was done.”\n\n“Good heavens, Holmes! This is intolerable.”",
+    "gold": [
+      {
+        "source_id": "pg108",
+        "page": "pg108_story_02",
+        "evidence": "“From the point of view of the criminal expert,” said Mr. Sherlock Holmes, “London has become a singularly uninteresting city since the death of the late lamented Professor Moriarty.”"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "context_chars": 2356,
+    "elapsed_ms": null
+  },
+  {
+    "query_id": "SH009",
+    "split": "dev",
+    "strategy": "dense_day6",
+    "question": "In 'The Adventure of the Six Napoleons', what unusual act was Lestrade investigating?",
+    "dense_source": "Day 6 materialized strategy B trace",
+    "results": [
+      {
+        "id": "pg108:pg108_story_08:0000:c231ec65f2c2",
+        "text": "THE ADVENTURE OF THE SIX NAPOLEONS\n\nIt was no very unusual thing for Mr. Lestrade, of Scotland Yard,\nto look in upon us of an evening, and his visits were welcome to\nSherlock Holmes, for they enabled him to keep in touch with all\nthat was going on at the police headquarters. In return for the\nnews which Lestrade would bring, Holmes was always ready to\nlisten with attention to the details of any case upon which the\ndetective was engaged, and was able occasionally, without any\nactive interference, to give some hint or suggestion drawn from\nhis own vast knowledge and experience.\n\nOn this particular evening, Lestrade had spoken of the weather\nand the newspapers. Then he had fallen silent, puffing\nthoughtfully at his cigar. Holmes looked keenly at him.\n\n“Anything remarkable on hand?” he asked.\n\n“Oh, no, Mr. Holmes—nothing very particular.”\n\n“Then tell me about it.”\n\nLestrade laughed.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_08",
+        "score": 0.7858905792236328,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg108:pg108_story_08:0002:becc427d6160",
+        "text": "Lestrade took out his official notebook and refreshed his memory\nfrom its pages.\n\n“The first case reported was four days ago,” said he. “It was at\nthe shop of Morse Hudson, who has a place for the sale of\npictures and statues in the Kennington Road. The assistant had\nleft the front shop for an instant, when he heard a crash, and\nhurrying in he found a plaster bust of Napoleon, which stood with\nseveral other works of art upon the counter, lying shivered into\nfragments. He rushed out into the road, but, although several\npassers-by declared that they had noticed a man run out of the\nshop, he could neither see anyone nor could he find any means of\nidentifying the rascal. It seemed to be one of those senseless\nacts of hooliganism which occur from time to time, and it was\nreported to the constable on the beat as such. The plaster cast\nwas not worth more than a few shillings, and the whole affair\nappeared to be too childish for any particular investigation.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_08",
+        "score": 0.6612812876701355,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg108:pg108_story_08:0010:4193e5fa7b18",
+        "text": "“By George! It’s attempted murder at the least. Nothing less will\nhold the London message-boy. There’s a deed of violence indicated\nin that fellow’s round shoulders and outstretched neck. What’s\nthis, Watson? The top steps swilled down and the other ones dry.\nFootsteps enough, anyhow! Well, well, there’s Lestrade at the\nfront window, and we shall soon know all about it.”\n\nThe official received us with a very grave face and showed us\ninto a sitting-room, where an exceedingly unkempt and agitated\nelderly man, clad in a flannel dressing-gown, was pacing up and\ndown. He was introduced to us as the owner of the house—Mr.\nHorace Harker, of the Central Press Syndicate.\n\n“It’s the Napoleon bust business again,” said Lestrade. “You\nseemed interested last night, Mr. Holmes, so I thought perhaps\nyou would be glad to be present now that the affair has taken a\nvery much graver turn.”\n\n“What has it turned to, then?”\n\n“To murder. Mr. Harker, will you tell these gentlemen exactly\nwhat has occurred?”",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_08",
+        "score": 0.5984303951263428,
+        "strategy": "dense_day6"
+      }
+    ],
+    "context_ids": [
+      "pg108:pg108_story_08:0000:c231ec65f2c2",
+      "pg108:pg108_story_08:0002:becc427d6160"
+    ],
+    "context": "[pg108:pg108_story_08:0000:c231ec65f2c2 | The Return of Sherlock Holmes | page pg108_story_08]\nTHE ADVENTURE OF THE SIX NAPOLEONS\n\nIt was no very unusual thing for Mr. Lestrade, of Scotland Yard,\nto look in upon us of an evening, and his visits were welcome to\nSherlock Holmes, for they enabled him to keep in touch with all\nthat was going on at the police headquarters. In return for the\nnews which Lestrade would bring, Holmes was always ready to\nlisten with attention to the details of any case upon which the\ndetective was engaged, and was able occasionally, without any\nactive interference, to give some hint or suggestion drawn from\nhis own vast knowledge and experience.\n\nOn this particular evening, Lestrade had spoken of the weather\nand the newspapers. Then he had fallen silent, puffing\nthoughtfully at his cigar. Holmes looked keenly at him.\n\n“Anything remarkable on hand?” he asked.\n\n“Oh, no, Mr. Holmes—nothing very particular.”\n\n“Then tell me about it.”\n\nLestrade laughed.\n\n[pg108:pg108_story_08:0002:becc427d6160 | The Return of Sherlock Holmes | page pg108_story_08]\nLestrade took out his official notebook and refreshed his memory\nfrom its pages.\n\n“The first case reported was four days ago,” said he. “It was at\nthe shop of Morse Hudson, who has a place for the sale of\npictures and statues in the Kennington Road. The assistant had\nleft the front shop for an instant, when he heard a crash, and\nhurrying in he found a plaster bust of Napoleon, which stood with\nseveral other works of art upon the counter, lying shivered into\nfragments. He rushed out into the road, but, although several\npassers-by declared that they had noticed a man run out of the\nshop, he could neither see anyone nor could he find any means of\nidentifying the rascal. It seemed to be one of those senseless\nacts of hooliganism which occur from time to time, and it was\nreported to the constable on the beat as such. The plaster cast\nwas not worth more than a few shillings, and the whole affair\nappeared to be too childish for any particular investigation.",
+    "gold": [
+      {
+        "source_id": "pg108",
+        "page": "pg108_story_08",
+        "evidence": "there was anyone living at this time of day who had such a hatred of Napoleon the First that he would break any image of him that he could see."
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "context_chars": 2049,
+    "elapsed_ms": null
+  },
+  {
+    "query_id": "SH010",
+    "split": "dev",
+    "strategy": "dense_day6",
+    "question": "In 'The Adventure of the Golden Pince-Nez', what object was found clasped in the dead man's right hand?",
+    "dense_source": "Day 6 materialized strategy B trace",
+    "results": [
+      {
+        "id": "pg108:pg108_story_10:0018:f6e124c254fe",
+        "text": "“I come now to the body of the young man. It was found near the\nbureau, and just to the left of it, as marked upon that chart.\nThe stab was on the right side of the neck and from behind\nforward, so that it is almost impossible that it could have been\nself-inflicted.”\n\n“Unless he fell upon the knife,” said Holmes.\n\n“Exactly. The idea crossed my mind. But we found the knife some\nfeet away from the body, so that seems impossible. Then, of\ncourse, there are the man’s own dying words. And, finally, there\nwas this very important piece of evidence which was found clasped\nin the dead man’s right hand.”\n\nFrom his pocket Stanley Hopkins drew a small paper packet. He\nunfolded it and disclosed a golden pince-nez, with two broken\nends of black silk cord dangling from the end of it. “Willoughby\nSmith had excellent sight,” he added. “There can be no question\nthat this was snatched from the face or the person of the\nassassin.”",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_10",
+        "score": 0.6250617504119873,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg834:pg834_story_01:0031:a125fd8aedd7",
+        "text": "“I should be very glad.” We all filed into the front room and sat\nround the central table while the Inspector unlocked a square tin\nbox and laid a small heap of things before us. There was a box of\nvestas, two inches of tallow candle, an A.D.P. briar-root pipe, a\npouch of seal-skin with half an ounce of long-cut Cavendish, a\nsilver watch with a gold chain, five sovereigns in gold, an\naluminium pencil-case, a few papers, and an ivory-handled knife\nwith a very delicate, inflexible blade marked Weiss & Co.,\nLondon.\n\n“This is a very singular knife,” said Holmes, lifting it up and\nexamining it minutely. “I presume, as I see blood-stains upon it,\nthat it is the one which was found in the dead man’s grasp.\nWatson, this knife is surely in your line?”\n\n“It is what we call a cataract knife,” said I.\n\n“I thought so. A very delicate blade devised for very delicate\nwork. A strange thing for a man to carry with him upon a rough\nexpedition, especially as it would not shut in his pocket.”",
+        "source_id": "pg834",
+        "source": "The Memoirs of Sherlock Holmes",
+        "page": "pg834_story_01",
+        "score": 0.47215795516967773,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg108:pg108_story_05:0074:e818c4936dc3",
+        "text": "“These shoes,” it ran, “were dug up in the moat of Holdernesse\nHall. They are for the use of horses, but they are shaped below\nwith a cloven foot of iron, so as to throw pursuers off the\ntrack. They are supposed to have belonged to some of the\nmarauding Barons of Holdernesse in the Middle Ages.”\n\nHolmes opened the case, and moistening his finger he passed it\nalong the shoe. A thin film of recent mud was left upon his skin.\n\n“Thank you,” said he, as he replaced the glass. “It is the second\nmost interesting object that I have seen in the North.”\n\n“And the first?”\n\nHolmes folded up his check and placed it carefully in his\nnotebook. “I am a poor man,” said he, as he patted it\naffectionately, and thrust it into the depths of his inner\npocket.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_05",
+        "score": 0.456209659576416,
+        "strategy": "dense_day6"
+      }
+    ],
+    "context_ids": [
+      "pg108:pg108_story_10:0018:f6e124c254fe",
+      "pg834:pg834_story_01:0031:a125fd8aedd7"
+    ],
+    "context": "[pg108:pg108_story_10:0018:f6e124c254fe | The Return of Sherlock Holmes | page pg108_story_10]\n“I come now to the body of the young man. It was found near the\nbureau, and just to the left of it, as marked upon that chart.\nThe stab was on the right side of the neck and from behind\nforward, so that it is almost impossible that it could have been\nself-inflicted.”\n\n“Unless he fell upon the knife,” said Holmes.\n\n“Exactly. The idea crossed my mind. But we found the knife some\nfeet away from the body, so that seems impossible. Then, of\ncourse, there are the man’s own dying words. And, finally, there\nwas this very important piece of evidence which was found clasped\nin the dead man’s right hand.”\n\nFrom his pocket Stanley Hopkins drew a small paper packet. He\nunfolded it and disclosed a golden pince-nez, with two broken\nends of black silk cord dangling from the end of it. “Willoughby\nSmith had excellent sight,” he added. “There can be no question\nthat this was snatched from the face or the person of the\nassassin.”\n\n[pg834:pg834_story_01:0031:a125fd8aedd7 | The Memoirs of Sherlock Holmes | page pg834_story_01]\n“I should be very glad.” We all filed into the front room and sat\nround the central table while the Inspector unlocked a square tin\nbox and laid a small heap of things before us. There was a box of\nvestas, two inches of tallow candle, an A.D.P. briar-root pipe, a\npouch of seal-skin with half an ounce of long-cut Cavendish, a\nsilver watch with a gold chain, five sovereigns in gold, an\naluminium pencil-case, a few papers, and an ivory-handled knife\nwith a very delicate, inflexible blade marked Weiss & Co.,\nLondon.\n\n“This is a very singular knife,” said Holmes, lifting it up and\nexamining it minutely. “I presume, as I see blood-stains upon it,\nthat it is the one which was found in the dead man’s grasp.\nWatson, this knife is surely in your line?”\n\n“It is what we call a cataract knife,” said I.\n\n“I thought so. A very delicate blade devised for very delicate\nwork. A strange thing for a man to carry with him upon a rough\nexpedition, especially as it would not shut in his pocket.”",
+    "gold": [
+      {
+        "source_id": "pg108",
+        "page": "pg108_story_10",
+        "evidence": "He unfolded it and disclosed a golden pince-nez, with two broken ends of black silk cord dangling from the end of it."
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "context_chars": 2106,
+    "elapsed_ms": null
+  },
+  {
+    "query_id": "SH011",
+    "split": "dev",
+    "strategy": "dense_day6",
+    "question": "In 'The Adventure of the Second Stain', why did the two carpet stains no longer line up?",
+    "dense_source": "Day 6 materialized strategy B trace",
+    "results": [
+      {
+        "id": "pg108:pg108_story_13:0042:9640aaf8b897",
+        "text": "“But the under side is as stained as the upper. It must have left\na mark.”\n\nLestrade chuckled with delight at having puzzled the famous\nexpert.\n\n“Now, I’ll show you the explanation. There _is_ a second stain,\nbut it does not correspond with the other. See for yourself.” As\nhe spoke he turned over another portion of the carpet, and there,\nsure enough, was a great crimson spill upon the square white\nfacing of the old-fashioned floor. “What do you make of that, Mr.\nHolmes?”\n\n“Why, it is simple enough. The two stains did correspond, but the\ncarpet has been turned round. As it was square and unfastened it\nwas easily done.”\n\n“The official police don’t need you, Mr. Holmes, to tell them\nthat the carpet must have been turned round. That’s clear enough,\nfor the stains lie above each other—if you lay it over this way.\nBut what I want to know is, who shifted the carpet, and why?”\n\nI could see from Holmes’s rigid face that he was vibrating with\ninward excitement.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_13",
+        "score": 0.5847617387771606,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg108:pg108_story_13:0041:5bc70b87c5fb",
+        "text": "“Well, you know, after a crime of this sort we are very careful\nto keep things in their position. Nothing has been moved. Officer\nin charge here day and night. This morning, as the man was buried\nand the investigation over—so far as this room is concerned—we\nthought we could tidy up a bit. This carpet. You see, it is not\nfastened down, only just laid there. We had occasion to raise it.\nWe found——”\n\n“Yes? You found——”\n\nHolmes’s face grew tense with anxiety.\n\n“Well, I’m sure you would never guess in a hundred years what we\ndid find. You see that stain on the carpet? Well, a great deal\nmust have soaked through, must it not?”\n\n“Undoubtedly it must.”\n\n“Well, you will be surprised to hear that there is no stain on\nthe white woodwork to correspond.”\n\n“No stain! But there must——”\n\n“Yes, so you would say. But the fact remains that there isn’t.”\n\nHe took the corner of the carpet in his hand and, turning it\nover, he showed that it was indeed as he said.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_13",
+        "score": 0.4344106912612915,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg108:pg108_story_10:0059:6b4415415aa4",
+        "text": "On perceiving the similarity of the two corridors, it became\nclear that she might very easily have made such a mistake, and,\nin that case, it was evident that she must have entered the\nprofessor’s room. I was keenly on the alert, therefore, for\nwhatever would bear out this supposition, and I examined the room\nnarrowly for anything in the shape of a hiding-place. The carpet\nseemed continuous and firmly nailed, so I dismissed the idea of a\ntrap-door. There might well be a recess behind the books. As you\nare aware, such devices are common in old libraries. I observed\nthat books were piled on the floor at all other points, but that\none bookcase was left clear. This, then, might be the door. I\ncould see no marks to guide me, but the carpet was of a dun\ncolour, which lends itself very well to examination. I therefore\nsmoked a great number of those excellent cigarettes, and I\ndropped the ash all over the space in front of the suspected\nbookcase.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_10",
+        "score": 0.42249512672424316,
+        "strategy": "dense_day6"
+      }
+    ],
+    "context_ids": [
+      "pg108:pg108_story_13:0042:9640aaf8b897",
+      "pg108:pg108_story_13:0041:5bc70b87c5fb"
+    ],
+    "context": "[pg108:pg108_story_13:0042:9640aaf8b897 | The Return of Sherlock Holmes | page pg108_story_13]\n“But the under side is as stained as the upper. It must have left\na mark.”\n\nLestrade chuckled with delight at having puzzled the famous\nexpert.\n\n“Now, I’ll show you the explanation. There _is_ a second stain,\nbut it does not correspond with the other. See for yourself.” As\nhe spoke he turned over another portion of the carpet, and there,\nsure enough, was a great crimson spill upon the square white\nfacing of the old-fashioned floor. “What do you make of that, Mr.\nHolmes?”\n\n“Why, it is simple enough. The two stains did correspond, but the\ncarpet has been turned round. As it was square and unfastened it\nwas easily done.”\n\n“The official police don’t need you, Mr. Holmes, to tell them\nthat the carpet must have been turned round. That’s clear enough,\nfor the stains lie above each other—if you lay it over this way.\nBut what I want to know is, who shifted the carpet, and why?”\n\nI could see from Holmes’s rigid face that he was vibrating with\ninward excitement.\n\n[pg108:pg108_story_13:0041:5bc70b87c5fb | The Return of Sherlock Holmes | page pg108_story_13]\n“Well, you know, after a crime of this sort we are very careful\nto keep things in their position. Nothing has been moved. Officer\nin charge here day and night. This morning, as the man was buried\nand the investigation over—so far as this room is concerned—we\nthought we could tidy up a bit. This carpet. You see, it is not\nfastened down, only just laid there. We had occasion to raise it.\nWe found——”\n\n“Yes? You found——”\n\nHolmes’s face grew tense with anxiety.\n\n“Well, I’m sure you would never guess in a hundred years what we\ndid find. You see that stain on the carpet? Well, a great deal\nmust have soaked through, must it not?”\n\n“Undoubtedly it must.”\n\n“Well, you will be surprised to hear that there is no stain on\nthe white woodwork to correspond.”\n\n“No stain! But there must——”\n\n“Yes, so you would say. But the fact remains that there isn’t.”\n\nHe took the corner of the carpet in his hand and, turning it\nover, he showed that it was indeed as he said.",
+    "gold": [
+      {
+        "source_id": "pg108",
+        "page": "pg108_story_13",
+        "evidence": "The two stains did correspond, but the carpet has been turned round. As it was square and unfastened it was easily done."
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "context_chars": 2115,
+    "elapsed_ms": null
+  },
+  {
+    "query_id": "SH012",
+    "split": "dev",
+    "strategy": "dense_day6",
+    "question": "In 'The Adventure of the Empty House', what murder drew London's attention in 1894?",
+    "dense_source": "Day 6 materialized strategy B trace",
+    "results": [
+      {
+        "id": "pg108:pg108_story_01:0000:5c8446d0f177",
+        "text": "THE ADVENTURE OF THE EMPTY HOUSE\n\nIt was in the spring of the year 1894 that all London was\ninterested, and the fashionable world dismayed, by the murder of\nthe Honourable Ronald Adair under most unusual and inexplicable\ncircumstances. The public has already learned those particulars\nof the crime which came out in the police investigation, but a\ngood deal was suppressed upon that occasion, since the case for\nthe prosecution was so overwhelmingly strong that it was not\nnecessary to bring forward all the facts. Only now, at the end of\nnearly ten years, am I allowed to supply those missing links\nwhich make up the whole of that remarkable chain. The crime was\nof interest in itself, but that interest was as nothing to me\ncompared to the inconceivable sequel, which afforded me the\ngreatest shock and surprise of any event in my adventurous life.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_01",
+        "score": 0.6533295512199402,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg1661:pg1661_story_05:0022:d4ff87e460bd",
+        "text": "He had, as it appears, been returning from Fareham in\nthe twilight, and as the country was unknown to him, and the chalk-pit\nunfenced, the jury had no hesitation in bringing in a verdict of ‘death\nfrom accidental causes.’ Carefully as I examined every fact connected\nwith his death, I was unable to find anything which could suggest the\nidea of murder. There were no signs of violence, no footmarks, no\nrobbery, no record of strangers having been seen upon the roads. And\nyet I need not tell you that my mind was far from at ease, and that I\nwas well-nigh certain that some foul plot had been woven round him.\n\n“In this sinister way I came into my inheritance. You will ask me why I\ndid not dispose of it? I answer, because I was well convinced that our\ntroubles were in some way dependent upon an incident in my uncle’s\nlife, and that the danger would be as pressing in one house as in\nanother.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_05",
+        "score": 0.5618360638618469,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg108:pg108_story_08:0010:4193e5fa7b18",
+        "text": "“By George! It’s attempted murder at the least. Nothing less will\nhold the London message-boy. There’s a deed of violence indicated\nin that fellow’s round shoulders and outstretched neck. What’s\nthis, Watson? The top steps swilled down and the other ones dry.\nFootsteps enough, anyhow! Well, well, there’s Lestrade at the\nfront window, and we shall soon know all about it.”\n\nThe official received us with a very grave face and showed us\ninto a sitting-room, where an exceedingly unkempt and agitated\nelderly man, clad in a flannel dressing-gown, was pacing up and\ndown. He was introduced to us as the owner of the house—Mr.\nHorace Harker, of the Central Press Syndicate.\n\n“It’s the Napoleon bust business again,” said Lestrade. “You\nseemed interested last night, Mr. Holmes, so I thought perhaps\nyou would be glad to be present now that the affair has taken a\nvery much graver turn.”\n\n“What has it turned to, then?”\n\n“To murder. Mr. Harker, will you tell these gentlemen exactly\nwhat has occurred?”",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_08",
+        "score": 0.5219667553901672,
+        "strategy": "dense_day6"
+      }
+    ],
+    "context_ids": [
+      "pg108:pg108_story_01:0000:5c8446d0f177",
+      "pg1661:pg1661_story_05:0022:d4ff87e460bd"
+    ],
+    "context": "[pg108:pg108_story_01:0000:5c8446d0f177 | The Return of Sherlock Holmes | page pg108_story_01]\nTHE ADVENTURE OF THE EMPTY HOUSE\n\nIt was in the spring of the year 1894 that all London was\ninterested, and the fashionable world dismayed, by the murder of\nthe Honourable Ronald Adair under most unusual and inexplicable\ncircumstances. The public has already learned those particulars\nof the crime which came out in the police investigation, but a\ngood deal was suppressed upon that occasion, since the case for\nthe prosecution was so overwhelmingly strong that it was not\nnecessary to bring forward all the facts. Only now, at the end of\nnearly ten years, am I allowed to supply those missing links\nwhich make up the whole of that remarkable chain. The crime was\nof interest in itself, but that interest was as nothing to me\ncompared to the inconceivable sequel, which afforded me the\ngreatest shock and surprise of any event in my adventurous life.\n\n[pg1661:pg1661_story_05:0022:d4ff87e460bd | The Adventures of Sherlock Holmes | page pg1661_story_05]\nHe had, as it appears, been returning from Fareham in\nthe twilight, and as the country was unknown to him, and the chalk-pit\nunfenced, the jury had no hesitation in bringing in a verdict of ‘death\nfrom accidental causes.’ Carefully as I examined every fact connected\nwith his death, I was unable to find anything which could suggest the\nidea of murder. There were no signs of violence, no footmarks, no\nrobbery, no record of strangers having been seen upon the roads. And\nyet I need not tell you that my mind was far from at ease, and that I\nwas well-nigh certain that some foul plot had been woven round him.\n\n“In this sinister way I came into my inheritance. You will ask me why I\ndid not dispose of it? I answer, because I was well convinced that our\ntroubles were in some way dependent upon an incident in my uncle’s\nlife, and that the danger would be as pressing in one house as in\nanother.",
+    "gold": [
+      {
+        "source_id": "pg108",
+        "page": "pg108_story_01",
+        "evidence": "It was in the spring of the year 1894 that all London was interested, and the fashionable world dismayed, by the murder of the Honourable Ronald Adair"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "context_chars": 1946,
+    "elapsed_ms": null
+  },
+  {
+    "query_id": "SH013",
+    "split": "dev",
+    "strategy": "dense_day6",
+    "question": "In 'The Adventure of the Dancing Men', what did Holmes infer Watson did not intend to do with his small capital?",
+    "dense_source": "Day 6 materialized strategy B trace",
+    "results": [
+      {
+        "id": "pg108:pg108_story_03:0000:4144b374f045",
+        "text": "THE ADVENTURE OF THE DANCING MEN\n\nHolmes had been seated for some hours in silence with his long,\nthin back curved over a chemical vessel in which he was brewing a\nparticularly malodorous product. His head was sunk upon his\nbreast, and he looked from my point of view like a strange, lank\nbird, with dull grey plumage and a black top-knot.\n\n“So, Watson,” said he, suddenly, “you do not propose to invest in\nSouth African securities?”\n\nI gave a start of astonishment. Accustomed as I was to Holmes’s\ncurious faculties, this sudden intrusion into my most intimate\nthoughts was utterly inexplicable.\n\n“How on earth do you know that?” I asked.\n\nHe wheeled round upon his stool, with a steaming test-tube in his\nhand, and a gleam of amusement in his deep-set eyes.\n\n“Now, Watson, confess yourself utterly taken aback,” said he.\n\n“I am.”\n\n“I ought to make you sign a paper to that effect.”\n\n“Why?”\n\n“Because in five minutes you will say that it is all so absurdly\nsimple.”",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_03",
+        "score": 0.7096149921417236,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg834:pg834_story_02:0002:6421df049f0d",
+        "text": "He loved\nto lie in the very centre of five millions of people, with his\nfilaments stretching out and running through them, responsive to\nevery little rumour or suspicion of unsolved crime. Appreciation\nof nature found no place among his many gifts, and his only\nchange was when he turned his mind from the evil-doer of the town\nto track down his brother of the country.\n\nFinding that Holmes was too absorbed for conversation I had\ntossed aside the barren paper, and leaning back in my chair I\nfell into a brown study. Suddenly my companion’s voice broke in\nupon my thoughts:\n\n“You are right, Watson,” said he. “It does seem a most\npreposterous way of settling a dispute.”\n\n“Most preposterous!” I exclaimed, and then suddenly realizing how\nhe had echoed the inmost thought of my soul, I sat up in my chair\nand stared at him in blank amazement.\n\n“What is this, Holmes?” I cried. “This is beyond anything which I\ncould have imagined.”\n\nHe laughed heartily at my perplexity.",
+        "source_id": "pg834",
+        "source": "The Memoirs of Sherlock Holmes",
+        "page": "pg834_story_02",
+        "score": 0.7022857666015625,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg834:pg834_story_08:0034:23bd1401900d",
+        "text": "“You may be sure that I took some precautions. I have one of my\nBaker Street boys mounting guard over him who would stick to him\nlike a burr, go where he might. We shall find him in Hudson\nStreet to-morrow, Watson, and meanwhile I should be the criminal\nmyself if I kept you out of bed any longer.”\n\nIt was midday when we found ourselves at the scene of the\ntragedy, and, under my companion’s guidance, we made our way at\nonce to Hudson Street. In spite of his capacity for concealing\nhis emotions, I could easily see that Holmes was in a state of\nsuppressed excitement, while I was myself tingling with that\nhalf-sporting, half-intellectual pleasure which I invariably\nexperienced when I associated myself with him in his\ninvestigations.\n\n“This is the street,” said he, as we turned into a short\nthoroughfare lined with plain two-storied brick houses. “Ah, here\nis Simpson to report.”\n\n“He’s in all right, Mr. Holmes,” cried a small street Arab,\nrunning up to us.",
+        "source_id": "pg834",
+        "source": "The Memoirs of Sherlock Holmes",
+        "page": "pg834_story_08",
+        "score": 0.6912532448768616,
+        "strategy": "dense_day6"
+      }
+    ],
+    "context_ids": [
+      "pg108:pg108_story_03:0000:4144b374f045",
+      "pg834:pg834_story_02:0002:6421df049f0d"
+    ],
+    "context": "[pg108:pg108_story_03:0000:4144b374f045 | The Return of Sherlock Holmes | page pg108_story_03]\nTHE ADVENTURE OF THE DANCING MEN\n\nHolmes had been seated for some hours in silence with his long,\nthin back curved over a chemical vessel in which he was brewing a\nparticularly malodorous product. His head was sunk upon his\nbreast, and he looked from my point of view like a strange, lank\nbird, with dull grey plumage and a black top-knot.\n\n“So, Watson,” said he, suddenly, “you do not propose to invest in\nSouth African securities?”\n\nI gave a start of astonishment. Accustomed as I was to Holmes’s\ncurious faculties, this sudden intrusion into my most intimate\nthoughts was utterly inexplicable.\n\n“How on earth do you know that?” I asked.\n\nHe wheeled round upon his stool, with a steaming test-tube in his\nhand, and a gleam of amusement in his deep-set eyes.\n\n“Now, Watson, confess yourself utterly taken aback,” said he.\n\n“I am.”\n\n“I ought to make you sign a paper to that effect.”\n\n“Why?”\n\n“Because in five minutes you will say that it is all so absurdly\nsimple.”\n\n[pg834:pg834_story_02:0002:6421df049f0d | The Memoirs of Sherlock Holmes | page pg834_story_02]\nHe loved\nto lie in the very centre of five millions of people, with his\nfilaments stretching out and running through them, responsive to\nevery little rumour or suspicion of unsolved crime. Appreciation\nof nature found no place among his many gifts, and his only\nchange was when he turned his mind from the evil-doer of the town\nto track down his brother of the country.\n\nFinding that Holmes was too absorbed for conversation I had\ntossed aside the barren paper, and leaning back in my chair I\nfell into a brown study. Suddenly my companion’s voice broke in\nupon my thoughts:\n\n“You are right, Watson,” said he. “It does seem a most\npreposterous way of settling a dispute.”\n\n“Most preposterous!” I exclaimed, and then suddenly realizing how\nhe had echoed the inmost thought of my soul, I sat up in my chair\nand stared at him in blank amazement.\n\n“What is this, Holmes?” I cried. “This is beyond anything which I\ncould have imagined.”\n\nHe laughed heartily at my perplexity.",
+    "gold": [
+      {
+        "source_id": "pg108",
+        "page": "pg108_story_03",
+        "evidence": "by an inspection of the groove between your left forefinger and thumb, to feel sure that you did _not_ propose to invest your small capital in the gold fields."
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "context_chars": 2131,
+    "elapsed_ms": null
+  },
+  {
+    "query_id": "SH014",
+    "split": "dev",
+    "strategy": "dense_day6",
+    "question": "In 'The Priory School', who was missing along with Lord Saltire when the roll was called?",
+    "dense_source": "Day 6 materialized strategy B trace",
+    "results": [
+      {
+        "id": "pg108:pg108_story_05:0005:3194a01827fa",
+        "text": "Our visitor had consumed his milk and biscuits. The light had\ncome back to his eyes and the colour to his cheeks, as he set\nhimself with great vigour and lucidity to explain the situation.\n\n“I must inform you, gentlemen, that the Priory is a preparatory\nschool, of which I am the founder and principal. _Huxtable’s\nSidelights on Horace_ may possibly recall my name to your\nmemories. The Priory is, without exception, the best and most\nselect preparatory school in England. Lord Leverstoke, the Earl\nof Blackwater, Sir Cathcart Soames—they all have intrusted their\nsons to me. But I felt that my school had reached its zenith\nwhen, weeks ago, the Duke of Holdernesse sent Mr. James Wilder,\nhis secretary, with intimation that young Lord Saltire, ten years\nold, his only son and heir, was about to be committed to my\ncharge. Little did I think that this would be the prelude to the\nmost crushing misfortune of my life.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_05",
+        "score": 0.6897745132446289,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg108:pg108_story_05:0000:7e93b1186c85",
+        "text": "THE ADVENTURE OF THE PRIORY SCHOOL\n\nWe have had some dramatic entrances and exits upon our small\nstage at Baker Street, but I cannot recollect anything more\nsudden and startling than the first appearance of Thorneycroft\nHuxtable, M.A., Ph.D., etc. His card, which seemed too small to\ncarry the weight of his academic distinctions, preceded him by a\nfew seconds, and then he entered himself—so large, so pompous,\nand so dignified that he was the very embodiment of\nself-possession and solidity. And yet his first action, when the\ndoor had closed behind him, was to stagger against the table,\nwhence he slipped down upon the floor, and there was that\nmajestic figure prostrate and insensible upon our bearskin\nhearth-rug.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_05",
+        "score": 0.5745095014572144,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg108:pg108_story_05:0008:e73e66e94754",
+        "text": "“When Lord Saltire’s disappearance was discovered, I at once\ncalled a roll of the whole establishment—boys, masters, and\nservants. It was then that we ascertained that Lord Saltire had\nnot been alone in his flight. Heidegger, the German master, was\nmissing. His room was on the second floor, at the farther end of\nthe building, facing the same way as Lord Saltire’s. His bed had\nalso been slept in, but he had apparently gone away partly\ndressed, since his shirt and socks were lying on the floor. He\nhad undoubtedly let himself down by the ivy, for we could see the\nmarks of his feet where he had landed on the lawn. His bicycle\nwas kept in a small shed beside this lawn, and it also was gone.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_05",
+        "score": 0.5403704047203064,
+        "strategy": "dense_day6"
+      }
+    ],
+    "context_ids": [
+      "pg108:pg108_story_05:0005:3194a01827fa",
+      "pg108:pg108_story_05:0000:7e93b1186c85"
+    ],
+    "context": "[pg108:pg108_story_05:0005:3194a01827fa | The Return of Sherlock Holmes | page pg108_story_05]\nOur visitor had consumed his milk and biscuits. The light had\ncome back to his eyes and the colour to his cheeks, as he set\nhimself with great vigour and lucidity to explain the situation.\n\n“I must inform you, gentlemen, that the Priory is a preparatory\nschool, of which I am the founder and principal. _Huxtable’s\nSidelights on Horace_ may possibly recall my name to your\nmemories. The Priory is, without exception, the best and most\nselect preparatory school in England. Lord Leverstoke, the Earl\nof Blackwater, Sir Cathcart Soames—they all have intrusted their\nsons to me. But I felt that my school had reached its zenith\nwhen, weeks ago, the Duke of Holdernesse sent Mr. James Wilder,\nhis secretary, with intimation that young Lord Saltire, ten years\nold, his only son and heir, was about to be committed to my\ncharge. Little did I think that this would be the prelude to the\nmost crushing misfortune of my life.\n\n[pg108:pg108_story_05:0000:7e93b1186c85 | The Return of Sherlock Holmes | page pg108_story_05]\nTHE ADVENTURE OF THE PRIORY SCHOOL\n\nWe have had some dramatic entrances and exits upon our small\nstage at Baker Street, but I cannot recollect anything more\nsudden and startling than the first appearance of Thorneycroft\nHuxtable, M.A., Ph.D., etc. His card, which seemed too small to\ncarry the weight of his academic distinctions, preceded him by a\nfew seconds, and then he entered himself—so large, so pompous,\nand so dignified that he was the very embodiment of\nself-possession and solidity. And yet his first action, when the\ndoor had closed behind him, was to stagger against the table,\nwhence he slipped down upon the floor, and there was that\nmajestic figure prostrate and insensible upon our bearskin\nhearth-rug.",
+    "gold": [
+      {
+        "source_id": "pg108",
+        "page": "pg108_story_05",
+        "evidence": "It was then that we ascertained that Lord Saltire had not been alone in his flight. Heidegger, the German master, was missing."
+      }
+    ],
+    "hit1": false,
+    "hit3": true,
+    "context_hit": false,
+    "context_chars": 1829,
+    "elapsed_ms": null
+  },
+  {
+    "query_id": "SH015",
+    "split": "dev",
+    "strategy": "dense_day6",
+    "question": "In 'The Five Orange Pips', what was the weather like as Watson and Holmes sat at Baker Street?",
+    "dense_source": "Day 6 materialized strategy B trace",
+    "results": [
+      {
+        "id": "pg108:pg108_story_05:0030:43d4f9cc31b4",
+        "text": "The day was just breaking when I woke to find the long, thin form\nof Holmes by my bedside. He was fully dressed, and had apparently\nalready been out.\n\n“I have done the lawn and the bicycle shed,” said he. “I have\nalso had a rumble through the Ragged Shaw. Now, Watson, there is\ncocoa ready in the next room. I must beg you to hurry, for we\nhave a great day before us.”\n\nHis eyes shone, and his cheek was flushed with the exhilaration\nof the master workman who sees his work lie ready before him. A\nvery different Holmes, this active, alert man, from the\nintrospective and pallid dreamer of Baker Street. I felt, as I\nlooked upon that supple figure, alive with nervous energy, that\nit was indeed a strenuous day that awaited us.",
+        "source_id": "pg108",
+        "source": "The Return of Sherlock Holmes",
+        "page": "pg108_story_05",
+        "score": 0.5982697010040283,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg1661:pg1661_story_12:0003:182654869a32",
+        "text": "It was a cold morning of the early spring, and we sat after breakfast\non either side of a cheery fire in the old room at Baker Street. A\nthick fog rolled down between the lines of dun-coloured houses, and the\nopposing windows loomed like dark, shapeless blurs through the heavy\nyellow wreaths. Our gas was lit and shone on the white cloth and\nglimmer of china and metal, for the table had not been cleared yet.\nSherlock Holmes had been silent all the morning, dipping continuously\ninto the advertisement columns of a succession of papers until at last,\nhaving apparently given up his search, he had emerged in no very sweet\ntemper to lecture me upon my literary shortcomings.",
+        "source_id": "pg1661",
+        "source": "The Adventures of Sherlock Holmes",
+        "page": "pg1661_story_12",
+        "score": 0.5947766900062561,
+        "strategy": "dense_day6"
+      },
+      {
+        "id": "pg834:pg834_story_08:0034:23bd1401900d",
+        "text": "“You may be sure that I took some precautions. I have one of my\nBaker Street boys mounting guard over him who would stick to him\nlike a burr, go where he might. We shall find him in Hudson\nStreet to-morrow, Watson, and meanwhile I should be the criminal\nmyself if I kept you out of bed any longer.”\n\nIt was midday when we found ourselves at the scene of the\ntragedy, and, under my companion’s guidance, we made our way at\nonce to Hudson Street. In spite of his capacity for concealing\nhis emotions, I could easily see that Holmes was in a state of\nsuppressed excitement, while I was myself tingling with that\nhalf-sporting, half-intellectual pleasure which I invariably\nexperienced when I associated myself with him in his\ninvestigations.\n\n“This is the street,” said he, as we turned into a short\nthoroughfare lined with plain two-storied brick houses. “Ah, here\nis Simpson to report.”\n\n“He’s in all right, Mr. Holmes,” cried a small street Arab,\nrunning up to us.",
+        "source_id": "pg834",
+        "source": "The Memoirs of Sherlock Holmes",
+        "page": "pg834_story_08",
+        "score": 0.5922468900680542,
+        "strategy": "dense_day6"
+      }
+    ],
+    "context_ids": [
+      "pg108:pg108_story_05:0030:43d4f9cc31b4",
+      "pg1661:pg1661_story_12:0003:182654869a32"
+    ],
+    "context": "[pg108:pg108_story_05:0030:43d4f9cc31b4 | The Return of Sherlock Holmes | page pg108_story_05]\nThe day was just breaking when I woke to find the long, thin form\nof Holmes by my bedside. He was fully dressed, and had apparently\nalready been out.\n\n“I have done the lawn and the bicycle shed,” said he. “I have\nalso had a rumble through the Ragged Shaw. Now, Watson, there is\ncocoa ready in the next room. I must beg you to hurry, for we\nhave a great day before us.”\n\nHis eyes shone, and his cheek was flushed with the exhilaration\nof the master workman who sees his work lie ready before him. A\nvery different Holmes, this active, alert man, from the\nintrospective and pallid dreamer of Baker Street. I felt, as I\nlooked upon that supple figure, alive with nervous energy, that\nit was indeed a strenuous day that awaited us.\n\n[pg1661:pg1661_story_12:0003:182654869a32 | The Adventures of Sherlock Holmes | page pg1661_story_12]\nIt was a cold morning of the early spring, and we sat after breakfast\non either side of a cheery fire in the old room at Baker Street. A\nthick fog rolled down between the lines of dun-coloured houses, and the\nopposing windows loomed like dark, shapeless blurs through the heavy\nyellow wreaths. Our gas was lit and shone on the white cloth and\nglimmer of china and metal, for the table had not been cleared yet.\nSherlock Holmes had been silent all the morning, dipping continuously\ninto the advertisement columns of a succession of papers until at last,\nhaving apparently given up his search, he had emerged in no very sweet\ntemper to lecture me upon my literary shortcomings.",
+    "gold": [
+      {
+        "source_id": "pg1661",
+        "page": "pg1661_story_05",
+        "evidence": "All day the wind had screamed and the rain had beaten against the windows"
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "context_chars": 1603,
+    "elapsed_ms": null
+  }
+]

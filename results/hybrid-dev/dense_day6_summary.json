@@ -1,0 +1,20 @@
+{
+  "split": "dev",
+  "method": "Day 6 persisted dense collection B, top-3",
+  "n": 15,
+  "hit_at_1": {
+    "n": 7,
+    "N": 15
+  },
+  "evidence_hit_at_3": {
+    "n": 8,
+    "N": 15
+  },
+  "context_evidence_rate": {
+    "n": 7,
+    "N": 15
+  },
+  "mean_context_chars": 1996,
+  "timing_note": "Existing Day 6 run; per-query timing not stored.",
+  "service_cost_usd": 0
+}
